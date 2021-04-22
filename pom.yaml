@@ -1,0 +1,18 @@
+group: io.hkhc.ccc
+artifactId: ccc
+version: 1.0
+packaging: jar
+description: Chinese Commerce Code handling library
+
+licenses:
+  - name: Apache-2.0
+    dist: repo
+
+developers:
+  - id: hkhc
+    name: Herman Cheung
+    email: herman.kh.cheung+ccc@gmail.com
+
+scm:
+  repoType: github.com
+  repoName: hkhc/ccc
