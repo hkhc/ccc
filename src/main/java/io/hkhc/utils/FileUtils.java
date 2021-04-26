@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. Herman Cheung
+ * Copyright (c) 2021. Herman Cheung
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -12,7 +12,6 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- *
  */
 
 package io.hkhc.utils;
@@ -32,7 +31,7 @@ import java.io.Writer;
 
 @SuppressWarnings({"unused", "WeakerAccess"})
 public class FileUtils {
-	
+
 	private static final String TAG = Consts.logTag("FU");
 
 	private static final FileOptions defaultOptions = new FileOptions();
@@ -50,9 +49,9 @@ public class FileUtils {
 	}
 
 	public static String readStreamToString(InputStream is, FileOptions options) throws IOException {
-		
+
 		Reader r = new InputStreamReader(is, options.getEncoding());
-		
+
 		StringBuilder builder = new StringBuilder();
 
 		char[] buffer = new char[options.getBufferSize()];
@@ -68,9 +67,9 @@ public class FileUtils {
 		finally {
 			r.close();
 		}
-		
+
 		return builder.toString();
-		
+
 	}
 
 	public static byte[] readFileToByteArray(String path) throws IOException {
@@ -136,7 +135,7 @@ public class FileUtils {
 
 	public static void writeStreamToStream(OutputStream os, InputStream is,
 										   FileOptions options) throws IOException {
-		
+
 		byte[] buffer = new byte[options.getBufferSize()];
 		int len;
 		int count = 0;
@@ -162,7 +161,7 @@ public class FileUtils {
 	}
 
 	public static void writeStringToStream(OutputStream os, String value, FileOptions options) throws IOException {
-		
+
 		Writer w = new OutputStreamWriter(os, options.getEncoding());
 		try {
 			w.write(value);
@@ -178,7 +177,7 @@ public class FileUtils {
 	}
 
 	public static void writeBytesToFile(String path, byte[] data, FileOptions options) throws IOException {
-		
+
 		FileOutputStream os = new FileOutputStream(path);
 
 		try {
@@ -187,18 +186,18 @@ public class FileUtils {
 		finally {
 			os.close();
 		}
-		
+
 	}
-	
+
 	public static String getDir(String path) {
 		int index = path.lastIndexOf(File.separator);
 		if (index==-1) return "";
 		else
 			return path.substring(0,index);
 	}
-	
+
 	public static boolean ensureDirectory(String path) {
-		
+
 		File f = new File(path);
         return ensureDirectory(f);
 
@@ -233,11 +232,11 @@ public class FileUtils {
         return deleted;
 
 	}
-	
+
 	public static boolean deleteFolder(File folder) {
 		return deleteFolder(folder, 0, true);
-	}	
-	
+	}
+
 	public static boolean  deleteFolder(File folder, boolean deleteSelf) {
 		return deleteFolder(folder, 0, deleteSelf);
 	}
