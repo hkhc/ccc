@@ -1,0 +1,2020 @@
+
+6000	U+896F	襯	<span class="china1">U+886C	衬</span>
+6001	U+8974	襴
+6002	U+8972	襲	<span class="china1">U+88AD	袭</span>
+6003	U+897C	襼
+6004	U+8976	襶
+6005	U+88CC	裌
+6006	U+897E	襾
+6007	U+897F	西
+6008	U+8981	要
+6009	U+8983	覃
+6010	<span class="c0">U+8986	覆</span>
+6011	U+8987	覇
+6012	U+8988	覈
+6013	U+898A	覊
+6014	<span class="s1">U+93BF	鎿</span>
+6015	U+898B	見	<span class="china1">U+89C1	见</span>
+6016	U+898F	規	<span class="china1">U+89C4	规</span>
+6017	U+8993	覓	<span class="china1">U+89C5	觅</span>
+6018	U+8996	視	<span class="china1">U+89C6	视</span>
+6019	U+8998	覘	<span class="china1">U+89C7	觇</span>
+6020	U+899C	覜
+6021	U+89A1	覡	<span class="china1">U+89CB	觋</span>
+6022	U+89A6	覦	<span class="china1">U+89CE	觎</span>
+6023	U+89A9	覩
+6024	U+89AA	親	<span class="china1">U+4EB2	亲</span>
+6025	U+89AC	覬	<span class="china1">U+89CA	觊</span>
+6026	U+89AF	覯	<span class="china1">U+89CF	觏</span>
+6027	U+89B2	覲	<span class="china1">U+89D0	觐</span>
+6028	U+89B7	覷	<span class="china1">U+89D1	觑</span>
+6029	U+89B5	覵	<span class="china2">U+89C3	觃</span>
+6030	U+89BA	覺	<span class="china1">U+89C9	觉</span>
+6031	U+89BD	覽	<span class="china1">U+89C8	览</span>
+6032	U+89BF	覿	<span class="china1">U+89CC	觌</span>
+6033	U+89A5	覥	<span class="china1">U+89CD	觍</span>
+6034	U+89C0	觀	<span class="china1">U+89C2	观</span>
+6035	U+89BC	覼
+6036	<span class="s1">U+6C16	氖</span>
+6037	U+89D2	角
+6038	U+89D4	觔
+6039	U+89D6	觖
+6040	U+89DA	觚
+6041	U+89DD	觝
+6042	U+89D5	觕
+6043	U+89E3	解
+6044	U+89E5	觥
+6045	U+89E9	觩
+6046	U+89EB	觫
+6047	U+89ED	觭
+6048	U+89F1	觱
+6049	U+89F3	觳
+6050	U+89F4	觴	<span class="china1">U+89DE	觞</span>
+6051	U+89F8	觸	<span class="china1">U+89E6	触</span>
+6052	U+89F6	觶
+6053	U+89FC	觼
+6054	U+89FF	觿
+6055	<span class="s1">U+8418	萘</span>
+6056	U+8A00	言
+6057	U+8A02	訂	<span class="china1">U+8BA2	订</span>
+6058	U+8A03	訃	<span class="china1">U+8BA3	讣</span>
+6059	U+8A07	訇
+6060	U+8A08	計	<span class="china1">U+8BA1	计</span>
+6061	U+8A0A	訊	<span class="china1">U+8BAF	讯</span>
+6062	U+8A0E	討	<span class="china1">U+8BA8	讨</span>
+6063	U+8A10	訐	<span class="china1">U+8BA6	讦</span>
+6064	U+8A13	訓	<span class="china1">U+8BAD	训</span>
+6065	U+8A15	訕	<span class="china1">U+8BAA	讪</span>
+6066	U+8A16	訖	<span class="china1">U+8BAB	讫</span>
+6067	U+8A17	託	<span class="china1">U+8BAC	讬</span>
+6068	U+8A18	記	<span class="china1">U+8BB0	记</span>
+6069	U+8A0C	訌	<span class="china1">U+8BA7	讧</span>
+6070	U+8A0F	訏
+6071	U+8A11	訑
+6072	U+8A12	訒	<span class="china1">U+8BB1	讱</span>
+6073	U+8A1B	訛	<span class="china1">U+8BB9	讹</span>
+6074	U+8A1D	訝	<span class="china1">U+8BB6	讶</span>
+6075	U+8A1F	訟	<span class="china1">U+8BBC	讼</span>
+6076	U+8A23	訣	<span class="china1">U+8BC0	诀</span>
+6077	U+8A25	訥	<span class="china1">U+8BB7	讷</span>
+6078	U+8A2A	訪	<span class="china1">U+8BBF	访</span>
+6079	U+8A31	許	<span class="china1">U+8BB8	许</span>
+6080	U+8A2D	設	<span class="china1">U+8BBE	设</span>
+6081	U+8A29	訩	<span class="china1">U+8BBB	讻</span>
+6082	U+8A22	訢
+6083	U+8A34	訴	<span class="china1">U+8BC9	诉</span>
+6084	U+8A36	訶	<span class="china1">U+8BC3	诃</span>
+6085	U+8A3A	診	<span class="china1">U+8BCA	诊</span>
+6086	U+8A3C	証	<span class="china1">U+8BC1	证</span>
+6087	U+8A3B	註
+6088	U+8A3E	訾
+6089	U+8A41	詁	<span class="china1">U+8BC2	诂</span>
+6090	U+8A46	詆	<span class="china1">U+8BCB	诋</span>
+6091	U+8A48	詈
+6092	U+8A4B	詋
+6093	U+8A4E	詎	<span class="china1">U+8BB5	讵</span>
+6094	U+8A50	詐	<span class="china1">U+8BC8	诈</span>
+6095	U+8A52	詒	<span class="china1">U+8BD2	诒</span>
+6096	U+8A54	詔	<span class="china1">U+8BCF	诏</span>
+6097	U+8A55	評	<span class="china1">U+8BC4	评</span>
+6098	U+8A56	詖
+6099	U+8A58	詘	<span class="china1">U+8BCE	诎</span>
+<a id="s61"></a>
+6100	U+8A5B	詛	<span class="china1">U+8BC5	诅</span>
+6101	U+8A5E	詞	<span class="china1">U+8BCD	词</span>
+6102	U+8A60	詠
+6103	U+8A61	詡	<span class="china1">U+8BE9	诩</span>
+6104	U+8A62	詢	<span class="china1">U+8BE2	询</span>
+6105	U+8A63	詣	<span class="china1">U+8BE3	诣</span>
+6106	U+8A64	詤
+6107	U+8A66	試	<span class="china1">U+8BD5	试</span>
+6108	U+8A69	詩	<span class="china1">U+8BD7	诗</span>
+6109	U+8A6B	詫	<span class="china1">U+8BE7	诧</span>
+6110	U+8A6C	詬	<span class="china1">U+8BDF	诟</span>
+6111	U+8A6D	詭	<span class="china1">U+8BE1	诡</span>
+6112	U+8A6E	詮	<span class="china1">U+8BE0	诠</span>
+6113	U+8A70	詰	<span class="china1">U+8BD8	诘</span>
+6114	U+8A71	話	<span class="china1">U+8BDD	话</span>
+6115	U+8A72	該	<span class="china1">U+8BE5	该</span>
+6116	U+8A73	詳	<span class="china1">U+8BE6	详</span>
+6117	U+8A7C	詼	<span class="china1">U+8BD9	诙</span>
+6118	U+8A7F	詿	<span class="china1">U+8BD6	诖</span>
+6119	U+8A86	誆	<span class="china1">U+8BD3	诓</span>
+6120	U+8A84	誄	<span class="china1">U+8BD4	诔</span>
+6121	U+8A85	誅	<span class="china1">U+8BDB	诛</span>
+6122	U+8A87	誇
+6123	U+8A75	詵
+6124	U+8A79	詹
+6125	U+8A8C	誌
+6126	U+8A8D	認	<span class="china1">U+8BA4	认</span>
+6127	U+8A90	誐
+6128	U+8A91	誑	<span class="china1">U+8BF3	诳</span>
+6129	U+8A93	誓
+6130	U+8A95	誕	<span class="china1">U+8BDE	诞</span>
+6131	U+8A98	誘	<span class="china1">U+8BF1	诱</span>
+6132	U+8A9A	誚	<span class="china1">U+8BEE	诮</span>
+6133	U+8A9E	語	<span class="china1">U+8BED	语</span>
+6134	U+8AA0	誠	<span class="china1">U+8BDA	诚</span>
+6135	U+8AA1	誡	<span class="china1">U+8BEB	诫</span>
+6136	U+8AA3	誣	<span class="china1">U+8BEC	诬</span>
+6137	U+8AA4	誤	<span class="china1">U+8BEF	误</span>
+6138	U+8AA5	誥	<span class="china1">U+8BF0	诰</span>
+6139	U+8AA6	誦	<span class="china1">U+8BF5	诵</span>
+6140	U+8AA8	誨	<span class="china1">U+8BF2	诲</span>
+6141	U+8AAA	說	<span class="china1">U+8BF4	说</span>
+6142	U+8AB0	誰	<span class="china1">U+8C01	谁</span>
+6143	U+8AB2	課	<span class="china1">U+8BFE	课</span>
+6144	U+8AB6	誶	<span class="china1">U+8C07	谇</span>
+6145	U+8AB9	誹	<span class="china1">U+8BFD	诽</span>
+6146	U+8ABC	誼	<span class="china1">U+8C0A	谊</span>
+6147	U+8ABE	誾	<span class="china1">U+8A1A	訚</span>
+6148	U+8ABF	調	<span class="china1">U+8C03	调</span>
+6149	U+8AC2	諂	<span class="china1">U+8C04	谄</span>
+6150	U+8AC4	諄	<span class="china1">U+8C06	谆</span>
+6151	U+8AC7	談	<span class="china1">U+8C08	谈</span>
+6152	U+8AC9	諉	<span class="china1">U+8BFF	诿</span>
+6153	U+8ACB	請	<span class="china1">U+8BF7	请</span>
+6154	U+8ACD	諍	<span class="china1">U+8BE4	诤</span>
+6155	U+8ACF	諏	<span class="china1">U+8BF9	诹</span>
+6156	U+8AD2	諒	<span class="china1">U+8C05	谅</span>
+6157	U+8AD1	諑	<span class="china1">U+8BFC	诼</span>
+6158	U+8AD6	論	<span class="china1">U+8BBA	论</span>
+6159	U+8AD7	諗	<span class="china1">U+8C02	谂</span>
+6160	U+8AD0	諐
+6161	U+8ADB	諛	<span class="china1">U+8C00	谀</span>
+6162	U+8ADD	諝	<span class="china1">U+8C1E	谞</span>
+6163	U+8ADE	諞	<span class="china1">U+8C1D	谝</span>
+6164	U+8ADF	諟
+6165	U+8AE0	諠
+6166	U+8AE4	諤	<span class="china1">U+8C14	谔</span>
+6167	U+8AE6	諦	<span class="china1">U+8C1B	谛</span>
+6168	U+8AE7	諧	<span class="china1">U+8C10	谐</span>
+6169	U+8AEB	諫	<span class="china1">U+8C0F	谏</span>
+6170	U+8AED	諭	<span class="china1">U+8C15	谕</span>
+6171	U+8AEE	諮	<span class="china1">U+8C18	谘</span>
+6172	U+8AF1	諱	<span class="china1">U+8BB3	讳</span>
+6173	U+8AF3	諳	<span class="china1">U+8C19	谙</span>
+6174	U+8AF7	諷	<span class="china1">U+8BBD	讽</span>
+6175	U+8AF8	諸	<span class="china1">U+8BF8	诸</span>
+6176	U+8AFA	諺	<span class="china1">U+8C1A	谚</span>
+6177	U+8AF5	諵
+6178	U+8AFC	諼	<span class="china1">U+8C16	谖</span>
+6179	U+8AFE	諾	<span class="china1">U+8BFA	诺</span>
+6180	U+8B00	謀	<span class="china1">U+8C0B	谋</span>
+6181	U+8B01	謁	<span class="china1">U+8C12	谒</span>
+6182	U+8B02	謂	<span class="china1">U+8C13	谓</span>
+6183	U+8ADC	諜	<span class="china1">U+8C0D	谍</span>
+6184	U+8AE1	諡
+6185	U+8AF4	諴
+6186	U+8AF6	諶	<span class="china1">U+8C0C	谌</span>
+6187	U+8B04	謄	<span class="china1">U+8A8A	誊</span>
+6188	U+8B05	謅	<span class="china1">U+8BCC	诌</span>
+6189	U+8B06	謆
+6190	U+8B07	謇
+6191	<span class="old">U+8B0C	謌</span>	<span class="s2">U+8B6D	譭</span>
+6192	U+8B0A	謊	<span class="china1">U+8C0E	谎</span>
+6193	U+8B0E	謎	<span class="china1">U+8C1C	谜</span>
+6194	U+8B10	謐	<span class="china1">U+8C27	谧</span>
+6195	U+8B14	謔	<span class="china1">U+8C11	谑</span>
+6196	U+8B17	謗	<span class="china1">U+8C24	谤</span>
+6197	U+8B19	謙	<span class="china1">U+8C26	谦</span>
+6198	U+8B1A	謚	<span class="china1">U+8C25	谥</span>
+6199	U+8B1B	講	<span class="china1">U+8BB2	讲</span>
+<a id="s62"></a>
+6200	U+8B1D	謝	<span class="china1">U+8C22	谢</span>
+6201	U+8B1F	謟
+6202	U+8B20	謠	<span class="china1">U+8C23	谣</span>
+6203	U+8B0F	謏
+6204	U+8B16	謖	<span class="china1">U+8C21	谡</span>
+6205	U+8B26	謦
+6206	U+8B28	謨	<span class="china1">U+8C1F	谟</span>
+6207	U+8B2B	謫	<span class="china1">U+8C2A	谪</span>
+6208	U+8B2C	謬	<span class="china1">U+8C2C	谬</span>
+6209	U+8B33	謳	<span class="china1">U+8BB4	讴</span>
+6210	U+8B39	謹	<span class="china1">U+8C28	谨</span>
+6211	U+8B3E	謾	<span class="china1">U+8C29	谩</span>
+6212	U+8B41	譁
+6213	U+8B3F	謿
+6214	U+8B49	證
+6215	U+8B4C	譌
+6216	U+8B4E	譎	<span class="china1">U+8C32	谲</span>
+6217	U+8B4F	譏	<span class="china1">U+8BA5	讥</span>
+6218	U+8B52	譒
+6219	U+8B54	譔
+6220	U+8B56	譖	<span class="china1">U+8C2E	谮</span>
+6221	U+8B58	識	<span class="china1">U+8BC6	识</span>
+6222	U+8B59	譙	<span class="china1">U+8C2F	谯</span>
+6223	U+8B5A	譚	<span class="china1">U+8C2D	谭</span>
+6224	U+8B4D	譍
+6225	U+8B5C	譜	<span class="china1">U+8C31	谱</span>
+6226	U+8B66	警
+6227	U+8B5F	譟
+6228	U+8B6B	譫	<span class="china1">U+8C35	谵</span>
+6229	U+8B6C	譬
+6230	U+8B6F	譯	<span class="china1">U+8BD1	译</span>
+6231	U+8B70	議	<span class="china1">U+8BAE	议</span>
+6232	U+8B74	譴	<span class="china1">U+8C34	谴</span>
+6233	U+8B77	護	<span class="china1">U+62A4	护</span>
+6234	U+8B78	譸	<span class="china1">U+8BEA	诪</span>
+6235	U+8B7D	譽	<span class="china1">U+8A89	誉</span>
+6236	U+8B80	讀	<span class="china1">U+8BFB	读</span>
+6237	U+8B7E	譾	<span class="china1">U+8C2B	谫</span>
+6238	U+8B81	讁
+6239	U+8B8A	變	<span class="china1">U+53D8	变</span>
+6240	U+8B8C	讌
+6241	U+8B8E	讎	<span class="china1">U+96E0	雠</span>
+6242	U+8B8B	讋	<span class="china1">U+8A5F	詟</span>
+6243	U+8B92	讒	<span class="china1">U+8C17	谗</span>
+6244	U+8B96	讖	<span class="china1">U+8C36	谶</span>
+6245	U+8B93	讓	<span class="china1">U+8BA9	让</span>
+6246	U+8B99	讙
+6247	U+8B9A	讚
+6248	U+8B9B	讛
+6249	U+8B9C	讜	<span class="china1">U+8C20	谠</span>
+6250	U+8B9E	讞	<span class="china1">U+8C33	谳</span>
+6251	U+8B9F	讟
+6252	U+8AAF	誯
+6253	U+8C37	谷
+6254	U+8C3F	谿
+6255	U+8C41	豁
+6256	U+8C44	谳
+6257	<span class="s1">U+7847	硇</span>
+6258	U+8C46	豆
+6259	U+8C48	豈	<span class="china1">U+5C82	岂</span>
+6260	U+8C4B	豋
+6261	U+8C4C	豌
+6262	U+8C49	豉
+6263	U+8C47	豇
+6264	U+8C4E	豎
+6265	U+8C50	豐
+6266	U+8C52	豒
+6267	U+8C54	豔
+6268	U+8C4F	豏
+6269	U+8C55	豕
+6270	U+8C5A	豚
+6271	U+8C5D	豝
+6272	U+8C61	象
+6273	U+8C62	豢
+6274	U+8C68	豨
+6275	U+8C6A	豪
+6276	U+8C6B	豫
+6277	U+8C6C	豬
+6278	U+8C6D	豭
+6279	U+8C73	豳
+6280	U+8C75	豵
+6281	<span class="s1">U+922E	鈮</span>
+6282	U+8C78	豸
+6283	U+8C79	豹
+6284	U+8C7A	豺
+6285	U+8C82	貂
+6286	U+8C86	貆
+6287	U+8C85	貅
+6288	U+8C89	貉
+6289	U+8C8A	貊
+6290	U+8C8C	貌
+6291	U+8C8D	貍
+6292	U+8C93	貓
+6293	U+8C94	貔
+6294	U+8C9B	貛
+6295	<span class="s1">U+8132	脲</span>
+6296	U+8C9D	貝	<span class="china1">U+8D1D	贝</span>
+6297	U+8C9E	貞	<span class="china1">U+8D1E	贞</span>
+6298	U+8CA0	負	<span class="china1">U+8D1F	负</span>
+6299	U+8CA1	財	<span class="china1">U+8D22	财</span>
+<a id="s63"></a>
+6300	U+8CA2	貢	<span class="china1">U+8D21	贡</span>
+6301	U+8CA4	貤
+6302	U+8CA7	貧	<span class="china1">U+8D2B	贫</span>
+6303	U+8CA8	貨	<span class="china1">U+8D27	货</span>
+6304	U+8CAA	貪	<span class="china1">U+8D2A	贪</span>
+6305	U+8CA9	販	<span class="china1">U+8D29	贩</span>
+6306	U+8CAB	貫	<span class="china1">U+8D2F	贯</span>
+6307	U+8CAC	責	<span class="china1">U+8D23	责</span>
+6308	U+8CAF	貯	<span class="china1">U+8D2E	贮</span>
+6309	U+8CB2	貲
+6310	U+8CB3	貳	<span class="china1">U+8D30	贰</span>
+6311	U+8CB4	貴	<span class="china1">U+8D35	贵</span>
+6312	U+8CB6	貶	<span class="china1">U+8D2C	贬</span>
+6313	U+8CB8	貸	<span class="china1">U+8D37	贷</span>
+6314	U+8CB7	買	<span class="china1">U+4E70	买</span>
+6315	U+8CBA	貺	<span class="china1">U+8D36	贶</span>
+6316	U+8CBB	費	<span class="china1">U+8D39	费</span>
+6317	U+8CBC	貼	<span class="china1">U+8D34	贴</span>
+6318	U+8CBD	貽	<span class="china1">U+8D3B	贻</span>
+6319	U+8CBF	貿	<span class="china1">U+8D38	贸</span>
+6320	U+8CC0	賀	<span class="china1">U+8D3A	贺</span>
+6321	U+8CC1	賁	<span class="china1">U+8D32	贲</span>
+6322	U+8CB0	貰	<span class="china1">U+8D33	贳</span>
+6323	U+8CC2	賂	<span class="china1">U+8D42	赂</span>
+6324	U+8CC3	賃	<span class="china1">U+8D41	赁</span>
+6325	U+8CC4	賄	<span class="china1">U+8D3F	贿</span>
+6326	U+8CC5	賅	<span class="china1">U+8D45	赅</span>
+6327	U+8CC7	資	<span class="china1">U+8D44	资</span>
+6328	U+8CC8	賈	<span class="china1">U+8D3E	贾</span>
+6329	U+8CCA	賊	<span class="china1">U+8D3C	贼</span>
+6330	U+8CC9	賉
+6331	U+8CD1	賑	<span class="china1">U+8D48	赈</span>
+6332	U+8CD2	賒	<span class="china1">U+8D4A	赊</span>
+6333	U+8CD3	賓	<span class="china1">U+5BBE	宾</span>
+6334	U+8CD5	賕	<span class="china1">U+8D47	赇</span>
+6335	U+8CD9	賙	<span class="china1">U+8D52	赒</span>
+6336	U+8CDA	賚	<span class="china1">U+8D49	赉</span>
+6337	U+8CDC	賜	<span class="china1">U+8D50	赐</span>
+6338	U+8CDD	賝
+6339	U+8CDE	賞	<span class="china1">U+8D4F	赏</span>
+6340	U+8CEB	賫	<span class="china1">U+8D4D	赍</span>
+6341	U+8CE0	賠	<span class="china1">U+8D54	赔</span>
+6342	U+8CE1	賡	<span class="china1">U+8D53	赓</span>
+6343	U+8CE2	賢	<span class="china1">U+8D24	贤</span>
+6344	U+8CE3	賣	<span class="china1">U+5356	卖</span>
+6345	U+8CE4	賤	<span class="china1">U+8D31	贱</span>
+6346	U+8CE6	賦	<span class="china1">U+8D4B	赋</span>
+6347	U+8CEA	質	<span class="china1">U+8D28	质</span>
+6348	U+8CEC	賬	<span class="china1">U+8D26	账</span>
+6349	U+8CDF	賟
+6350	U+8CED	賭	<span class="china1">U+8D4C	赌</span>
+6351	U+8CF4	賴	<span class="china1">U+8D56	赖</span>
+6352	U+8CF5	賵	<span class="china1">U+8D57	赗</span>
+6353	U+8CEE	賮
+6354	U+8CFA	賺	<span class="china1">U+8D5A	赚</span>
+6355	U+8CFB	賻	<span class="china1">U+8D59	赙</span>
+6356	U+8CFC	購	<span class="china1">U+8D2D	购</span>
+6357	U+8CFD	賽	<span class="china1">U+8D5B	赛</span>
+6358	U+8CFE	賾	<span class="china1">U+8D5C	赜</span>
+6359	U+8CF8	賸
+6360	U+8D04	贄	<span class="china1">U+8D3D	贽</span>
+6361	U+8D05	贅	<span class="china1">U+8D58	赘</span>
+6362	U+8D08	贈	<span class="china1">U+8D60	赠</span>
+6363	U+8D0A	贊	<span class="china1">U+8D5E	赞</span>
+6364	U+8D07	贇
+6365	U+8D0D	贍	<span class="china1">U+8D61	赡</span>
+6366	U+8D0F	贏	<span class="china1">U+8D62	赢</span>
+6367	U+8D10	贐	<span class="china1">U+8D46	赆</span>
+6368	U+8D13	贓	<span class="china1">U+8D43	赃</span>
+6369	U+8D14	贔	<span class="china1">U+8D51	赑</span>
+6370	U+8D16	贖	<span class="china1">U+8D4E	赎</span>
+6371	U+8D11	贑
+6372	U+8D17	贗	<span class="china1">U+8D5D	赝</span>
+6373	U+8D1B	贛	<span class="china1">U+8D63	赣</span>
+6374	U+8D09	贉
+6375	U+8D64	赤
+6376	U+8D66	赦
+6377	U+8D67	赧
+6378	U+8D6B	赫
+6379	U+8D6D	赭
+6380	U+8D6C	赬	<span class="china1">U+8D6A	赪</span>
+6381	<span class="s1">U+91F9	釹</span>
+6382	U+8D70	走
+6383	U+8D73	赳
+6384	U+8D74	赴
+6385	U+8D76	赶
+6386	U+8D77	起
+6387	U+8D81	趁
+6388	U+8D84	趄
+6389	U+8D85	超
+6390	U+8D8A	越
+6391	U+8D95	趕
+6392	U+8D99	趙	<span class="china1">U+8D75	赵</span>
+6393	U+8DA3	趣
+6394	U+8DA6	趦	<span class="china1">U+8D91	趑</span>
+6395	U+8DA8	趨	<span class="china1">U+8D8B	趋</span>
+6396	<span class="old">U+8DAF	趯</span>	<span class="s3">U+8D9F	趟</span>
+6397	<span class="s1">U+848E	蒎</span>
+6398	U+8DB3	足
+6399	U+8DB5	趵
+<a id="s64"></a>
+6400	U+8DBE	趾
+6401	<span class="old">U+8DC1	跁</span>	<span class="s3">U+8DF4	跴</span>
+6402	U+8DBA	趺
+6403	U+8DB9	趹
+6404	U+8DC2	跂
+6405	U+8DCB	跋
+6406	U+8DC5	跅
+6407	U+8DCC	跌
+6408	U+8DCE	跎
+6409	U+8DCF	跏
+6410	U+8DD1	跑
+6411	U+8DD5	跕
+6412	U+8DD6	跖
+6413	U+8DDA	跚
+6414	U+8DDB	跛
+6415	U+8DDD	距
+6416	U+8DD7	跗
+6417	U+8DEB	跫
+6418	U+8DDF	跟
+6419	U+8DE1	跡
+6420	U+8DE3	跣
+6421	U+8DE8	跨
+6422	U+8DEA	跪
+6423	U+8DEC	跬
+6424	U+8DEF	路
+6425	<span class="old">U+8DF1	跱</span>	<span class="s2">U+8E29	踩</span>
+6426	U+8DF3	跳
+6427	U+8DFD	跽
+6428	U+8E09	踉
+6429	<span class="c0">U+8E0A	踊</span>
+6430	U+8DFC	跼
+6431	U+8E0F	踏
+6432	U+8E10	踐	<span class="china1">U+8DF5	践</span>
+6433	U+8E14	踔
+6434	U+8E16	踖
+6435	U+8E1D	踝
+6436	U+8E1E	踞
+6437	U+8E22	踢
+6438	U+8E23	踣
+6439	U+8E27	踧
+6440	U+8E18	踘
+6441	U+8E21	踡
+6442	U+8E1F	踟
+6443	<span class="old">U+8E26	踦</span>	<span class="s2">U+8E2E	踮</span>
+6444	U+8E30	踰
+6445	U+8E34	踴
+6446	U+8E35	踵
+6447	<span class="old">U+8E36	踶</span>	<span class="s3">U+8E39	踹</span>
+6448	<span class="old">U+8E46	蹆</span>	<span class="s2">U+8E53	蹓</span>
+6449	U+8E3D	踽
+6450	U+8E41	蹁
+6451	U+8E42	蹂
+6452	U+8E44	蹄
+6453	U+8E31	踱
+6454	U+8E40	蹀
+6455	U+8E50	蹐
+6456	U+8E47	蹇
+6457	U+8E48	蹈
+6458	U+8E49	蹉
+6459	U+8E4A	蹊
+6460	U+8E8D	躍	<span class="china1">U+8DC3	跃</span>
+6461	U+8E4C	蹌	<span class="china1">U+8DC4	跄</span>
+6462	U+8E55	蹕	<span class="china1">U+8DF8	跸</span>
+6463	U+8E54	蹔
+6464	U+8E59	蹙
+6465	U+8E5F	蹟
+6466	U+8E63	蹣	<span class="china1">U+8E52	蹒</span>
+6467	U+8E64	蹤
+6468	U+8E5C	蹜
+6469	<span class="old">U+8E5D	蹝</span>	<span class="s2">U+2812E	&#x2812E;(<script type="text/javascript">disphex("2812E");</script>)</span>
+6470	U+8E60	蹠
+6471	U+8E6F	蹯
+6472	U+8E72	蹲
+6473	U+8E74	蹴
+6474	U+8E76	蹶
+6475	U+8E7A	蹺	<span class="china1">U+8DF7	跷</span>
+6476	U+8E61	蹡
+6477	U+8E62	蹢
+6478	U+8E6C	蹬
+6479	U+8E6D	蹭
+6480	U+8E95	躕
+6481	U+8E81	躁
+6482	U+8E84	躄
+6483	U+8E85	躅
+6484	U+8E87	躇
+6485	U+8E89	躉	<span class="china1">U+8DB8	趸</span>
+6486	U+8E8A	躊	<span class="china1">U+8E0C	踌</span>
+6487	U+8E8B	躋	<span class="china1">U+8DFB	跻</span>
+6488	U+8E4B	蹋
+6489	U+8E90	躐
+6490	U+8E91	躑	<span class="china1">U+8E2F	踯</span>
+6491	U+8E92	躒
+6492	U+8E93	躓	<span class="china1">U+8E2C	踬</span>
+6493	U+8E94	躔
+6494	U+8E9A	躚	<span class="china1">U+8DF9	跹</span>
+6495	U+8EA1	躡	<span class="china1">U+8E51	蹑</span>
+6496	U+8EA9	躩
+6497	U+8EAA	躪	<span class="china1">U+8E8F	躏</span>
+6498	<span class="old">U+8E77	蹷</span>	<span class="s2">U+8E66	蹦</span>
+6499	U+8E5A	蹚
+<a id="s65"></a>
+6500	U+8EAB	身
+6501	U+8EAC	躬
+6502	U+8EAD	躭
+6503	U+8EB1	躱	<span class="china1">U+8EB2	躲</span>
+6504	U+8EC0	軀	<span class="china1">U+8EAF	躯</span>
+6505	U+8EB6	躶
+6506	U+8EC3	軃
+6507	U+8EBA	躺
+6508	U+8ECA	車	<span class="china1">U+8F66	车</span>
+6509	U+8ECB	軋	<span class="china1">U+8F67	轧</span>
+6510	U+8ECC	軌	<span class="china1">U+8F68	轨</span>
+6511	U+8ECD	軍	<span class="china1">U+519B	军</span>
+6512	U+8ECF	軏
+6513	U+8ED2	軒	<span class="china1">U+8F69	轩</span>
+6514	U+8ED4	軔	<span class="china1">U+8F6B	轫</span>
+6515	U+8EDB	軛	<span class="china1">U+8F6D	轭</span>
+6516	U+8EDF	軟	<span class="china1">U+8F6F	软</span>
+6517	U+8EE8	軨	<span class="china2">U+8F71	轱</span>
+6518	U+8EEB	軫	<span class="china1">U+8F78	轸</span>
+6519	U+8EF8	軸	<span class="china1">U+8F74	轴</span>
+6520	U+8EF9	軹	<span class="china1">U+8F75	轵</span>
+6521	U+8EF7	軷	<span class="china2">U+8F77	轷</span>
+6522	U+8EFC	軼	<span class="china1">U+8F76	轶</span>
+6523	U+8EFA	軺	<span class="china1">U+8F7A	轺</span>
+6524	U+8EFE	軾	<span class="china1">U+8F7C	轼</span>
+6525	U+8F03	較	<span class="china1">U+8F83	较</span>
+6526	U+8F05	輅	<span class="china1">U+8F82	辂</span>
+6527	U+8F08	輈
+6528	U+8F09	載	<span class="china1">U+8F7D	载</span>
+6529	U+8F00	輀
+6530	U+8F07	輇
+6531	U+8F0A	輊	<span class="china1">U+8F7E	轾</span>
+6532	U+8F12	輒	<span class="china1">U+8F84	辄</span>
+6533	U+8F13	輓
+6534	U+8F14	輔	<span class="china1">U+8F85	辅</span>
+6535	U+8F15	輕	<span class="china1">U+8F7B	轻</span>
+6536	U+8F17	輗
+6537	U+8F19	輙
+6538	U+8F1B	輛	<span class="china1">U+8F86	辆</span>
+6539	U+8F1C	輜	<span class="china1">U+8F8E	辎</span>
+6540	U+8F1D	輝	<span class="china1">U+8F89	辉</span>
+6541	U+8F1F	輟	<span class="china1">U+8F8D	辍</span>
+6542	U+8F26	輦	<span class="china1">U+8F87	辇</span>
+6543	U+8F29	輩	<span class="china1">U+8F88	辈</span>
+6544	U+8F2A	輪	<span class="china1">U+8F6E	轮</span>
+6545	U+8F1E	輞	<span class="china1">U+8F8B	辋</span>
+6546	U+8F20	輠
+6547	U+8F25	輥	<span class="china1">U+8F8A	辊</span>
+6548	U+8F27	輧
+6549	U+8F2F	輯	<span class="china1">U+8F91	辑</span>
+6550	U+8F33	輳	<span class="china1">U+8F8F	辏</span>
+6551	U+8F38	輸	<span class="china1">U+8F93	输</span>
+6552	U+8F39	輹
+6553	U+8F3B	輻	<span class="china1">U+8F90	辐</span>
+6554	U+8F2D	輭
+6555	U+8F2E	輮
+6556	U+8F34	輴
+6557	U+8F36	輶
+6558	U+8F3E	輾	<span class="china1">U+8F97	辗</span>
+6559	U+8F3F	輿	<span class="china1">U+8206	舆</span>
+6560	U+8F42	轂	<span class="china1">U+6BC2	毂</span>
+6561	U+8F44	轄	<span class="china1">U+8F96	辖</span>
+6562	U+8F45	轅	<span class="china1">U+8F95	辕</span>
+6563	U+8F40	轀
+6564	U+8F46	轆	<span class="china1">U+8F98	辘</span>
+6565	U+8F47	轇
+6566	U+8F55	轕
+6567	U+8F49	轉	<span class="china1">U+8F6C	转</span>
+6568	U+8F4D	轍	<span class="china1">U+8F99	辙</span>
+6569	U+8F4E	轎	<span class="china1">U+8F7F	轿</span>
+6570	U+8F4F	轏
+6571	U+8F52	轒
+6572	U+8F56	轖
+6573	U+8F58	轘
+6574	U+8F5E	轞
+6575	U+8F5F	轟	<span class="china1">U+8F70	轰</span>
+6576	U+8F61	轡	<span class="china1">U+8F94	辔</span>
+6577	U+8F62	轢	<span class="china1">U+8F79	轹</span>
+6578	U+8F64	轤	<span class="china1">U+8F73	轳</span>
+6579	U+8ED5	軕
+6580	U+8F9B	辛
+6581	U+8F9C	辜
+6582	U+8F9F	辟
+6583	U+8FA0	辠
+6584	U+8FA3	辣
+6585	U+8FA5	辥
+6586	U+8FA6	辦	<span class="china1">U+529E	办</span>
+6587	U+8FA8	辨
+6588	U+8FAD	辭	<span class="china1">U+8F9E	辞</span>
+6589	U+8FAF	辯	<span class="china1">U+8FA9	辩</span>
+6590	<span class="s1">U+802A	耪</span>
+6591	U+8FB0	辰
+6592	U+8FB1	辱
+6593	U+8FB2	農	<span class="china1">U+519C	农</span>
+6594	<span class="s1">U+72CD	狍</span>
+6595	U+8FB5	辵
+6596	U+8FC2	迂
+6597	U+8FC4	迄
+6598	U+8FC5	迅
+6599	U+8FCB	迋
+<a id="s66"></a>
+6600	U+8FCD	迍
+6601	U+8FCE	迎
+6602	U+8FD1	近
+6603	U+8FD3	迓
+6604	U+8FD4	返
+6605	U+8FD5	迕
+6606	U+8FE2	迢
+6607	U+8FE4	迤
+6608	U+8FE5	迥
+6609	U+8FE6	迦
+6610	U+8FE8	迨
+6611	U+8FEA	迪
+6612	U+8FEB	迫
+6613	U+8FED	迭
+6614	<span class="old">U+8FEE	迮</span>	<span class="s3">U+9004	逄</span>
+6615	U+8FF0	述
+6616	U+8FF4	迴
+6617	U+8FF7	迷
+6618	U+8FF8	迸
+6619	U+8FF9	迹
+6620	U+8FFD	追
+6621	U+8FFA	迺
+6622	U+9000	退
+6623	U+9001	送
+6624	U+9002	适
+6625	U+9003	逃
+6626	U+9005	逅
+6627	U+9006	逆
+6628	U+900B	逋
+6629	<span class="old">U+900C	逌</span>	<span class="s3">U+902F	逯</span>
+6630	U+900D	逍
+6631	U+900F	透
+6632	U+9010	逐
+6633	U+9011	逑
+6634	U+9014	途
+6635	U+9015	逕	<span class="china1">U+8FF3	迳</span>
+6636	U+9016	逖
+6637	U+9017	逗
+6638	U+9019	這	<span class="china1">U+8FD9	这</span>
+6639	U+901A	通
+6640	U+901B	逛
+6641	U+901D	逝
+6642	U+901E	逞
+6643	U+901F	速
+6644	U+9020	造
+6645	U+9021	逡
+6646	U+9022	逢
+6647	U+9023	連	<span class="china1">U+8FDE	连</span>
+6648	U+902D	逭
+6649	U+902E	逮
+6650	U+9031	週
+6651	U+9032	進	<span class="china1">U+8FDB	进</span>
+6652	U+9035	逵
+6653	U+9036	逶
+6654	U+9038	逸
+6655	U+9037	逷
+6656	U+903C	逼
+6657	U+9047	遇
+6658	U+9041	遁
+6659	U+9042	遂
+6660	U+9044	遄
+6661	U+903E	逾
+6662	U+904A	遊
+6663	U+904B	運	<span class="china1">U+8FD0	运</span>
+6664	U+904D	遍
+6665	U+904E	過	<span class="china1">U+8FC7	过</span>
+6666	U+904F	遏
+6667	U+9050	遐
+6668	U+9051	遑
+6669	U+9052	遒
+6670	U+9053	道
+6671	U+9054	達	<span class="china1">U+8FBE	达</span>
+6672	U+9055	違	<span class="china1">U+8FDD	违</span>
+6673	U+9058	遘
+6674	U+9059	遙	<span class="china1">U+9065	遥</span>
+6675	U+905B	遛
+6676	U+905C	遜	<span class="china1">U+900A	逊</span>
+6677	U+905E	遞	<span class="china1">U+9012	递</span>
+6678	U+9060	遠	<span class="china1">U+8FDC	远</span>
+6679	U+9061	遡
+6680	U+9063	遣
+6681	U+9062	遢
+6682	U+905D	遝
+6683	U+9068	遨
+6684	U+9069	適
+6685	U+906D	遭
+6686	U+906E	遮
+6687	U+906F	遯
+6688	U+9072	遲	<span class="china1">U+8FDF	迟</span>
+6689	U+9074	遴
+6690	U+9075	遵
+6691	U+9076	遶
+6692	U+9077	遷	<span class="china1">U+8FC1	迁</span>
+6693	U+9078	選	<span class="china1">U+9009	选</span>
+6694	U+9079	遹
+6695	U+907A	遺	<span class="china1">U+9057	遗</span>
+6696	<span class="old">U+907B	遻</span>	<span class="s2">U+9046	遆</span>
+6697	U+907C	遼	<span class="china1">U+8FBD	辽</span>
+6698	U+907D	遽
+6699	U+907F	避
+<a id="s67"></a>
+6700	U+9080	邀
+6701	U+9081	邁	<span class="china1">U+8FC8	迈</span>
+6702	U+9082	邂
+6703	U+9084	還	<span class="china1">U+8FD8	还</span>
+6704	U+9085	邅
+6705	U+9087	邇	<span class="china1">U+8FE9	迩</span>
+6706	U+9083	邃
+6707	U+9088	邈
+6708	U+908A	邊	<span class="china1">U+8FB9	边</span>
+6709	U+908F	邏	<span class="china1">U+903B	逻</span>
+6710	U+9090	邐	<span class="china1">U+9026	逦</span>
+6711	<span class="old">U+8FFB	迻</span>	<span class="s1">U+75B1	疱</span>
+6712	U+9091	邑
+6713	U+909B	邛
+6714	U+9097	邗
+6715	U+9099	邙
+6716	U+9095	邕
+6717	U+90A2	邢
+6718	<span class="s2">U+912E	鄮</span>
+6719	U+90A3	那
+6720	U+90A1	邡
+6721	U+90A6	邦
+6722	U+90A8	邨
+6723	U+90AA	邪
+6724	U+90A0	邠
+6725	U+90AF	邯
+6726	U+90B1	邱
+6727	U+90B2	邲
+6728	U+90B4	邴
+6729	U+90B3	邳
+6730	U+90B5	邵
+6731	U+90B6	邶
+6732	U+90B8	邸
+6733	U+90B0	邰
+6734	U+90BD	邽
+6735	U+90C1	郁
+6736	U+90C5	郅
+6737	U+90C7	郇
+6738	U+90CA	郊
+6739	U+90BE	邾
+6740	U+90C3	郃
+6741	<span class="old">U+90C9	郉</span>	<span class="s3">U+90D7	郗</span>
+6742	U+90C4	郄
+6743	U+90D5	郕
+6744	U+90DB	郛
+6745	U+90CE	郎
+6746	U+90E1	郡
+6747	U+90E2	郢
+6748	U+90E4	郤
+6749	U+90D9	郙
+6750	U+90DC	郜
+6751	U+90DF	郟	<span class="china1">U+90CF	郏</span>
+6752	U+90E8	部
+6753	U+90ED	郭
+6754	U+90F4	郴
+6755	U+90F5	郵	<span class="china1">U+90AE	邮</span>
+6756	U+90EF	郯
+6757	U+90FD	都
+6758	U+90FF	郿
+6759	U+9102	鄂
+6760	U+9112	鄒	<span class="china1">U+90B9	邹</span>
+6761	U+9104	鄄
+6762	U+9114	鄔	<span class="china1">U+90AC	邬</span>
+6763	U+9109	鄉	<span class="china1">U+4E61	乡</span>
+6764	U+9117	鄗	<span class="china2">U+910C	鄌</span>
+6765	U+9116	鄖	<span class="china1">U+90E7	郧</span>
+6766	U+9119	鄙
+6767	U+9118	鄘
+6768	U+9122	鄢
+6769	U+911E	鄞
+6770	U+9120	鄠
+6771	U+911C	鄜
+6772	U+9127	鄧	<span class="china1">U+9093	邓</span>
+6773	U+912B	鄫
+6774	U+912D	鄭	<span class="china1">U+90D1	郑</span>
+6775	U+9130	鄰	<span class="china1">U+90BB	邻</span>
+6776	U+9131	鄱
+6777	U+9134	鄴	<span class="china1">U+90BA	邺</span>
+6778	U+9136	鄶	<span class="china1">U+90D0	郐</span>
+6779	U+9132	鄲	<span class="china1">U+90F8	郸</span>
+6780	U+9139	鄹
+6781	<span class="old">U+913F	鄿</span>	<span class="s3">U+912F	鄯</span>
+6782	U+913A	鄺	<span class="china1">U+909D	邝</span>
+6783	U+9147	酇	<span class="china1">U+9142	酂</span>
+6784	U+9143	酃
+6785	U+9146	酆
+6786	U+9148	酈	<span class="china1">U+90E6	郦</span>
+6787	U+90DD	郝
+6788	U+9149	酉
+6789	U+914A	酊
+6790	U+914B	酋
+6791	U+914C	酌
+6792	U+914D	配
+6793	U+914E	酎
+6794	U+9152	酒
+6795	U+9156	酖
+6796	U+9157	酗
+6797	U+9162	酢
+6798	U+9165	酥
+6799	U+9163	酣
+<a id="s68"></a>
+6800	U+9164	酤
+6801	U+9161	酡
+6802	U+9169	酩
+6803	U+916A	酪
+6804	U+916C	酬
+6805	U+9172	酲
+6806	U+9175	酵
+6807	U+9177	酷
+6808	U+9178	酸
+6809	U+9174	酴
+6810	U+9179	酹
+6811	U+917A	酺	<span class="china2">U+915E	酞</span>
+6812	U+9183	醃
+6813	U+9185	醅
+6814	U+9186	醆
+6815	U+9187	醇
+6816	U+9189	醉
+6817	U+918A	醊
+6818	U+918B	醋
+6819	U+918D	醍
+6820	U+9190	醐
+6821	U+9192	醒
+6822	U+9193	醓
+6823	U+919C	醜
+6824	U+919E	醞	<span class="china1">U+915D	酝</span>
+6825	U+91A1	醡
+6826	U+91A2	醢
+6827	U+91A9	醩
+6828	U+91AA	醪
+6829	U+91AB	醫	<span class="china1">U+533B	医</span>
+6830	U+91AC	醬
+6831	U+91AE	醮
+6832	U+91AF	醯
+6833	U+91B4	醴
+6834	U+91B2	醲
+6835	U+91B5	醵
+6836	U+91BA	醺
+6837	U+91BD	醽
+6838	U+9181	醁
+6839	U+91BC	醼
+6840	U+91C0	釀	<span class="china1">U+917F	酿</span>
+6841	U+91C1	釁
+6842	U+91C2	釂
+6843	U+91C4	釄
+6844	<span class="old">U+91B1	醱</span>	<span class="s1">U+9307	錇</span>
+6845	U+91C6	釆
+6846	U+91C7	采
+6847	U+91CB	釋	<span class="china1">U+91CA	释</span>
+6848	U+91C9	釉
+6849	U+91CC	里
+6850	U+91CD	重
+6851	U+91CE	野
+6852	U+91CF	量
+6853	U+91D0	釐
+6854	U+92C5	鋅	<span class="china1">U+950C	锌</span>
+6855	U+91D1	金
+6856	U+91D7	釗	<span class="china1">U+948A	钊</span>
+6857	U+91D8	釘	<span class="china1">U+9489	钉</span>
+6858	U+91DC	釜
+6859	U+91DD	針	<span class="china1">U+9488	针</span>
+6860	U+91E3	釣	<span class="china1">U+9493	钓</span>
+6861	U+91E7	釧	<span class="china1">U+948F	钏</span>
+6862	<span class="old">U+91EC	釬</span>	<span class="s3">U+9223	鈣</span>
+6863	U+91E6	釦
+6864	U+91ED	釭
+6865	U+91F5	釵	<span class="china1">U+9497	钗</span>
+6866	U+9207	鈇
+6867	U+9200	鈀	<span class="china1">U+94AF	钯</span>
+6868	U+920D	鈍	<span class="china1">U+949D	钝</span>
+6869	U+920E	鈎	<span class="china1">U+94A9	钩</span>
+6870	U+9210	鈐	<span class="china1">U+94A4	钤</span>
+6871	<span class="old">U+9212	鈒</span>	<span class="s3">U+9209	鈉</span>
+6872	U+9214	鈔	<span class="china1">U+949E	钞</span>
+6873	U+9215	鈕	<span class="china1">U+94AE	钮</span>
+6874	U+921E	鈞	<span class="china1">U+94A7	钧</span>
+6875	U+9234	鈴	<span class="china1">U+94C3	铃</span>
+6876	U+9238	鈸	<span class="china1">U+94B9	钹</span>
+6877	U+923A	鈺	<span class="china1">U+94B0	钰</span>
+6878	U+9241	鉁
+6879	U+923F	鈿	<span class="china1">U+94BF	钿</span>
+6880	U+9245	鉅	<span class="china1">U+949C	钜</span>
+6881	U+9249	鉉	<span class="china1">U+94C9	铉</span>
+6882	U+924F	鉏
+6883	U+9257	鉗	<span class="china1">U+94B3	钳</span>
+6884	U+925B	鉛	<span class="china1">U+94C5	铅</span>
+6885	U+925E	鉞	<span class="china1">U+94BA	钺</span>
+6886	U+9262	鉢	<span class="china1">U+94B5	钵</span>
+6887	U+9264	鉤
+6888	U+924B	鉋	<span class="china1">U+94C7	铇</span>
+6889	U+9276	鉶	<span class="china1">U+94CF	铏</span>
+6890	U+9278	鉸	<span class="china1">U+94F0	铰</span>
+6891	U+9266	鉦	<span class="china1">U+94B2	钲</span>
+6892	U+9280	銀	<span class="china1">U+94F6	银</span>
+6893	U+9283	銃	<span class="china1">U+94F3	铳</span>
+6894	U+9285	銅	<span class="china1">U+94DC	铜</span>
+6895	<span class="old">U+928E	銎</span>	<span class="s3">U+9237	鈷</span>
+6896	<span class="old">U+928D	銍</span>	<span class="s3">U+9251	鉑</span>
+6897	U+9291	銑	<span class="china1">U+94E3	铣</span>
+6898	U+9293	銓	<span class="china1">U+94E8	铨</span>
+6899	U+9296	銖	<span class="china1">U+94E2	铢</span>
+<a id="s69"></a>
+6900	U+9298	銘	<span class="china1">U+94ED	铭</span>
+6901	U+929B	銛	<span class="china1">U+94E6	铦</span>
+6902	U+929C	銜	<span class="china1">U+8854	衔</span>
+6903	U+929A	銚	<span class="china1">U+94EB	铫</span>
+6904	U+92B3	銳	<span class="china1">U+9510	锐</span>
+6905	<span class="old">U+92B6	銶</span>	<span class="s3">U+9240	鉀</span>
+6906	U+92B7	銷	<span class="china1">U+9500	销</span>
+6907	U+92B9	銹	<span class="china1">U+9508	锈</span>
+6908	U+92BC	銼	<span class="china1">U+9509	锉</span>
+6909	U+92C8	鋈	<span class="china2">U+94F9	铹</span>
+6910	U+92CC	鋌	<span class="china1">U+94E4	铤</span>
+6911	U+92CF	鋏	<span class="china1">U+94D7	铗</span>
+6912	U+92D2	鋒	<span class="china1">U+950B	锋</span>
+6913	U+92DF	鋟	<span class="china1">U+9513	锓</span>
+6914	<span class="old">U+92D8	鋘</span>	<span class="s3">U+923E	鈾</span>
+6915	U+92E4	鋤	<span class="china1">U+9504	锄</span>
+6916	U+92E9	鋩	<span class="china1">U+94D3	铓</span>
+6917	U+92EA	鋪	<span class="china1">U+94FA	铺</span>
+6918	U+92D9	鋙	<span class="china1">U+94FB	铻</span>
+6919	U+92B2	銲
+6920	U+92F8	鋸	<span class="china1">U+952F	锯</span>
+6921	U+92FC	鋼	<span class="china1">U+94A2	钢</span>
+6922	U+9304	錄	<span class="china1">U+5F55	录</span>
+6923	U+9310	錐	<span class="china1">U+9525	锥</span>
+6924	U+9315	錕	<span class="china1">U+951F	锟</span>
+6925	U+9318	錘	<span class="china1">U+9524	锤</span>
+6926	U+9319	錙	<span class="china1">U+9531	锱</span>
+6927	U+931A	錚	<span class="china1">U+94EE	铮</span>
+6928	U+9320	錠	<span class="china1">U+952D	锭</span>
+6929	U+9322	錢	<span class="china1">U+94B1	钱</span>
+6930	U+9326	錦	<span class="china1">U+9526	锦</span>
+6931	U+9328	錨	<span class="china1">U+951A	锚</span>
+6932	U+932B	錫	<span class="china1">U+9521	锡</span>
+6933	U+932E	錮	<span class="china1">U+9522	锢</span>
+6934	U+932F	錯	<span class="china1">U+9519	错</span>
+6935	U+931E	錞	<span class="china2">U+951B	锛</span>
+6936	U+9321	錡	<span class="china1">U+951C	锜</span>
+6937	U+934A	鍊
+6938	U+934B	鍋	<span class="china1">U+9505	锅</span>
+6939	U+935B	鍛	<span class="china1">U+953B	锻</span>
+6940	<span class="old">U+936A	鍪</span>	<span class="s3">U+924D	鉍</span>
+6941	<span class="old">U+936B	鍫</span>	<span class="s2">U+92A8	銨</span>
+6942	U+936C	鍬	<span class="china1">U+9539	锹</span>
+6943	U+9375	鍵	<span class="china1">U+952E	键</span>
+6944	U+937C	鍼
+6945	U+937E	鍾	<span class="china1">U+953A	锺</span>
+6946	U+9347	鍇	<span class="china1">U+9534	锴</span>
+6947	U+934D	鍍	<span class="china1">U+9540	镀</span>
+6948	U+9354	鍔	<span class="china1">U+9537	锷</span>
+6949	U+9360	鍠	<span class="china1">U+953D	锽</span>
+6950	U+9364	鍤	<span class="china1">U+9538	锸</span>
+6951	U+9365	鍥	<span class="china1">U+9532	锲</span>
+6952	U+936D	鍭
+6953	U+9370	鍰	<span class="china1">U+953E	锾</span>
+6954	U+9394	鎔
+6955	<span class="old">U+9389	鎉</span>	<span class="s3">U+92BE	銾</span>
+6956	U+9396	鎖	<span class="china1">U+9501	锁</span>
+6957	U+9397	鎗
+6958	U+939A	鎚
+6959	U+939B	鎛	<span class="china2">U+9518	锘</span>
+6960	U+939E	鎞
+6961	U+93A1	鎡	<span class="china1">U+9543	镃</span>
+6962	U+938C	鎌
+6963	U+93A7	鎧	<span class="china1">U+94E0	铠</span>
+6964	U+93AC	鎬	<span class="china1">U+9550	镐</span>
+6965	U+93B0	鎰	<span class="china1">U+9552	镒</span>
+6966	U+93AE	鎮	<span class="china1">U+9547	镇</span>
+6967	U+938A	鎊	<span class="china1">U+9551	镑</span>
+6968	U+93C3	鏃	<span class="china1">U+955E	镞</span>
+6969	U+93C8	鏈	<span class="china1">U+94FE	链</span>
+6970	U+93D1	鏑	<span class="china1">U+955D	镝</span>
+6971	U+93D6	鏖
+6972	U+93D7	鏗	<span class="china1">U+94FF	铿</span>
+6973	U+93D8	鏘	<span class="china1">U+9535	锵</span>
+6974	U+93DC	鏜	<span class="china1">U+9557	镗</span>
+6975	U+93E1	鏡	<span class="china1">U+955C	镜</span>
+6976	U+93DD	鏝	<span class="china1">U+9558	镘</span>
+6977	U+93E2	鏢	<span class="china1">U+9556	镖</span>
+6978	U+93DE	鏞	<span class="china1">U+955B	镛</span>
+6979	U+93E4	鏤	<span class="china1">U+9542	镂</span>
+6980	U+93DF	鏟	<span class="china1">U+94F2	铲</span>
+6981	U+93D0	鏐
+6982	<span class="old">U+93E6	鏦</span>	<span class="s3">U+92BB	銻</span>
+6983	U+93E8	鏨	<span class="china1">U+933E	錾</span>
+6984	U+9403	鐃	<span class="china1">U+94D9	铙</span>
+6985	U+93F5	鏵	<span class="china1">U+94E7	铧</span>
+6986	<span class="old">U+9413	鐓</span>	<span class="s3">U+92C1	鋁</span>
+6987	U+93F9	鏹	<span class="china1">U+956A	镪</span>
+6988	U+9418	鐘	<span class="china1">U+949F	钟</span>
+6989	U+9419	鐙	<span class="china1">U+956B	镫</span>
+6990	U+942B	鐫	<span class="china1">U+954C	镌</span>
+6991	U+942E	鐮	<span class="china1">U+9570	镰</span>
+6992	U+9432	鐲	<span class="china1">U+956F	镯</span>
+6993	U+9435	鐵	<span class="china1">U+94C1	铁</span>
+6994	U+9436	鐶	<span class="china1">U+956E	镮</span>
+6995	U+9438	鐸	<span class="china1">U+94CE	铎</span>
+6996	<span class="old">U+9429	鐩</span>	<span class="s3">U+93B3	鎳</span>
+6997	U+943A	鐺	<span class="china1">U+94DB	铛</span>
+6998	U+943B	鐻
+6999	U+9444	鑄	<span class="china1">U+94F8	铸</span>
+<a id="s70"></a>
+7000	U+944A	鑊	<span class="china1">U+956C	镬</span>
+7001	U+944C	鑌	<span class="china1">U+9554	镔</span>
+7002	U+9451	鑑
+7003	U+9452	鑒	<span class="china1">U+9274	鉴</span>
+7004	U+9464	鑤
+7005	<span class="old">U+9455	鑕</span>	<span class="s3">U+93A2	鎢</span>
+7006	U+945B	鑛
+7007	U+9460	鑠	<span class="china1">U+94C4	铄</span>
+7008	U+9462	鑢
+7009	U+9463	鑣	<span class="china1">U+9573	镳</span>
+7010	U+946A	鑪
+7011	U+9470	鑰	<span class="china1">U+94A5	钥</span>
+7012	<span class="old">U+946F	鑯</span>	<span class="s3">U+9433	鐳</span>
+7013	U+9472	鑲	<span class="china1">U+9576	镶</span>
+7014	U+9475	鑵
+7015	U+9477	鑷	<span class="china1">U+954A	镊</span>
+7016	U+9471	鑱	<span class="china1">U+9575	镵</span>
+7017	U+947C	鑼	<span class="china1">U+9523	锣</span>
+7018	U+947D	鑽
+7019	U+947E	鑾	<span class="china1">U+92AE	銮</span>
+7020	U+947F	鑿	<span class="china1">U+51FF	凿</span>
+7021	U+9333	錳	<span class="china1">U+9530	锰</span>
+7022	U+9577	長	<span class="china1">U+957F	长</span>
+7023	<span class="s1">U+8731	蜱</span>
+7024	U+9580	門	<span class="china1">U+95E8	门</span>
+7025	U+9582	閂	<span class="china1">U+95E9	闩</span>
+7026	U+9583	閃	<span class="china1">U+95EA	闪</span>
+7027	U+9586	閆	<span class="china1">U+95EB	闫</span>
+7028	U+9589	閉	<span class="china1">U+95ED	闭</span>
+7029	U+9588	閈	<span class="china1">U+95EC	闬</span>
+7030	U+958B	開	<span class="china1">U+5F00	开</span>
+7031	U+958E	閎	<span class="china1">U+95F3	闳</span>
+7032	U+958F	閏	<span class="china1">U+95F0	闰</span>
+7033	U+9591	閑	<span class="china1">U+95F2	闲</span>
+7034	U+9592	閒
+7035	U+9593	間	<span class="china1">U+95F4	间</span>
+7036	U+9594	閔	<span class="china1">U+95F5	闵</span>
+7037	U+9598	閘	<span class="china1">U+95F8	闸</span>
+7038	U+959F	閟
+7039	U+95A1	閡	<span class="china1">U+9602	阂</span>
+7040	U+95A4	閤
+7041	U+95A3	閣	<span class="china1">U+9601	阁</span>
+7042	U+95A5	閥	<span class="china1">U+9600	阀</span>
+7043	U+95A8	閨	<span class="china1">U+95FA	闺</span>
+7044	U+95A9	閩	<span class="china1">U+95FD	闽</span>
+7045	U+95AB	閫	<span class="china1">U+9603	阃</span>
+7046	U+95AC	閬	<span class="china1">U+9606	阆</span>
+7047	U+95AD	閭	<span class="china1">U+95FE	闾</span>
+7048	U+95B1	閱	<span class="china1">U+9605	阅</span>
+7049	U+95B6	閶	<span class="china1">U+960A	阊</span>
+7050	U+95B9	閹	<span class="china1">U+9609	阉</span>
+7051	U+95BB	閻	<span class="china1">U+960E	阎</span>
+7052	U+95BC	閼	<span class="china1">U+960F	阏</span>
+7053	U+95BD	閽	<span class="china1">U+960D	阍</span>
+7054	U+95BE	閾	<span class="china1">U+9608	阈</span>
+7055	U+95C3	闃	<span class="china1">U+9612	阒</span>
+7056	U+95C7	闇
+7057	U+95C8	闈	<span class="china1">U+95F1	闱</span>
+7058	U+95C9	闉
+7059	U+95CA	闊	<span class="china1">U+6FF6	濶</span>
+7060	U+95CB	闋	<span class="china1">U+9615	阕</span>
+7061	U+95CC	闌	<span class="china1">U+9611	阑</span>
+7062	U+95CD	闍	<span class="china1">U+9607	阇</span>
+7063	U+95D0	闐	<span class="china1">U+9617	阗</span>
+7064	<span class="old">U+95D1	闑</span>	<span class="s3">U+95BF	閿</span>
+7065	U+95D3	闓	<span class="china1">U+95FF	闿</span>
+7066	U+95D4	闔	<span class="china1">U+9616	阖</span>
+7067	U+95D5	闕	<span class="china1">U+9619	阙</span>
+7068	U+95D6	闖	<span class="china1">U+95EF	闯</span>
+7069	U+95D2	闒
+7070	U+95DC	關	<span class="china1">U+5173	关</span>
+7071	U+95DA	闚
+7072	U+95E0	闠	<span class="china1">U+9613	阓</span>
+7073	U+95E1	闡	<span class="china1">U+9610	阐</span>
+7074	U+95DE	闞	<span class="china1">U+961A	阚</span>
+7075	U+95E2	闢
+7076	U+95E4	闤	<span class="china1">U+961B	阛</span>
+7077	U+95E5	闥	<span class="china1">U+95FC	闼</span>
+7078	U+95C6	闆
+7079	U+961C	阜
+7080	U+961D	阝
+7081	U+961E	阞
+7082	U+9621	阡
+7083	U+9624	阤
+7084	U+9628	阨
+7085	U+962C	阬
+7086	U+962E	阮
+7087	U+962F	阯
+7088	U+9631	阱
+7089	U+9632	防
+7090	U+962A	阪
+7091	U+963B	阻
+7092	U+963C	阼
+7093	U+963F	阿
+7094	U+9640	陀
+7095	U+9642	陂
+7096	U+9644	附
+7097	U+964B	陋
+7098	U+9650	限
+7099	U+964C	陌
+<a id="s71"></a>
+7100	U+964D	降
+7101	U+9654	陔
+7102	U+9658	陘	<span class="china1">U+9649	陉</span>
+7103	U+965B	陛
+7104	U+965D	陝	<span class="china1">U+9655	陕</span>
+7105	U+965E	陞
+7106	U+965F	陟
+7107	U+9661	陡
+7108	U+9662	院
+7109	U+9663	陣	<span class="china1">U+9635	阵</span>
+7110	U+9664	除
+7111	U+966A	陪
+7112	U+966C	陬
+7113	U+9670	陰	<span class="china1">U+9634	阴</span>
+7114	U+9672	陲
+7115	U+9673	陳	<span class="china1">U+9648	陈</span>
+7116	U+9674	陴
+7117	U+9675	陵
+7118	U+9676	陶
+7119	U+9677	陷
+7120	U+9678	陸	<span class="china1">U+9646	陆</span>
+7121	U+967C	陼
+7122	U+967D	陽	<span class="china1">U+9633	阳</span>
+7123	U+967B	陻
+7124	U+968D	隍
+7125	U+9684	隄
+7126	U+9685	隅
+7127	U+9686	隆
+7128	U+9688	隈
+7129	U+9689	隉	<span class="china1">U+9667	陧</span>
+7130	U+968A	隊	<span class="china1">U+961F	队</span>
+7131	U+968B	隋
+7132	U+968E	階	<span class="china1">U+9636	阶</span>
+7133	U+9694	隔
+7134	U+9695	隕	<span class="china1">U+9668	陨</span>
+7135	U+9696	隖
+7136	U+9697	隗
+7137	U+9698	隘
+7138	U+9699	隙
+7139	U+969B	際	<span class="china1">U+9645	际</span>
+7140	U+969C	障
+7141	U+96A3	隣
+7142	U+96A4	隤
+7143	U+96A7	隧
+7144	U+96A9	隩
+7145	U+96AA	險	<span class="china1">U+9669	险</span>
+7146	U+96AE	隮
+7147	U+96B0	隰
+7148	U+96B1	隱	<span class="china1">U+9690	隐</span>
+7149	U+96B3	隳
+7150	U+96B4	隴	<span class="china1">U+9647	陇</span>
+7151	U+96A8	隨	<span class="china1">U+968F	随</span>
+7152	U+96B6	隶
+7153	U+96B8	隸
+7154	<span class="s1">U+82E4	苤</span>
+7155	U+96B9	隹
+7156	U+96BB	隻
+7157	U+96BC	隼
+7158	U+96C0	雀
+7159	U+96C1	雁
+7160	U+96C4	雄
+7161	U+96C5	雅
+7162	U+96C6	集
+7163	U+96C7	雇
+7164	U+96C9	雉
+7165	U+96CB	雋	<span class="china1">U+96BD	隽</span>
+7166	U+96CC	雌
+7167	U+96CD	雍
+7168	U+96CE	雎
+7169	U+96CA	雊
+7170	U+96D2	雒
+7171	U+96D5	雕
+7172	U+5DB2	嶲	<span class="china1">U+5DC2	巂</span>
+7173	U+96D6	雖	<span class="china1">U+867D	虽</span>
+7174	U+96D8	雘
+7175	U+96D9	雙	<span class="china1">U+53CC	双</span>
+7176	U+96DB	雛	<span class="china1">U+96CF	雏</span>
+7177	U+96DC	雜	<span class="china1">U+6742	杂</span>
+7178	U+96DD	雝
+7179	U+96DE	雞
+7180	U+96E2	離
+7181	U+96E3	難	<span class="china1">U+96BE	难</span>
+7182	<span class="s1">U+9255	鉕</span>
+7183	U+96E8	雨
+7184	U+96E9	雩
+7185	U+96EA	雪
+7186	U+96EF	雯
+7187	U+96F0	雰
+7188	U+96F1	雱
+7189	U+96F2	雲
+7190	U+96F6	零
+7191	U+96F7	雷
+7192	U+96F9	雹
+7193	U+96FB	電	<span class="china1">U+7535	电</span>
+7194	U+9700	需
+7195	<span class="c0">U+9702	霂</span>
+7196	U+9705	霅
+7197	U+9704	霄
+7198	U+9708	霈
+7199	U+9709	霉
+<a id="s72"></a>
+7200	U+9706	霆
+7201	U+9707	震
+7202	U+970D	霍
+7203	U+970E	霎
+7204	U+970F	霏
+7205	U+9711	霑
+7206	U+9713	霓
+7207	U+9716	霖
+7208	U+971C	霜
+7209	U+971E	霞
+7210	U+9722	霢
+7211	U+9724	霤
+7212	U+9727	霧	<span class="china1">U+96FE	雾</span>
+7213	U+9730	霰
+7214	U+972A	霪
+7215	U+9731	霱
+7216	U+9732	露
+7217	U+9736	霶
+7218	U+9738	霸
+7219	U+9739	霹
+7220	U+972E	霮
+7221	U+973D	霽	<span class="china1">U+9701	霁</span>
+7222	U+9740	靀
+7223	U+973E	霾
+7224	U+9744	靄	<span class="china1">U+972D	霭</span>
+7225	U+9742	靂	<span class="china1">U+96F3	雳</span>
+7226	U+9746	靆	<span class="china1">U+53C7	叇</span>
+7227	U+9748	靈	<span class="china1">U+7075	灵</span>
+7228	U+9749	靉	<span class="china1">U+53C6	叆</span>
+7229	U+9728	霨
+7230	U+9752	青
+7231	U+9756	靖
+7232	U+975A	靚	<span class="china1">U+9753	靓</span>
+7233	U+975B	靛
+7234	U+975C	靜	<span class="china1">U+9759	静</span>
+7235	<span class="s1">U+93F7	鏷</span>
+7236	U+975E	非
+7237	U+9760	靠
+7238	U+9761	靡
+7239	<span class="s1">U+6C06	氆</span>
+7240	U+9762	面
+7241	U+9766	靦
+7242	U+9767	靧
+7243	U+9768	靨	<span class="china1">U+9765	靥</span>
+7244	<span class="s1">U+91FA	釺</span>
+7245	U+9769	革
+7246	U+9773	靳
+7247	U+9774	靴
+7248	U+9785	鞅
+7249	U+9776	靶
+7250	U+9777	靷	<span class="china2">U+9770	靰</span>
+7251	U+9778	靸
+7252	U+9780	鞀
+7253	U+9789	鞉
+7254	U+978D	鞍
+7255	U+978F	鞏	<span class="china1">U+5DE9	巩</span>
+7256	U+978B	鞋
+7257	U+9797	鞗
+7258	U+9798	鞘
+7259	U+9799	鞙
+7260	U+979E	鞞	<span class="china2">U+97A1	鞡</span>
+7261	U+979A	鞚
+7262	U+979F	鞟
+7263	U+97A0	鞠
+7264	U+97A6	鞦
+7265	U+97AB	鞫
+7266	U+97AC	鞬
+7267	U+97AD	鞭
+7268	U+97AE	鞮
+7269	U+97B1	鞱
+7270	U+97B6	鞶
+7271	<span class="old">U+97B8	鞸</span>	<span class="s2">U+97B2	鞲</span>
+7272	<span class="old">U+97B9	鞹</span>	<span class="s2">U+97B4	鞴</span>
+7273	U+97BE	鞾
+7274	U+97C1	韁
+7275	U+97C3	韃	<span class="china1">U+9791	鞑</span>
+7276	U+97C6	韆
+7277	U+97C9	韉	<span class="china1">U+97AF	鞯</span>
+7278	<span class="s1">U+7FA5	羥</span>
+7279	U+97CB	韋	<span class="china1">U+97E6	韦</span>
+7280	U+97CD	韍	<span class="china1">U+97E8	韨</span>
+7281	U+97D3	韓	<span class="china1">U+97E9	韩</span>
+7282	U+97CC	韌	<span class="china1">U+97E7	韧</span>
+7283	U+97CE	韎
+7284	U+97D0	韐
+7285	U+97D2	韒
+7286	U+97D4	韔
+7287	U+97DD	韝
+7288	U+97D8	韘
+7289	U+97D9	韙	<span class="china1">U+97EA	韪</span>
+7290	U+97DC	韜	<span class="china1">U+97EC	韬</span>
+7291	U+97DE	韞	<span class="china1">U+97EB	韫</span>
+7292	U+97C8	韈
+7293	U+97E0	韠
+7294	<span class="s1">U+7197	熗</span>
+7295	U+97ED	韭
+7296	U+97EE	韮
+7297	U+97F1	韱
+7298	Deleted
+7299	U+97F3	音
+<a id="s73"></a>
+7300	U+97F6	韶
+7301	U+97FB	韻	<span class="china1">U+97F5	韵</span>
+7302	U+97FF	響
+7303	U+97FA	韺
+7304	U+9800	頀
+7305	<span class="s1">U+82D8	苘</span>
+7306	U+9801	頁	<span class="china1">U+9875	页</span>
+7307	U+9802	頂	<span class="china1">U+9876	顶</span>
+7308	U+9803	頃	<span class="china1">U+9877	顷</span>
+7309	U+9805	項	<span class="china1">U+9879	项</span>
+7310	U+9807	頇	<span class="china1">U+9878	顸</span>
+7311	U+9806	順	<span class="china1">U+987A	顺</span>
+7312	U+9808	須	<span class="china1">U+987B	须</span>
+7313	U+980C	頌	<span class="china1">U+9882	颂</span>
+7314	U+980F	頏	<span class="china1">U+9883	颃</span>
+7315	U+9810	預	<span class="china1">U+9884	预</span>
+7316	U+9811	頑	<span class="china1">U+987D	顽</span>
+7317	U+9812	頒	<span class="china1">U+9881	颁</span>
+7318	U+9837	頷	<span class="china1">U+9894	颔</span>
+7319	U+9813	頓	<span class="china1">U+987F	顿</span>
+7320	U+980A	頊	<span class="china1">U+987C	顼</span>
+7321	U+980D	頍
+7322	U+980E	頎	<span class="china1">U+9880	颀</span>
+7323	U+9816	頖
+7324	U+9817	頗	<span class="china1">U+9887	颇</span>
+7325	U+9818	領	<span class="china1">U+9886	领</span>
+7326	U+981E	頞
+7327	U+9821	頡	<span class="china1">U+9889	颉</span>
+7328	U+9824	頤	<span class="china1">U+9890	颐</span>
+7329	<span class="s3">U+984E	顎</span>
+7330	<span class="old">U+9832	頲</span>	<span class="s2">U+294D0	&#x294D0;(<script type="text/javascript">disphex("294D0");</script>)</span>
+7331	U+9826	頦	<span class="china1">U+988F	颏</span>
+7332	U+982B	頫
+7333	U+982D	頭	<span class="china1">U+5934	头</span>
+7334	U+982E	頮	<span class="china1">U+9892	颒</span>
+7335	U+9830	頰	<span class="china1">U+988A	颊</span>
+7336	U+9834	頴	<span class="china1">U+9895	颕</span>
+7337	U+9833	頳
+7338	U+9838	頸	<span class="china1">U+9888	颈</span>
+7339	U+9839	頹	<span class="china1">U+9893	颓</span>
+7340	U+983B	頻	<span class="china1">U+9891	频</span>
+7341	U+9846	顆	<span class="china1">U+9897	颗</span>
+7342	U+9847	顇
+7343	U+984B	顋
+7344	U+984C	題	<span class="china1">U+9898	题</span>
+7345	U+984D	額	<span class="china1">U+989D	额</span>
+7346	U+984F	顏	<span class="china1">U+989C	颜</span>
+7347	U+983F	頿
+7348	U+9853	顓	<span class="china1">U+989B	颛</span>
+7349	U+9858	願
+7350	U+9859	顙	<span class="china1">U+98A1	颡</span>
+7351	U+985B	顛	<span class="china1">U+98A0	颠</span>
+7352	U+985E	類	<span class="china1">U+7C7B	类</span>
+7353	U+985C	顜
+7354	U+9862	顢	<span class="china1">U+989F	颟</span>
+7355	U+9865	顥	<span class="china1">U+98A2	颢</span>
+7356	U+9866	顦
+7357	U+9867	顧	<span class="china1">U+987E	顾</span>
+7358	U+986B	顫	<span class="china1">U+98A4	颤</span>
+7359	U+986F	顯	<span class="china1">U+663E	显</span>
+7360	U+9870	顰	<span class="china1">U+98A6	颦</span>
+7361	U+9871	顱	<span class="china1">U+9885	颅</span>
+7362	U+9874	顴	<span class="china1">U+98A7	颧</span>
+7363	<span class="s1">U+7CAC	粬</span>
+7364	U+98A8	風	<span class="china1">U+98CE	风</span>
+7365	U+98AD	颭
+7366	U+98AF	颯	<span class="china1">U+98D2	飒</span>
+7367	U+98B6	颶	<span class="china1">U+98D3	飓</span>
+7368	U+98B8	颸	<span class="china1">U+98D4	飔</span>
+7369	U+98BF	颿
+7370	U+98BA	颺	<span class="china1">U+98CF	飏</span>
+7371	U+98BB	颻	<span class="china1">U+98D6	飖</span>
+7372	U+98BC	颼	<span class="china1">U+98D5	飕</span>
+7373	U+98C4	飄	<span class="china1">U+98D8	飘</span>
+7374	U+98C6	飆	<span class="china1">U+98D9	飙</span>
+7375	U+98C0	飀	<span class="china1">U+98D7	飗</span>
+7376	<span class="old">U+98BD	颽</span>	<span class="s3">U+98B1	颱</span>
+7377	<span class="s2">U+98B3	颳</span>
+7378	U+98DB	飛	<span class="china1">U+98DE	飞</span>
+7379	<span class="s1">U+919B	醛</span>
+7380	U+98DF	食
+7381	U+98E1	飡
+7382	U+98E2	飢	<span class="china1">U+9965	饥</span>
+7383	U+98E3	飣	<span class="china1">U+9964	饤</span>
+7384	U+98E6	飦
+7385	U+98E7	飧
+7386	U+98E9	飩	<span class="china1">U+9968	饨</span>
+7387	U+98EA	飪	<span class="china1">U+996A	饪</span>
+7388	U+98EB	飫	<span class="china1">U+996B	饫</span>
+7389	U+98ED	飭	<span class="china1">U+996C	饬</span>
+7390	U+98F2	飲	<span class="china1">U+996E	饮</span>
+7391	U+98EF	飯	<span class="china1">U+996D	饭</span>
+7392	U+98F4	飴	<span class="china1">U+9974	饴</span>
+7393	U+98FC	飼	<span class="china1">U+9972	饲</span>
+7394	U+98FD	飽	<span class="china1">U+9971	饱</span>
+7395	U+98FE	飾	<span class="china1">U+9970	饰</span>
+7396	U+98F6	飶	<span class="china2">U+9978	饸</span>
+7397	U+9902	餂	<span class="china2">U+9979	饹</span>
+7398	U+9903	餃	<span class="china1">U+997A	饺</span>
+7399	U+9905	餅	<span class="china1">U+997C	饼</span>
+<a id="s74"></a>
+7400	<span class="old">U+9908	餈</span>	<span class="s2">U+990F	餏</span>
+7401	U+9909	餉	<span class="china1">U+9977	饷</span>
+7402	U+990A	養
+7403	U+990C	餌	<span class="china1">U+9975	饵</span>
+7404	U+9910	餐
+7405	U+9916	餖	<span class="china1">U+997E	饾</span>
+7406	U+9917	餗
+7407	U+9912	餒	<span class="china1">U+9981	馁</span>
+7408	U+9913	餓	<span class="china1">U+997F	饿</span>
+7409	U+9914	餔
+7410	U+9915	餕	<span class="china1">U+9982	馂</span>
+7411	U+9918	餘	<span class="china1">U+9980	馀</span>
+7412	U+991B	餛	<span class="china1">U+9984	馄</span>
+7413	U+991A	餚
+7414	U+9921	餡	<span class="china1">U+9985	馅</span>
+7415	U+991E	餞	<span class="china1">U+996F	饯</span>
+7416	<span class="old">U+9924	餤</span>	<span class="s3">U+9911	餑</span>
+7417	U+991F	餟
+7418	<span class="old">U+9927	餧</span>	<span class="s2">U+9943	饃</span>
+7419	U+9928	館	<span class="china1">U+9986	馆</span>
+7420	U+992C	餬
+7421	U+992E	餮
+7422	U+9931	餱
+7423	U+9932	餲
+7424	U+9933	餳	<span class="china1">U+9967	饧</span>
+7425	U+9939	餹
+7426	U+993C	餼	<span class="china1">U+9969	饩</span>
+7427	U+993D	餽
+7428	U+9941	饁
+7429	U+9945	饅	<span class="china1">U+9992	馒</span>
+7430	U+9948	饈
+7431	U+9949	饉	<span class="china1">U+9991	馑</span>
+7432	U+994B	饋	<span class="china1">U+9988	馈</span>
+7433	U+994C	饌	<span class="china1">U+9994	馔</span>
+7434	U+994E	饎
+7435	U+9950	饐
+7436	U+9951	饑
+7437	U+9952	饒	<span class="china1">U+9976	饶</span>
+7438	U+9954	饔
+7439	U+9955	饕
+7440	U+9957	饗	<span class="china1">U+98E8	飨</span>
+7441	U+995C	饜	<span class="china1">U+990D	餍</span>
+7442	U+995F	饟
+7443	U+995E	饞	<span class="china1">U+998B	馋</span>
+7444	<span class="s1">N/A	[石圈]</span>
+7445	U+9996	首
+7446	U+9998	馘
+7447	U+9997	馗
+7448	<span class="s1">U+7094	炔</span>
+7449	U+9999	香
+7450	U+99A5	馥
+7451	U+99A8	馨
+7452	U+999D	馝
+7453	U+99A1	馡
+7454	U+99A3	馣
+7455	<span class="s1">U+87EF	蟯</span>
+7456	U+99AC	馬	<span class="china1">U+9A6C	马</span>
+7457	U+99AD	馭	<span class="china1">U+9A6D	驭</span>
+7458	U+99AE	馮	<span class="china1">U+51AF	冯</span>
+7459	U+99B3	馳	<span class="china1">U+9A70	驰</span>
+7460	U+99B4	馴	<span class="china1">U+9A6F	驯</span>
+7461	U+99B1	馱	<span class="china1">U+9A6E	驮</span>
+7462	U+99B9	馹	<span class="china1">U+9A72	驲</span>
+7463	U+99C1	駁	<span class="china1">U+9A73	驳</span>
+7464	U+99C3	駃
+7465	U+99D0	駐	<span class="china1">U+9A7B	驻</span>
+7466	U+99D1	駑	<span class="china1">U+9A7D	驽</span>
+7467	U+99D2	駒	<span class="china1">U+9A79	驹</span>
+7468	U+99D5	駕	<span class="china1">U+9A7E	驾</span>
+7469	U+99D8	駘	<span class="china1">U+9A80	骀</span>
+7470	U+99D9	駙	<span class="china1">U+9A78	驸</span>
+7471	U+99DB	駛	<span class="china1">U+9A76	驶</span>
+7472	U+99CB	駋
+7473	U+99DC	駜
+7474	U+99DD	駝	<span class="china1">U+9A7C	驼</span>
+7475	U+99DF	駟	<span class="china1">U+9A77	驷</span>
+7476	U+99EA	駪
+7477	U+99C9	駉
+7478	U+99E2	駢	<span class="china1">U+9A88	骈</span>
+7479	U+99EC	駬
+7480	U+99ED	駭	<span class="china1">U+9A87	骇</span>
+7481	U+99EE	駮
+7482	U+99F1	駱	<span class="china1">U+9A86	骆</span>
+7483	U+99F5	駵
+7484	U+99F0	駰	<span class="china1">U+9A83	骃</span>
+7485	U+99F8	駸	<span class="china1">U+9A8E	骎</span>
+7486	U+99FF	駿	<span class="china1">U+9A8F	骏</span>
+7487	U+9A0C	騌	<span class="china1">U+9A94	骔</span>
+7488	U+9A01	騁	<span class="china1">U+9A8B	骋</span>
+7489	U+9A05	騅	<span class="china1">U+9A93	骓</span>
+7490	U+9A02	騂	<span class="china1">U+9A8D	骍</span>
+7491	U+9A03	騃
+7492	U+9A2D	騭
+7493	U+9A11	騑
+7494	U+9A0E	騎	<span class="china1">U+9A91	骑</span>
+7495	U+9A0B	騋
+7496	U+9A0F	騏	<span class="china1">U+9A90	骐</span>
+7497	U+9A16	騖	<span class="china1">U+9A9B	骛</span>
+7498	U+9A04	騄
+7499	U+9A19	騙	<span class="china1">U+9A97	骗</span>
+<a id="s75"></a>
+7500	U+9A44	驄	<span class="china1">U+9AA2	骢</span>
+7501	U+9A20	騠
+7502	U+9A23	騣
+7503	U+9A24	騤
+7504	U+9A27	騧
+7505	U+9A2B	騫	<span class="china1">U+9A9E	骞</span>
+7506	U+9A30	騰	<span class="china1">U+817E	腾</span>
+7507	U+9A36	騶	<span class="china1">U+9A7A	驺</span>
+7508	U+9A35	騵
+7509	U+9A38	騸	<span class="china1">U+9A9F	骟</span>
+7510	U+9A37	騷	<span class="china1">U+9A9A	骚</span>
+7511	U+9A2E	騮	<span class="china1">U+9A9D	骝</span>
+7512	U+9A3E	騾	<span class="china1">U+9AA1	骡</span>
+7513	U+9A40	驀	<span class="china1">U+84E6	蓦</span>
+7514	U+9A41	驁	<span class="china1">U+9A9C	骜</span>
+7515	U+9A42	驂	<span class="china1">U+9A96	骖</span>
+7516	U+9A43	驃	<span class="china1">U+9AA0	骠</span>
+7517	U+9A45	驅	<span class="china1">U+9A71	驱</span>
+7518	U+9A48	驈
+7519	U+9A3B	騻
+7520	U+9A4A	驊	<span class="china1">U+9A85	骅</span>
+7521	U+9A54	驔
+7522	U+9A4D	驍	<span class="china1">U+9A81	骁</span>
+7523	U+9A56	驖
+7524	U+9A55	驕	<span class="china1">U+9A84	骄</span>
+7525	U+9A4C	驌	<span class="china1">U+9A95	骕</span>
+7526	U+9A57	驗	<span class="china1">U+9A8C	验</span>
+7527	U+9A52	驒
+7528	U+9A5A	驚	<span class="china1">U+60CA	惊</span>
+7529	U+9A58	驘
+7530	U+9A59	驙
+7531	U+9A5B	驛	<span class="china1">U+9A7F	驿</span>
+7532	U+9A5F	驟	<span class="china1">U+9AA4	骤</span>
+7533	U+9A62	驢	<span class="china1">U+9A74	驴</span>
+7534	U+9A64	驤	<span class="china1">U+9AA7	骧</span>
+7535	U+9A65	驥	<span class="china1">U+9AA5	骥</span>
+7536	U+9A69	驩
+7537	U+9A6A	驪	<span class="china1">U+9A8A	骊</span>
+7538	U+99D7	駗
+7539	U+9AA8	骨
+7540	U+9AA9	骩
+7541	U+9AAD	骭	<span class="china2">U+9AB6	骶</span>
+7542	U+9AAF	骯	<span class="china1">U+80AE	肮</span>
+7543	U+9AB1	骱
+7544	U+9AB0	骰
+7545	U+9AB7	骷
+7546	U+9AB8	骸
+7547	U+9ABC	骼
+7548	U+9ABD	骽
+7549	U+9AC0	髀
+7550	U+9ABE	骾
+7551	U+9ACF	髏	<span class="china1">U+9AC5	髅</span>
+7552	U+9AC6	髆
+7553	U+9AD1	髑
+7554	U+9AD2	髒
+7555	U+9AD4	體	<span class="china1">U+4F53	体</span>
+7556	U+9AD6	髖	<span class="china1">U+9ACB	髋</span>
+7557	U+9AD3	髓
+7558	<span class="s1">U+97A3	鞣</span>
+7559	U+9AD8	高
+7560	<span class="s1">U+92A3	銣</span>
+7561	U+9ADF	髟
+7562	U+9AE0	髠	<span class="china1">U+9AE1	髡</span>
+7563	U+9AE2	髢
+7564	U+9AE3	髣
+7565	U+9AE6	髦
+7566	U+9AE7	髧
+7567	U+9AEB	髫
+7568	U+9AED	髭
+7569	U+9AEE	髮
+7570	U+9AEF	髯
+7571	<span class="old">U+9AF3	髳</span>	<span class="s3">U+9B03	鬃</span>
+7572	U+9AF4	髴
+7573	U+9AFB	髻
+7574	U+9AF9	髹
+7575	U+9B06	鬆
+7576	U+9B08	鬈
+7577	U+9B05	鬅
+7578	U+9B0B	鬋
+7579	U+9B0D	鬍
+7580	U+9B10	鬐
+7581	U+9B12	鬒
+7582	U+9B11	鬑
+7583	U+9B18	鬘
+7584	U+9B14	鬔
+7585	U+9B19	鬙
+7586	U+9B1A	鬚
+7587	U+9B1F	鬟
+7588	U+9B23	鬣
+7589	U+9B22	鬢	<span class="china1">U+9B13	鬓</span>
+7590	U+9B0E	鬎
+7591	U+9B25	鬥
+7592	U+9B28	鬨
+7593	U+9B27	鬧
+7594	U+9B29	鬩	<span class="china1">U+960B	阋</span>
+7595	U+9B2D	鬭
+7596	U+9B2E	鬮	<span class="china1">U+9604	阄</span>
+7597	<span class="s1">U+92AB	銫</span>
+7598	U+9B2F	鬯
+7599	U+9B31	鬱
+<a id="s76"></a>
+7600	<span class="s1">U+9376	鍶</span>
+7601	U+9B32	鬲
+7602	U+9B34	鬴
+7603	U+9B35	鬵
+7604	U+9B37	鬷
+7605	U+9B3B	鬻
+7606	<span class="s1">U+96DF	雟</span>
+7607	U+9B3C	鬼
+7608	U+9B41	魁
+7609	U+9B42	魂
+7610	U+9B43	魃
+7611	U+9B44	魄
+7612	U+9B4A	魊
+7613	U+9B45	魅
+7614	U+9B4F	魏
+7615	U+9B50	魐
+7616	U+9B40	魀
+7617	U+9B48	魈
+7618	U+9B4D	魍
+7619	U+9B4E	魎	<span class="china1">U+9B49	魉</span>
+7620	U+9B51	魑
+7621	U+9B54	魔
+7622	<span class="c0">U+29D3E	&#x29D3E;(<script type="text/javascript">disphex("29D3E");</script>)</span>
+7623	U+9B58	魘	<span class="china1">U+9B47	魇</span>
+7624	<span class="s1">U+55E9	嗩</span>
+7625	U+9B5A	魚	<span class="china1">U+9C7C	鱼</span>
+7626	<span class="old">U+9B68	魨</span>	<span class="s2">U+9B77	魷</span>
+7627	U+9B6F	魯	<span class="china1">U+9C81	鲁</span>
+7628	<span class="old">U+9B80	鮀</span>	<span class="s2">U+4C45	䱅(<script type="text/javascript">disphex("4C45");</script>)</span>	<span class="china2">U+9C96	鲖</span>
+7629	U+9B74	魴	<span class="china1">U+9C82	鲂</span>
+7630	U+9B8E	鮎	<span class="china1">U+9C87	鲇</span>
+7631	U+9B92	鮒	<span class="china1">U+9C8B	鲋</span>
+7632	U+9B90	鮐	<span class="china1">U+9C90	鲐</span>
+7633	U+9B93	鮓	<span class="china1">U+9C8A	鲊</span>
+7634	<span class="old">U+9B9E	鮞</span>	<span class="s3">U+9BAD	鮭</span>
+7635	U+9BAA	鮪	<span class="china1">U+9C94	鲔</span>
+7636	U+9B86	鮆	<span class="china2">U+9C98	鲘</span>
+7637	U+9B91	鮑	<span class="china1">U+9C8D	鲍</span>
+7638	U+9B9D	鮝	<span class="china1">U+9C9E	鲞</span>
+7639	U+9BAE	鮮	<span class="china1">U+9C9C	鲜</span>
+7640	U+9BAB	鮫	<span class="china1">U+9C9B	鲛</span>
+7641	U+9BC0	鯀	<span class="china1">U+9CA7	鲧</span>
+7642	U+9BC9	鯉	<span class="china1">U+9CA4	鲤</span>
+7643	U+9BC1	鯁	<span class="china1">U+9CA0	鲠</span>
+7644	U+9BCA	鯊	<span class="china1">U+9CA8	鲨</span>
+7645	U+9BD6	鯖	<span class="china1">U+9CAD	鲭</span>
+7646	U+9BE2	鯢	<span class="china1">U+9CB5	鲵</span>
+7647	U+9BE7	鯧	<span class="china1">U+9CB3	鲳</span>
+7648	<span class="old">U+9BEB	鯫</span>	<span class="s2">U+9BB3	鮳</span>
+7649	U+9BE4	鯤	<span class="china1">U+9CB2	鲲</span>
+7650	U+9BE8	鯨	<span class="china1">U+9CB8	鲸</span>
+7651	U+9BFD	鯽	<span class="china1">U+9CAB	鲫</span>
+7652	<span class="old">U+9C02	鰂</span>	<span class="s2">U+29E1E	&#x29E1E;(<script type="text/javascript">disphex("29E1E");</script>)</span>	<span class="china2">U+9CA9	鲩</span>
+7653	U+9BFF	鯿	<span class="china1">U+9CCA	鳊</span>
+7654	U+9C08	鰈	<span class="china1">U+9CBD	鲽</span>
+7655	U+9C0D	鰍	<span class="china1">U+9CC5	鳅</span>
+7656	U+9C0C	鰌
+7657	U+9C15	鰕	<span class="china2">U+9CA1	鲡</span>
+7658	U+9C13	鰓	<span class="china1">U+9CC3	鳃</span>
+7659	U+9C25	鰥	<span class="china1">U+9CCF	鳏</span>
+7660	U+9C1C	鰜	<span class="china1">U+9CD2	鳒</span>
+7661	U+9C23	鰣	<span class="china1">U+9CA5	鲥</span>
+7662	U+9C2D	鰭	<span class="china1">U+9CCD	鳍</span>
+7663	U+9C32	鰲	<span class="china1">U+9CCC	鳌</span>
+7664	<span class="old">U+9C37	鰷</span>	<span class="s2">U+9BF0	鯰</span>
+7665	U+9C3B	鰻	<span class="china1">U+9CD7	鳗</span>
+7666	<span class="old">U+9C44	鱄</span>	<span class="s2">U+9BF7	鯷</span>
+7667	U+9C49	鱉	<span class="china1">U+9CD6	鳖</span>
+7668	U+9C54	鱔	<span class="china1">U+9CDD	鳝</span>
+7669	U+9C58	鱘	<span class="china1">U+9C9F	鲟</span>
+7670	U+9C5F	鱟	<span class="china1">U+9C8E	鲎</span>
+7671	U+9C60	鱠	<span class="china1">U+9C99	鲙</span>
+7672	U+9C63	鱣	<span class="china1">U+9CE3	鳣</span>
+7673	U+9C57	鱗	<span class="china1">U+9CDE	鳞</span>
+7674	<span class="old">U+9C4E	鱎</span>	<span class="s3">U+9C3E	鰾</span>
+7675	U+9C56	鱖	<span class="china1">U+9CDC	鳜</span>
+7676	<span class="old">U+9C68	鱨</span>	<span class="s3">U+9C35	鰵</span>
+7677	U+9C77	鱷	<span class="china2">U+9CAE	鲮</span>
+7678	U+9C78	鱸	<span class="china1">U+9C88	鲈</span>
+7679	U+9B7A	魺	<span class="china1">U+9C84	鲄</span>
+7680	U+9CE5	鳥	<span class="china1">U+9E1F	鸟</span>
+7681	U+9CE6	鳦
+7682	U+9CE9	鳩	<span class="china1">U+9E20	鸠</span>
+7683	U+9CE7	鳧	<span class="china1">U+51EB	凫</span>
+7684	U+9CF2	鳲
+7685	U+9CF3	鳳	<span class="china1">U+51E4	凤</span>
+7686	U+9CF4	鳴	<span class="china1">U+9E23	鸣</span>
+7687	U+9CF6	鳶	<span class="china1">U+9E22	鸢</span>
+7688	U+9D04	鴄
+7689	U+9D1F	鴟	<span class="china1">U+9E31	鸱</span>
+7690	U+9D06	鴆	<span class="china1">U+9E29	鸩</span>
+7691	U+9D07	鴇	<span class="china1">U+9E28	鸨</span>
+7692	U+9D08	鴈
+7693	U+9D09	鴉	<span class="china1">U+9E26	鸦</span>
+7694	U+9D03	鴃
+7695	<span class="c0">N/A	[广/一/鳥]</span>
+7696	U+9D1B	鴛	<span class="china1">U+9E33	鸳</span>
+7697	U+9D1E	鴞	<span class="china1">U+9E2E	鸮</span>
+7698	U+9D23	鴣	<span class="china1">U+9E2A	鸪</span>
+7699	U+9D26	鴦	<span class="china1">U+9E2F	鸯</span>
+<a id="s77"></a>
+7700	U+9D28	鴨	<span class="china1">U+9E2D	鸭</span>
+7701	U+9D12	鴒	<span class="china1">U+9E30	鸰</span>
+7702	U+9D1D	鴝	<span class="china1">U+9E32	鸲</span>
+7703	U+9D3B	鴻	<span class="china1">U+9E3F	鸿</span>
+7704	U+9D3F	鴿	<span class="china1">U+9E3D	鸽</span>
+7705	U+9D3D	鴽
+7706	U+9D40	鵀
+7707	U+9D42	鵂	<span class="china1">U+9E3A	鸺</span>
+7708	U+9D5C	鵜	<span class="china1">U+9E48	鹈</span>
+7709	U+9D5D	鵝	<span class="china1">U+9E45	鹅</span>
+7710	U+9D51	鵑	<span class="china1">U+9E43	鹃</span>
+7711	U+9D60	鵠	<span class="china1">U+9E44	鹄</span>
+7712	U+9D53	鵓	<span class="china1">U+9E41	鹁</span>
+7713	U+9D61	鵡	<span class="china1">U+9E49	鹉</span>
+7714	U+9D52	鵒	<span class="china1">U+9E46	鹆</span>
+7715	U+9D6A	鵪	<span class="china1">U+9E4C	鹌</span>
+7716	U+9D70	鵰
+7717	U+9D72	鵲	<span class="china1">U+9E4A	鹊</span>
+7718	U+9D89	鶉	<span class="china1">U+9E51	鹑</span>
+7719	U+9D69	鵩
+7720	U+9D6C	鵬	<span class="china1">U+9E4F	鹏</span>
+7721	U+9D7E	鵾	<span class="china1">U+9E4D	鹍</span>
+7722	U+9D83	鶃
+7723	U+9D96	鶖	<span class="china1">U+9E59	鹙</span>
+7724	U+9D98	鶘	<span class="china1">U+9E55	鹕</span>
+7725	U+9D9A	鶚	<span class="china1">U+9E57	鹗</span>
+7726	U+9DA9	鶩	<span class="china1">U+9E5C	鹜</span>
+7727	U+9DAF	鶯	<span class="china1">U+83BA	莺</span>
+7728	U+9DB1	鶱
+7729	U+9DB4	鶴	<span class="china1">U+9E64	鹤</span>
+7730	U+9DB5	鶵
+7731	U+9DBA	鶺	<span class="china1">U+9E61	鹡</span>
+7732	U+9DBF	鶿	<span class="china1">U+9E5A	鹚</span>
+7733	U+9D8A	鶊	<span class="china1">U+9E52	鹒</span>
+7734	U+9DC7	鷇
+7735	U+9DAC	鶬	<span class="china1">U+9E27	鸧</span>
+7736	U+9DB9	鶹
+7737	U+9DBB	鶻	<span class="china1">U+9E58	鹘</span>
+7738	U+9DBC	鶼	<span class="china1">U+9E63	鹣</span>
+7739	U+9DC1	鷁	<span class="china1">U+9E62	鹢</span>
+7740	U+9DC2	鷂	<span class="china1">U+9E5E	鹞</span>
+7741	U+9DC4	鷄	<span class="china1">U+9E21	鸡</span>
+7742	U+9DC3	鷃
+7743	U+9DD7	鷗	<span class="china1">U+9E25	鸥</span>
+7744	U+9DD3	鷓	<span class="china1">U+9E67	鹧</span>
+7745	U+9DD5	鷕
+7746	U+9DD6	鷖	<span class="china1">U+9E65	鹥</span>
+7747	U+9DD9	鷙	<span class="china1">U+9E37	鸷</span>
+7748	U+9DE5	鷥	<span class="china1">U+9E36	鸶</span>
+7749	U+9DE9	鷩
+7750	U+9DF2	鷲	<span class="china1">U+9E6B	鹫</span>
+7751	U+9DF9	鷹	<span class="china1">U+9E70	鹰</span>
+7752	U+9DFA	鷺	<span class="china1">U+9E6D	鹭</span>
+7753	U+9DE6	鷦	<span class="china1">U+9E6A	鹪</span>
+7754	U+9DEF	鷯	<span class="china1">U+9E69	鹩</span>
+7755	U+9DF3	鷳
+7756	U+9DF8	鷸	<span class="china1">U+9E6C	鹬</span>
+7757	U+9E07	鸇	<span class="china1">U+9E6F	鹯</span>
+7758	U+9E11	鸑
+7759	U+9DFD	鷽	<span class="china1">U+9E34	鸴</span>
+7760	U+9E15	鸕	<span class="china1">U+9E2C	鸬</span>
+7761	U+9E1A	鸚	<span class="china1">U+9E66	鹦</span>
+7762	U+9E1E	鸞	<span class="china1">U+9E3E	鸾</span>
+7763	U+9DDF	鷟
+7764	U+9E1B	鸛	<span class="china1">U+9E73	鹳</span>
+7765	U+9E1D	鸝	<span class="china1">U+9E42	鹂</span>
+7766	U+9D39	鴹
+7767	U+9E75	鹵	<span class="china1">U+5364	卤</span>
+7768	U+9E79	鹹
+7769	U+9E7C	鹼
+7770	U+9E7D	鹽	<span class="china1">U+76D0	盐</span>
+7771	U+9E7A	鹺	<span class="china1">U+9E7E	鹾</span>
+7772	<span class="s1">U+71B5	熵</span>
+7773	U+9E7F	鹿
+7774	U+9E82	麂
+7775	<span class="s1">U+9230	鈰</span>
+7776	U+9E80	麀
+7777	U+9E83	麃
+7778	U+9E87	麇
+7779	U+9E88	麈
+7780	U+9E8B	麋
+7781	U+9E8C	麌
+7782	U+9E90	麐
+7783	U+9E91	麑
+7784	U+9E92	麒
+7785	U+9E93	麓
+7786	U+9E95	麕
+7787	U+9E97	麗	<span class="china1">U+4E3D	丽</span>
+7788	U+9E9A	麚
+7789	U+9E9B	麛
+7790	U+9E9D	麝
+7791	U+9E9E	麞
+7792	U+9E9F	麟
+7793	U+9EA2	麢
+7794	U+9EA4	麤
+7795	<span class="s1">U+6DAE	涮</span>
+7796	U+9EA5	麥	<span class="china1">U+9EA6	麦</span>
+7797	U+9EAA	麪
+7798	U+9EAF	麯
+7799	U+9EB0	麰
+<a id="s78"></a>
+7800	U+9EB4	麴
+7801	<span class="s1">U+84B4	蒴</span>
+7802	U+9EBB	麻
+7803	U+9EBC	麼	<span class="china1">U+9EBD	麽</span>
+7804	U+9EBE	麾
+7805	U+9EC1	黁
+7806	U+9EC3	黃
+7807	U+9EC8	黈
+7808	U+9ECC	黌	<span class="china1">U+9EC9	黉</span>
+7809	<span class="s1">U+9248	鉈</span>
+7810	U+9ECD	黍
+7811	U+9ECF	黏
+7812	U+9ECE	黎
+7813	U+9ED0	黐
+7814	<span class="s1">U+6E9A	溚</span>
+7815	U+9ED1	黑
+7816	U+9ED4	黔
+7817	U+9ED8	默
+7818	U+9EDB	黛
+7819	U+9EDC	黜
+7820	U+9EDE	點	<span class="china1">U+70B9	点</span>
+7821	U+9EDD	黝
+7822	U+9EE0	黠
+7823	U+9EE5	黥
+7824	U+9EE7	黧
+7825	U+9EE8	黨
+7826	U+9EEF	黯
+7827	U+9EF4	黴
+7828	U+9EEE	黮
+7829	U+9EF6	黶	<span class="china1">U+9EE1	黡</span>
+7830	U+9EF7	黷	<span class="china1">U+9EE9	黩</span>
+7831	<span class="s1">U+50A3	傣</span>
+7832	U+9EF9	黹
+7833	U+9EFB	黻
+7834	U+9EFC	黼
+7835	<span class="s1">U+9226	鈦</span>
+7836	U+9EFD	黽	<span class="china1">U+9EFE	黾</span>
+7837	U+9EFF	黿	<span class="china1">U+9F0B	鼋</span>
+7838	U+9F03	鼃
+7839	U+9F02	鼂	<span class="china1">U+9F0C	鼌</span>
+7840	U+9F07	鼇
+7841	U+9F08	鼈
+7842	U+9F09	鼉
+7843	<span class="s1">U+926D	鉭</span>
+7844	U+9F0E	鼎
+7845	U+9F10	鼐
+7846	U+9F0F	鼏
+7847	U+9F12	鼒
+7848	unassigned
+7849	U+9F13	鼓
+7850	U+9F15	鼕
+7851	U+9F17	鼗
+7852	U+9F16	鼖
+7853	U+9F19	鼙
+7854	U+9F1B	鼛
+7855	U+9F1A	鼚
+7856	<span class="s1">U+7FB0	羰</span>
+7857	U+9F20	鼠
+7858	U+9F22	鼢
+7859	U+9F2B	鼫
+7860	U+9F2C	鼬
+7861	U+9F2F	鼯
+7862	U+9F39	鼹
+7863	U+9F37	鼷
+7864	<span class="s1">U+91A3	醣</span>
+7865	U+9F3B	鼻
+7866	U+9F3D	鼽
+7867	U+9F3E	鼾
+7868	U+9F41	齁
+7869	U+9F45	齅
+7870	<span class="s1">U+92F1	鋱</span>
+7871	U+9F4A	齊	<span class="china1">U+9F50	齐</span>
+7872	U+9F4B	齋	<span class="china1">U+658B	斋</span>
+7873	U+9F4E	齎
+7874	U+9F4F	齏	<span class="china1">U+9F51	齑</span>
+7875	<span class="s1">U+83FE	菾</span>
+7876	U+9F52	齒	<span class="china1">U+9F7F	齿</span>
+7877	U+9F54	齔	<span class="china1">U+9F80	龀</span>
+7878	U+9F55	齕	<span class="china1">U+9F81	龁</span>
+7879	U+9F57	齗	<span class="china1">U+9F82	龂</span>
+7880	U+9F5F	齟	<span class="china1">U+9F83	龃</span>
+7881	U+9F61	齡	<span class="china1">U+9F84	龄</span>
+7882	U+9F60	齠	<span class="china1">U+9F86	龆</span>
+7883	U+9F66	齦	<span class="china1">U+9F88	龈</span>
+7884	U+9F67	齧
+7885	U+9F69	齩
+7886	U+9F6C	齬	<span class="china1">U+9F89	龉</span>
+7887	U+9F6A	齪	<span class="china1">U+9F8A	龊</span>
+7888	U+9F6E	齮
+7889	U+9F72	齲	<span class="china1">U+9F8B	龋</span>
+7890	U+9F76	齶	<span class="china1">U+816D	腭</span>
+7891	U+9F77	齷	<span class="china1">U+9F8C	龌</span>
+7892	U+9F63	齣
+7893	U+9F8D	龍	<span class="china1">U+9F99	龙</span>
+7894	U+9F8E	龎	<span class="china1">U+5390	厐</span>
+7895	U+9F94	龔	<span class="china1">U+9F9A	龚</span>
+7896	U+9F95	龕	<span class="china1">U+9F9B	龛</span>
+7897	<span class="s1">U+8214	舔</span>
+7898	U+9F9C	龜	<span class="china1">U+9F9F	龟</span>
+7899	<span class="s1">U+70F4	烴</span>
+<a id="s79"></a>
+7900	U+9FA0	龠
+7901	U+9FA2	龢
+7902	U+9FA5	龥
+7903	<span class="s1">U+695F	楟</span>
+7904	<span class="s1">U+916E	酮</span>
+7905	<span class="s1">U+833C	茼</span>
+7906	<span class="s1">U+70D4	烔</span>
+7907	<span class="s1">U+91F7	釷</span>
+7908	<span class="s1">U+4F64	佤</span>
+7909	<span class="s1">U+70F7	烷</span>
+7910	<span class="s1">U+70EF	烯</span>
+7911	<span class="s1">U+8785	螅</span>
+7912	<span class="s1">U+6C19	氙</span>
+7913	<span class="s1">U+9170	酰</span>
+7914	<span class="s1">U+9C48	鱈</span>
+7915	<span class="s1">U+8541	蕁</span>
+7916	<span class="s1">U+57E1	埡</span>
+7917	<span class="s1">U+92A5	銥</span>
+7918	<span class="s1">U+91D4	釔</span>
+7919	<span class="s1">U+943F	鐿</span>
+7920	<span class="s1">U+92A6	銦</span>
+7921	<span class="s1">U+92AA	銪</span>
+7922	Deleted
+7923	<span class="s1">U+9C52	鱒</span>
+7924	<span class="s1">U+87D1	蟑</span>
+7925	<span class="s1">U+7903	礃</span>
+7926	<span class="s1">U+937A	鍺</span>
+7927	<span class="s1">U+916F	酯</span>
+7928	unassigned
+7929	unassigned
+7930	unassigned
+7931	unassigned
+7932	unassigned
+7933	unassigned
+7934	unassigned
+7935	unassigned
+7936	unassigned
+7937	unassigned
+7938	unassigned
+7939	unassigned
+7940	unassigned
+7941	unassigned
+7942	unassigned
+7943	unassigned
+7944	unassigned
+7945	unassigned
+7946	unassigned
+7947	unassigned
+7948	unassigned
+7949	unassigned
+7950	unassigned
+7951	unassigned
+7952	unassigned
+7953	unassigned
+7954	unassigned
+7955	unassigned
+7956	unassigned
+7957	unassigned
+7958	unassigned
+7959	unassigned
+7960	unassigned
+7961	unassigned
+7962	unassigned
+7963	unassigned
+7964	unassigned
+7965	unassigned
+7966	unassigned
+7967	unassigned
+7968	unassigned
+7969	unassigned
+7970	unassigned
+7971	unassigned
+7972	unassigned
+7973	unassigned
+7974	unassigned
+7975	unassigned
+7976	unassigned
+7977	unassigned
+7978	unassigned
+7979	unassigned
+7980	unassigned
+7981	unassigned
+7982	unassigned
+7983	unassigned
+7984	unassigned
+7985	unassigned
+7986	unassigned
+7987	unassigned
+7988	unassigned
+7989	unassigned
+7990	unassigned
+7991	unassigned
+7992	unassigned
+7993	unassigned
+7994	unassigned
+7995	unassigned
+7996	unassigned
+7997	unassigned
+7998	unassigned
+7999	unassigned

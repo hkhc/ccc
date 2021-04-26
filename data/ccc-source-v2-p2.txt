@@ -1,0 +1,2019 @@
+2000	U+619D	憝
+2001	U+61A4	憤	<span class="china1">U+6124	愤</span>
+2002	U+61A7	憧
+2003	U+61A8	憨
+2004	U+61A9	憩
+2005	U+61AC	憬
+2006	U+61AB	憫	<span class="china1">U+60AF	悯</span>
+2007	U+61AE	憮	<span class="china1">U+6003	怃</span>
+2008	U+61AF	憯
+2009	U+61B2	憲	<span class="china1">U+5BAA	宪</span>
+2010	U+618D	憍
+2011	U+61B6	憶	<span class="china1">U+5FC6	忆</span>
+2012	U+61B8	憸
+2013	U+61BE	憾
+2014	U+61C3	懃
+2015	U+61C6	懆
+2016	U+61C2	懂
+2017	U+61C7	懇	<span class="china1">U+6073	恳</span>
+2018	U+61C8	懈
+2019	U+61C9	應	<span class="china1">U+5E94	应</span>
+2020	U+61CA	懊
+2021	U+61CB	懋
+2022	U+61CC	懌	<span class="china1">U+603F	怿</span>
+2023	U+61CD	懍
+2024	U+61D3	懓
+2025	U+6192	憒	<span class="china1">U+6126	愦</span>
+2026	U+6196	憖
+2027	U+61A6	憦
+2028	U+618F	憏
+2029	U+61DF	懟	<span class="china1">U+603C	怼</span>
+2030	U+61E3	懣	<span class="china1">U+61D1	懑</span>
+2031	U+61E5	懥
+2032	U+61E6	懦
+2033	U+61F2	懲	<span class="china1">U+60E9	惩</span>
+2034	U+61FF	懿
+2035	U+61F5	懵
+2036	U+61F6	懶	<span class="china1">U+61D2	懒</span>
+2037	U+61F7	懷	<span class="china1">U+6000	怀</span>
+2038	U+61F8	懸	<span class="china1">U+60AC	悬</span>
+2039	U+61FA	懺	<span class="china1">U+5FCF	忏</span>
+2040	U+61FC	懼	<span class="china1">U+60E7	惧</span>
+2041	U+61FD	懽
+2042	U+61FE	懾	<span class="china1">U+6151	慑</span>
+2043	U+6200	戀	<span class="china1">U+604B	恋</span>
+2044	<span class="old">U+6201	戁</span>	<span class="s2">U+61E8	懨</span>
+2045	U+6207	戇	<span class="china1">U+6206	戆</span>
+2046	U+615C	慜
+2047	U+6208	戈
+2048	U+620A	戊
+2049	U+620C	戌
+2050	U+620D	戍
+2051	U+620E	戎
+2052	U+6210	成
+2053	U+6211	我
+2054	U+6212	戒
+2055	U+6214	戔	<span class="china1">U+620B	戋</span>
+2056	U+6215	戕
+2057	U+6216	或
+2058	U+621A	戚
+2059	U+621B	戛
+2060	U+621F	戟
+2061	U+6222	戢
+2062	U+6225	戥
+2063	U+6221	戡
+2064	U+6223	戣
+2065	U+6229	戩	<span class="china1">U+622C	戬</span>
+2066	U+622A	截
+2067	U+6233	戳
+2068	U+622E	戮
+2069	U+6230	戰	<span class="china1">U+6218	战</span>
+2070	U+6232	戲	<span class="china1">U+620F	戏</span>
+2071	U+6234	戴
+2072	U+6224	戤
+2073	U+6236	戶	<span class="china1">U+6237	户</span>
+2074	U+623E	戾
+2075	U+623F	房
+2076	U+6240	所
+2077	U+623D	戽
+2078	U+6241	扁
+2079	U+6243	扃
+2080	U+6245	扅
+2081	U+6246	扆
+2082	U+6247	扇
+2083	U+6248	扈
+2084	U+6249	扉
+2085	U+624A	扊
+2086	<span class="s1">U+69F2	槲</span>
+2087	U+624B	手
+2088	U+624D	才
+2089	U+624E	扎
+2090	U+6251	扑
+2091	U+6252	扒
+2092	U+6253	打
+2093	<span class="old">U+6250	扐</span>	<span class="s2">U+6254	扔</span>
+2094	U+6258	托
+2095	U+625B	扛
+2096	U+6260	扠
+2097	<span class="old">U+6262	扢</span>	<span class="s2">U+62E4	拤</span>
+2098	U+625E	扞
+2099	U+6263	扣
+<a id="s21"></a>
+2100	U+626D	扭
+2101	U+626E	扮
+2102	U+626F	扯
+2103	U+6271	扱
+2104	U+6273	扳
+2105	U+6276	扶
+2106	U+6279	批
+2107	U+62B5	抵
+2108	U+627C	扼
+2109	U+627E	找
+2110	U+627F	承
+2111	U+6280	技
+2112	<span class="old">U+6283	抃</span>	<span class="s2">U+2BF21	&#x2BF21;(<img src="../image/u2bf21.png" width="30" height="30" />)</span>
+2113	U+6284	抄
+2114	U+6286	抆
+2115	U+6289	抉
+2116	U+628A	把
+2117	U+6291	抑
+2118	U+6292	抒
+2119	U+6293	抓
+2120	U+6294	抔
+2121	U+6295	投
+2122	U+6296	抖
+2123	U+6297	抗
+2124	U+6298	折
+2125	U+62A8	抨
+2126	U+62AB	披
+2127	U+62AC	抬
+2128	U+62B1	抱
+2129	<span class="old">U+62B6	抶</span>	<span class="s3">U+62BF	抿</span>
+2130	U+62B9	抹
+2131	U+62BC	押
+2132	U+62BD	抽
+2133	U+62C2	拂
+2134	U+62C4	拄
+2135	U+62C6	拆
+2136	U+62C7	拇
+2137	U+62C5	担
+2138	U+62C8	拈
+2139	U+62C9	拉
+2140	U+62CA	拊
+2141	U+62CB	拋	<span class="china1">U+629B	抛</span>
+2142	U+62CC	拌
+2143	U+62CD	拍
+2144	U+62CF	拏
+2145	U+62D0	拐
+2146	<span class="old">U+62D1	拑</span>	<span class="s2">U+2AB85	&#x2AB85;(<script type="text/javascript">disphex("2AB85");</script>)</span>	<span class="china2">U+62CE	拎</span>
+2147	U+62D2	拒
+2148	U+62D3	拓
+2149	U+62D4	拔
+2150	<span class="old">U+62D5	拕</span>	<span class="s3">U+6310	挐</span>
+2151	U+62D6	拖
+2152	U+62D7	拗
+2153	U+62D8	拘
+2154	U+62D9	拙
+2155	U+62DA	拚
+2156	U+62DB	招
+2157	U+62DC	拜
+2158	<span class="old">U+6264	扤</span>	<span class="s3">U+6337	挷</span>	<span class="china2">U+6342	捂</span>
+2159	U+62EE	拮
+2160	U+62ED	拭
+2161	U+62EC	括
+2162	U+62F1	拱
+2163	U+62EF	拯
+2164	U+62F3	拳
+2165	U+62F4	拴
+2166	U+62F7	拷
+2167	U+62FD	拽
+2168	U+62FE	拾
+2169	U+62FF	拿
+2170	U+6301	持
+2171	U+6302	挂
+2172	U+6307	指
+2173	U+6308	挈
+2174	U+6309	按
+2175	U+630D	挍	<span class="china2">U+630E	挎</span>
+2176	U+6311	挑
+2177	U+6316	挖
+2178	<span class="c0">U+62FC	拼</span>
+2179	U+6328	挨
+2180	U+632A	挪
+2181	U+632B	挫
+2182	U+632F	振
+2183	U+6336	挶	<span class="china2">U+6345	捅</span>
+2184	U+6339	挹
+2185	U+633A	挺
+2186	U+633C	挼
+2187	U+633D	挽
+2188	U+633E	挾	<span class="china1">U+631F	挟</span>
+2189	U+6344	捄
+2190	U+6346	捆
+2191	U+6349	捉
+2192	U+634B	捋
+2193	U+634C	捌
+2194	U+634D	捍
+2195	<span class="old">U+635A	捚</span>	<span class="s3">U+6382	掂</span>
+2196	U+6350	捐
+2197	<span class="old">U+6353	捓</span>	<span class="s3">U+6399	掙</span>
+2198	U+6355	捕
+2199	U+6332	挲
+<a id="s22"></a>
+2200	U+634E	捎
+2201	U+6367	捧
+2202	U+6368	捨
+2203	U+6369	捩
+2204	U+636B	捫	<span class="china1">U+626A	扪</span>
+2205	<span class="old">U+636C	捬</span>	<span class="s3">U+637A	捺</span>
+2206	U+636D	捭
+2207	<span class="c0">U+636E	据</span>
+2208	U+6372	捲
+2209	U+6371	捱
+2210	U+62FC	拼
+2211	U+6376	捶
+2212	U+6377	捷
+2213	<span class="old">U+6438	搸</span>	<span class="s2">U+63CD	揍</span>
+2214	U+637B	捻
+2215	U+637D	捽
+2216	U+6380	掀
+2217	U+6383	掃	<span class="china1">U+626B	扫</span>
+2218	U+6387	掇
+2219	U+6388	授
+2220	U+6389	掉
+2221	U+638A	掊
+2222	U+638C	掌
+2223	U+638F	掏
+2224	U+638E	掎
+2225	U+6390	掐
+2226	U+6392	排
+2227	U+6396	掖
+2228	U+6398	掘
+2229	U+639B	掛
+2230	U+63A0	掠
+2231	U+63A1	採
+2232	U+63A2	探
+2233	U+63A3	掣
+2234	U+63A5	接
+2235	U+63A7	控
+2236	U+63A8	推
+2237	U+63A9	掩
+2238	U+63AA	措
+2239	U+63AC	掬
+2240	U+63AF	掯
+2241	U+6384	掄	<span class="china1">U+62A1	抡</span>
+2242	U+639E	掞
+2243	<span class="old">U+6394	掔</span>	<span class="s2">U+63F9	揹</span>
+2244	U+63AB	掫
+2245	U+63C0	揀	<span class="china1">U+62E3	拣</span>
+2246	U+63C4	揄
+2247	U+63C6	揆
+2248	U+63C9	揉
+2249	U+63CF	描
+2250	<span class="old">U+63F8	揸</span>	<span class="s3">U+634F	捏</span>
+2251	U+63D0	提
+2252	U+63D2	插
+2253	U+63D6	揖
+2254	U+63DA	揚	<span class="china1">U+626C	扬</span>
+2255	U+63DB	換	<span class="china1">U+6362	换</span>
+2256	U+63DC	揜
+2257	U+63E0	揠
+2258	U+643D	搽
+2259	U+63E1	握
+2260	U+63E3	揣
+2261	U+63E9	揩
+2262	U+63EA	揪
+2263	U+63ED	揭
+2264	U+63EE	揮	<span class="china1">U+6325	挥</span>
+2265	<span class="old">U+63F2	揲</span>	<span class="s3">U+643E	搾</span>
+2266	U+63F4	援
+2267	U+63BD	掽
+2268	U+63BE	掾
+2269	<span class="old">U+63C5	揅</span>	<span class="s3">U+641E	搞</span>
+2270	<span class="old">U+63D7	揗</span>	<span class="s2">U+6415	搕</span>
+2271	<span class="old">U+63F0	揰</span>	<span class="s3">U+6427	搧</span>
+2272	<span class="old">U+63EB	揫</span>	<span class="s3">U+642F	搯</span>
+2273	U+6406	搆
+2274	U+6409	搉
+2275	U+640D	損	<span class="china1">U+635F	损</span>
+2276	U+640F	搏
+2277	U+6412	搒
+2278	U+6413	搓
+2279	U+6414	搔
+2280	U+6416	搖	<span class="china1">U+6447	摇</span>
+2281	U+6417	搗	<span class="china1">U+6363	捣</span>
+2282	U+641C	搜
+2283	U+6420	搠
+2284	<span class="old">U+6422	搢</span>	<span class="s3">U+6430	搰</span>
+2285	U+6425	搥
+2286	U+6426	搦
+2287	U+6428	搨
+2288	U+642A	搪
+2289	U+642C	搬
+2290	U+642D	搭
+2291	U+6434	搴
+2292	<span class="old">U+6435	搵</span>	<span class="s3">U+6454	摔</span>
+2293	U+6436	搶	<span class="china1">U+62A2	抢</span>
+2294	U+6410	搐
+2295	U+644F	摏
+2296	<span class="old">U+640A	搊</span>	<span class="s3">U+647B	摻</span>
+2297	<span class="old">U+6418	搘</span>	<span class="s2">U+6482	撂</span>
+2298	U+6458	摘
+2299	U+645F	摟	<span class="china1">U+6402	搂</span>
+<a id="s23"></a>
+2300	<span class="old">U+6460	摠</span>	<span class="s3">U+6491	撑</span>
+2301	U+6467	摧
+2302	U+6469	摩
+2303	U+646D	摭
+2304	U+646F	摯	<span class="china1">U+631A	挚</span>
+2305	U+6473	摳	<span class="china1">U+62A0	抠</span>
+2306	U+6476	摶	<span class="china1">U+629F	抟</span>
+2307	U+6478	摸
+2308	U+6479	摹
+2309	U+647A	摺
+2310	U+6451	摑
+2311	U+6452	摒
+2312	U+645B	摛
+2313	U+6485	撅
+2314	U+6474	摴
+2315	U+647D	摽
+2316	U+64A9	撩
+2317	U+6487	撇
+2318	U+6488	撈	<span class="china1">U+635E	捞</span>
+2319	U+6490	撐
+2320	U+6492	撒
+2321	U+6493	撓	<span class="china1">U+6320	挠</span>
+2322	U+6495	撕
+2323	U+6499	撙
+2324	U+649A	撚
+2325	U+649D	撝
+2326	U+649E	撞
+2327	U+64A4	撤
+2328	U+64A5	撥	<span class="china1">U+62E8	拨</span>
+2329	U+64AB	撫	<span class="china1">U+629A	抚</span>
+2330	U+64AD	播
+2331	U+64AE	撮
+2332	U+64B0	撰
+2333	U+64B2	撲
+2334	U+64AC	撬
+2335	<span class="old">U+64EB	擫</span>	<span class="s3">U+645C	摜</span>
+2336	<span class="old">U+64B1	撱</span>	<span class="s2">N/A	[扌頓]</span>	<span class="china2">U+6509	攉</span>
+2337	U+64BB	撻	<span class="china1">U+631E	挞</span>
+2338	U+64BC	撼
+2339	U+64BE	撾	<span class="china1">U+631D	挝</span>
+2340	U+64C1	擁	<span class="china1">U+62E5	拥</span>
+2341	U+64C2	擂
+2342	U+64C4	擄	<span class="china1">U+63B3	掳</span>
+2343	U+64C5	擅
+2344	U+64C7	擇	<span class="china1">U+62E9	择</span>
+2345	U+64CA	擊	<span class="china1">U+51FB	击</span>
+2346	U+64CB	擋	<span class="china1">U+6321	挡</span>
+2347	U+64CD	操
+2348	U+64CE	擎
+2349	<span class="old">U+64D0	擐</span>	<span class="s2">U+64F0	擰</span>
+2350	U+64D2	擒
+2351	U+64D4	擔
+2352	U+64D7	擗
+2353	U+64D8	擘
+2354	U+64DA	據
+2355	U+64F7	擷	<span class="china1">U+64B7	撷</span>
+2356	U+6519	攙	<span class="china1">U+6400	搀</span>
+2357	U+64E0	擠	<span class="china1">U+6324	挤</span>
+2358	U+64E1	擡
+2359	U+64E2	擢
+2360	U+64E3	擣
+2361	U+64E6	擦
+2362	U+64EC	擬	<span class="china1">U+62DF	拟</span>
+2363	U+64EF	擯	<span class="china1">U+6448	摈</span>
+2364	U+64F1	擱	<span class="china1">U+6401	搁</span>
+2365	<span class="old">U+64E5	擥</span>	<span class="s3">U+6506	攆</span>
+2366	U+64ED	擭
+2367	U+64F2	擲	<span class="china1">U+63B7	掷</span>
+2368	U+64F4	擴	<span class="china1">U+6269	扩</span>
+2369	U+64FA	擺	<span class="china1">U+6446	摆</span>
+2370	U+64FB	擻	<span class="china1">U+64DE	擞</span>
+2371	U+64FE	擾	<span class="china1">U+6270	扰</span>
+2372	U+6500	攀
+2373	U+6504	攄	<span class="china1">U+6445	摅</span>
+2374	U+6514	攔	<span class="china1">U+62E6	拦</span>
+2375	U+6516	攖	<span class="china1">U+6484	撄</span>
+2376	U+6518	攘
+2377	U+651C	攜	<span class="china1">U+643A	携</span>
+2378	U+651D	攝	<span class="china1">U+6444	摄</span>
+2379	<span class="old">U+651F	攟</span>	<span class="s3">U+650F	攏</span>
+2380	U+6522	攢	<span class="china1">U+6512	攒</span>
+2381	U+6523	攣	<span class="china1">U+631B	挛</span>
+2382	U+6524	攤	<span class="china1">U+644A	摊</span>
+2383	U+652A	攪	<span class="china1">U+6405	搅</span>
+2384	U+652B	攫
+2385	U+652C	攬	<span class="china1">U+63FD	揽</span>
+2386	U+6529	攩
+2387	U+62C3	拃
+2388	U+652F	支
+2389	U+6567	敧
+2390	<span class="s1">U+5843	塃</span>
+2391	U+6534	攴
+2392	U+6536	收
+2393	U+6537	攷
+2394	U+6538	攸
+2395	U+6539	改
+2396	U+653B	攻
+2397	U+653E	放
+2398	U+653F	政
+2399	U+6545	故
+<a id="s24"></a>
+2400	U+6548	效
+2401	U+6549	敉
+2402	U+654D	敍
+2403	U+6559	教
+2404	U+654F	敏
+2405	U+6551	救
+2406	U+6555	敕
+2407	U+6556	敖
+2408	U+6557	敗	<span class="china1">U+8D25	败</span>
+2409	U+6554	敔
+2410	U+6542	敂
+2411	U+655D	敝
+2412	U+655E	敞
+2413	U+6562	敢
+2414	U+6563	散
+2415	U+6566	敦
+2416	U+5910	夐
+2417	U+656C	敬
+2418	U+6572	敲
+2419	U+6574	整
+2420	U+6575	敵	<span class="china1">U+654C	敌</span>
+2421	U+6577	敷
+2422	U+6578	數	<span class="china1">U+6570	数</span>
+2423	U+657A	敺
+2424	U+6581	斁
+2425	U+6582	斂	<span class="china1">U+655B	敛</span>
+2426	U+6583	斃	<span class="china1">U+6BD9	毙</span>
+2427	U+6585	斅	<span class="china1">U+6569	敩</span>
+2428	U+656D	敭
+2429	U+6587	文
+2430	U+658C	斌
+2431	U+6590	斐
+2432	U+6591	斑
+2433	U+6595	斕	<span class="china1">U+6593	斓</span>
+2434	<span class="s1">U+87E5	蟥</span>
+2435	U+6597	斗
+2436	U+6599	料
+2437	U+659B	斛
+2438	U+659C	斜
+2439	U+659D	斝
+2440	U+659F	斟
+2441	U+65A1	斡
+2442	U+65A2	斢
+2443	U+65A4	斤
+2444	U+65A5	斥
+2445	U+65A7	斧
+2446	U+65A8	斨
+2447	U+65AC	斬	<span class="china1">U+65A9	斩</span>
+2448	U+65AF	斯
+2449	<span class="old">U+65AE	斮</span>	<span class="s2">N/A	[單斤]</span>
+2450	U+65B0	新
+2451	U+65B7	斷	<span class="china1">U+65AD	断</span>
+2452	U+65B2	斲
+2453	U+65B8	斸
+2454	<span class="s1">U+4435	䐵(<script type="text/javascript">disphex("4435");</script>)</span>
+2455	U+65B9	方
+2456	U+65BC	於
+2457	U+65BD	施
+2458	U+65BF	斿
+2459	U+65CE	旎
+2460	U+65C1	旁
+2461	U+65C2	旂
+2462	U+65C3	旃
+2463	U+65C4	旄
+2464	U+65C5	旅
+2465	U+65C6	旆
+2466	U+65D0	旐
+2467	U+65CB	旋
+2468	U+65CC	旌
+2469	U+65CF	族
+2470	U+65D6	旖
+2471	U+65D2	旒
+2472	U+65DC	旜
+2473	U+65DB	旛
+2474	U+65DF	旟
+2475	<span class="old">U+65DD	旝</span>	<span class="s3">U+65D7	旗</span>
+2476	<span class="s1">U+71F4	燴</span>
+2477	U+65E0	无
+2478	U+65E2	既
+2479	<span class="old">U+65E1	旡</span>	<span class="s2">U+66C6	曆</span>
+2480	U+65E5	日
+2481	U+65E6	旦
+2482	U+65E8	旨
+2483	U+65E9	早
+2484	U+65EC	旬
+2485	U+65ED	旭
+2486	U+65F0	旰
+2487	U+65F1	旱
+2488	<span class="old">U+65F4	旴</span>	<span class="s3">U+6652	晒</span>
+2489	U+65FA	旺
+2490	U+660C	昌
+2491	U+6602	昂
+2492	U+6606	昆
+2493	U+6603	昃
+2494	U+660E	明
+2495	U+660F	昏
+2496	U+6613	易
+2497	U+6614	昔
+2498	<span class="old">U+6600	昀</span>	<span class="s2">U+6657	晗</span>
+2499	U+6609	昉
+<a id="s25"></a>
+2500	U+6615	昕
+2501	U+661D	昝
+2502	U+661F	星
+2503	U+6620	映
+2504	U+6625	春
+2505	U+6627	昧
+2506	U+6628	昨
+2507	U+662D	昭
+2508	U+662F	是
+2509	U+6631	昱
+2510	U+6634	昴
+2511	U+6635	昵
+2512	<span class="c0">U+6636	昶</span>
+2513	U+6641	晁
+2514	U+6642	時	<span class="china1">U+65F6	时</span>
+2515	U+6643	晃
+2516	U+6649	晉	<span class="china1">U+664B	晋</span>
+2517	U+664C	晌
+2518	U+664F	晏
+2519	U+665A	晚
+2520	<span class="old">U+665B	晛</span>	<span class="s3">U+6662	晢</span>
+2521	U+665D	晝	<span class="china1">U+663C	昼</span>
+2522	U+665E	晞
+2523	U+6661	晡
+2524	U+6664	晤
+2525	U+6668	晨
+2526	U+6666	晦
+2527	<span class="old">U+6667	晧</span>	<span class="s2">U+668E	暎</span>
+2528	U+666E	普
+2529	U+666F	景
+2530	U+6670	晰
+2531	U+6673	晳
+2532	U+6674	晴
+2533	U+6676	晶
+2534	U+6677	晷
+2535	U+667A	智
+2536	U+666C	晬
+2537	U+6684	暄
+2538	U+6687	暇
+2539	U+668D	暍
+2540	U+6691	暑
+2541	U+6696	暖
+2542	U+6697	暗
+2543	U+6698	暘	<span class="china1">U+65F8	旸</span>
+2544	U+669D	暝
+2545	U+66A2	暢	<span class="china1">U+7545	畅</span>
+2546	U+6688	暈	<span class="china1">U+6655	晕</span>
+2547	U+6689	暉	<span class="china1">U+6656	晖</span>
+2548	U+66AB	暫	<span class="china1">U+6682	暂</span>
+2549	U+66AC	暬	<span class="china2">U+65FB	旻</span>
+2550	U+66AE	暮
+2551	U+66B1	暱
+2552	U+66B4	暴
+2553	U+66B5	暵
+2554	U+66B9	暹
+2555	U+66A8	暨
+2556	U+66C9	曉	<span class="china1">U+6653	晓</span>
+2557	U+66BE	暾
+2558	U+66C0	曀
+2559	U+66C8	曈
+2560	U+66C7	曇	<span class="china1">U+6619	昙</span>
+2561	U+66CF	曏
+2562	U+66D9	曙
+2563	U+66DA	曚
+2564	U+66DB	曛
+2565	U+66DC	曜
+2566	U+66DD	曝
+2567	U+66E1	曡
+2568	U+66E0	曠	<span class="china1">U+65F7	旷</span>
+2569	U+66E6	曦
+2570	U+66E8	曨	<span class="china1">U+663D	昽</span>
+2571	U+66E9	曩
+2572	U+66EC	曬
+2573	U+6607	昇
+2574	U+66F0	曰
+2575	U+66F2	曲
+2576	U+66F3	曳
+2577	U+66F4	更
+2578	U+66F7	曷
+2579	U+66F8	書	<span class="china1">U+4E66	书</span>
+2580	U+66F9	曹
+2581	U+66FC	曼
+2582	U+66FE	曾
+2583	U+66FF	替
+2584	U+6700	最
+2585	U+6703	會	<span class="china1">U+4F1A	会</span>
+2586	U+6705	朅
+2587	U+52D7	勗
+2588	U+6708	月
+2589	U+6709	有
+2590	U+670B	朋
+2591	U+670D	服
+2592	U+6714	朔
+2593	U+6710	朐
+2594	U+6713	朓	<span class="china1">U+8101	脁</span>
+2595	U+670F	朏
+2596	U+6715	朕
+2597	U+6717	朗
+2598	U+671B	望
+2599	U+671E	朞
+<a id="s26"></a>
+2600	U+671D	朝
+2601	U+671F	期
+2602	U+6722	朢
+2603	U+6726	朦
+2604	U+6727	朧	<span class="china1">U+80E7	胧</span>
+2605	<span class="s1">U+8020	耠</span>
+2606	U+6728	木
+2607	U+672A	未
+2608	U+672B	末
+2609	U+672C	本
+2610	U+672D	札
+2611	U+672E	朮	<span class="china1">U+672F	术</span>
+2612	U+6731	朱
+2613	U+6734	朴
+2614	U+6736/U+6735	朶;朵
+2615	U+673D	朽
+2616	U+6746	杆
+2617	U+6748	杈
+2618	<span class="old">U+6747	杇</span>	<span class="s3">U+6777	杷</span>
+2619	U+6749	杉
+2620	U+674C	杌
+2621	U+674E	李
+2622	U+674F	杏
+2623	<span class="s3">U+673A	机</span>
+2624	U+6750	材
+2625	U+6751	村
+2626	U+6753	杓
+2627	U+6756	杖
+2628	<span class="old">U+6755	杕</span>	<span class="s2">U+67C8	柈</span>
+2629	U+675C	杜
+2630	U+675E	杞
+2631	U+675F	束
+2632	<span class="old">U+6760	杠</span>	<span class="s2">U+68A0	梠</span>
+2633	<span class="old">U+6757	杗</span>	<span class="s3">U+6813	栓</span>
+2634	U+676A	杪
+2635	U+676D	杭
+2636	U+67FF	柿
+2637	U+676F	杯
+2638	U+6770	杰
+2639	U+6771	東	<span class="china1">U+4E1C	东</span>
+2640	U+6772	杲
+2641	U+6773	杳
+2642	<span class="old">U+6776	杶</span>	<span class="s2">U+6917	椗</span>	<span class="china2">U+673F	朿</span>
+2643	U+6775	杵
+2644	<span class="old">U+675D	杝</span>	<span class="s2">U+68F5	棵</span>
+2645	U+677C	杼
+2646	U+677E	松
+2647	<span class="c0">U+677F	板</span>
+2648	U+6789	枉
+2649	U+6790	析
+2650	U+6795	枕
+2651	U+6797	林
+2652	U+6799	枙
+2653	U+679A	枚
+2654	U+679C	果
+2655	U+679D	枝
+2656	<span class="old">U+67A4	枤</span>	<span class="s2">U+697B	楻</span>
+2657	U+6787	枇
+2658	U+678B	枋
+2659	U+678C	枌
+2660	U+6798	枘
+2661	U+67AF	枯
+2662	U+67B2	枲
+2663	U+67B3	枳
+2664	U+67B5	枵
+2665	U+67B6	架
+2666	U+67B7	枷
+2667	U+67B8	枸
+2668	U+67CE	柎
+2669	U+67BB	枻
+2670	<span class="c0">U+67C1	柁</span>
+2671	U+67C4	柄
+2672	U+67CF	柏
+2673	U+67D0	某
+2674	U+67D1	柑
+2675	U+67D2	柒
+2676	U+67D3	染
+2677	U+67D4	柔
+2678	U+67D8	柘
+2679	U+67D9	柙
+2680	U+67DA	柚
+2681	U+67DC	柜
+2682	U+67DD	柝
+2683	U+67DE	柞
+2684	U+67DF	柟
+2685	U+67E2	柢
+2686	U+67E5	查
+2687	U+67EC	柬
+2688	U+67EF	柯
+2689	U+67EE	柮
+2690	U+67F0	柰
+2691	U+67F1	柱
+2692	U+67F3	柳
+2693	U+67F4	柴
+2694	U+67F5	柵	<span class="china1">U+6805	栅</span>
+2695	U+67B0	枰
+2696	U+67B9	枹
+2697	<span class="old">U+67F7	柷</span>	<span class="s2">U+6A0B	樋</span>
+2698	U+6817	栗
+2699	U+6821	校
+<a id="s27"></a>
+2700	U+6829	栩
+2701	U+682A	株
+2702	U+6838	核
+2703	U+6831	栱
+2704	U+6839	根
+2705	<span class="old">U+683B	栻</span>	<span class="s2">U+69FE	槾</span>
+2706	U+683C	格
+2707	U+683D	栽
+2708	U+6840	桀
+2709	<span class="c0">U+6841	桁</span>
+2710	U+6842	桂
+2711	U+6843	桃
+2712	U+6845	桅
+2713	U+6846	框
+2714	U+6848	案
+2715	U+684C	桌
+2716	U+684E	桎
+2717	U+6850	桐
+2718	U+6851	桑
+2719	U+6853	桓
+2720	U+6854	桔
+2721	U+6855	桕
+2722	<span class="c0">U+6816	栖</span>
+2723	U+6832	栲
+2724	U+6833	栳
+2725	U+6844	桄
+2726	U+686B	桫
+2727	U+6874	桴
+2728	U+6879	桹
+2729	U+6876	桶
+2730	U+6877	桷
+2731	U+687F	桿
+2732	U+6883	梃
+2733	U+6881	梁
+2734	U+6885	梅
+2735	U+6886	梆
+2736	U+688F	梏
+2737	U+6893	梓
+2738	U+6894	梔	<span class="china1">U+6800	栀</span>
+2739	U+6897	梗
+2740	U+685A	桚
+2741	U+689C	梜
+2742	U+689D	條	<span class="china1">U+6761	条</span>
+2743	U+689F	梟	<span class="china1">U+67AD	枭</span>
+2744	U+68A2	梢
+2745	U+68A7	梧
+2746	U+68A8	梨
+2747	U+68AD	梭
+2748	U+68AF	梯
+2749	U+68B1	梱
+2750	U+68B0	械
+2751	U+68B2	梲
+2752	U+68B3	梳
+2753	U+68B5	梵
+2754	U+686E	桮
+2755	U+6890	梐
+2756	U+686F	桯
+2757	U+68C4	棄	<span class="china1">U+5F03	弃</span>
+2758	U+68C9	棉
+2759	U+68CB	棋
+2760	U+68CD	棍
+2761	U+68D2	棒
+2762	U+68D5	棕
+2763	U+68D6	棖	<span class="china1">U+67A8	枨</span>
+2764	U+68D7	棗	<span class="china1">U+67A3	枣</span>
+2765	U+68D8	棘
+2766	U+68DA	棚
+2767	U+68DF	棟	<span class="china1">U+680B	栋</span>
+2768	U+68E0	棠
+2769	U+68E3	棣
+2770	U+68E7	棧	<span class="china1">U+6808	栈</span>
+2771	U+68EB	棫
+2772	U+68EC	棬
+2773	U+68EE	森
+2774	U+68F0	棰
+2775	U+6966	楦
+2776	U+68F2	棲
+2777	U+68F9	棹
+2778	U+68FA	棺
+2779	<span class="c0">U+6901	椁</span>
+2780	U+68FB	棻
+2781	U+68FC	棼
+2782	U+6900	椀
+2783	U+6905	椅
+2784	U+690D	植
+2785	U+690E	椎
+2786	U+6912	椒
+2787	U+68D0	棐
+2788	U+68D3	棓
+2789	U+68F1	棱
+2790	U+68E8	棨
+2791	U+6910	椐
+2792	U+6913	椓
+2793	U+6937	椷
+2794	U+6930	椰
+2795	U+6939	椹
+2796	U+693D	椽
+2797	U+693F	椿
+2798	U+6945	楅
+2799	U+694A	楊	<span class="china1">U+6768	杨</span>
+<a id="s28"></a>
+2800	U+6953	楓	<span class="china1">U+67AB	枫</span>
+2801	U+6954	楔
+2802	U+6ADB	櫛	<span class="china1">U+6809	栉</span>
+2803	U+6957	楗
+2804	<span class="old">U+6959	楙</span>	<span class="s2">U+6A7A	橺</span>
+2805	U+6958	楘
+2806	U+695A	楚
+2807	U+695E	楞
+2808	U+695D	楝
+2809	U+6960	楠
+2810	U+6986	榆
+2811	U+6962	楢
+2812	U+6963	楣
+2813	U+696B	楫
+2814	U+696D	業	<span class="china1">U+4E1A	业</span>
+2815	U+696F	楯
+2816	U+696E	楮
+2817	U+6975	極	<span class="china1">U+6781	极</span>
+2818	U+6977	楷
+2819	U+6979	楹
+2820	U+6936	椶
+2821	U+6938	椸
+2822	U+695B	楛	<span class="china2">U+69E0	槠</span>
+2823	U+6968	楨	<span class="china1">U+6862	桢</span>
+2824	U+6969	楩
+2825	U+6978	楸
+2826	U+6994	榔
+2827	U+6995	榕
+2828	U+6996	榖
+2829	U+6998	榘
+2830	U+699B	榛
+2831	U+699C	榜
+2832	U+69A6	榦
+2833	U+69A7	榧
+2834	U+69A8	榨
+2835	U+69AB	榫
+2836	U+69AD	榭
+2837	U+69AE	榮	<span class="china1">U+8363	荣</span>
+2838	U+69B1	榱
+2839	U+69B4	榴
+2840	U+69BB	榻
+2841	U+69BE	榾
+2842	U+69C1	槁
+2843	U+69C5	槅
+2844	U+69CA	槊
+2845	U+69CB	構	<span class="china1">U+6784	构</span>
+2846	U+69CC	槌
+2847	U+69CD	槍	<span class="china1">U+67AA	枪</span>
+2848	U+69CE	槎
+2849	U+69D0	槐
+2850	U+69D3	槓
+2851	U+698E	榎
+2852	U+69A4	榤
+2853	U+69A5	榥
+2854	U+69B7	榷
+2855	U+69BC	榼
+2856	U+6A11	樑
+2857	U+69C3	槃
+2858	U+69E7	槧	<span class="china1">U+6920	椠</span>
+2859	U+69E8	槨
+2860	<span class="old">U+69E9	槩</span>	<span class="s3">U+6A4C	橌</span>
+2861	U+6982	概
+2862	U+69F3	槳	<span class="china1">U+6868	桨</span>
+2863	U+69D4	槔
+2864	U+69FD	槽
+2865	U+69FF	槿
+2866	U+6A01	樁	<span class="china1">U+6869	桩</span>
+2867	U+6A02	樂	<span class="china1">U+4E50	乐</span>
+2868	U+6A0A	樊
+2869	U+6A13	樓	<span class="china1">U+697C	楼</span>
+2870	U+6A15	樕	<span class="china2">U+6A66	橦</span>
+2871	U+6A19	標	<span class="china1">U+6807	标</span>
+2872	U+6A1B	樛
+2873	U+6A1E	樞	<span class="china1">U+67A2	枢</span>
+2874	U+6A1F	樟
+2875	U+6A21	模
+2876	U+6A23	樣	<span class="china1">U+6837	样</span>
+2877	U+69E5	槥
+2878	U+6A05	樅	<span class="china1">U+679E	枞</span>
+2879	U+6A0F	樏
+2880	U+6A17	樗
+2881	U+69F1	槱
+2882	<span class="old">U+6A32	樲</span>	<span class="s2">U+6A81	檁</span>
+2883	U+6A38	樸
+2884	U+6A35	樵
+2885	U+6A39	樹	<span class="china1">U+6811	树</span>
+2886	U+6A3D	樽
+2887	U+6A3E	樾
+2888	U+6A44	橄
+2889	U+6A48	橈	<span class="china1">U+6861	桡</span>
+2890	U+6A4B	橋	<span class="china1">U+6865	桥</span>
+2891	U+6A50	橐
+2892	U+6A59	橙
+2893	U+6A5B	橛
+2894	U+6A5F	機
+2895	U+6A61	橡
+2896	U+6A67	橧
+2897	U+6A6B	橫
+2898	U+6A28	樨
+2899	U+6AB8	檸	<span class="china1">U+67E0	柠</span>
+<a id="s29"></a>
+2900	U+6A62	橢	<span class="china1">U+692D	椭</span>
+2901	U+6A3A	樺	<span class="china1">U+6866	桦</span>
+2902	U+6A41	橁
+2903	U+6A96	檖
+2904	U+6A58	橘
+2905	U+6A80	檀
+2906	U+6A89	檉	<span class="china1">U+67FD	柽</span>
+2907	U+6A84	檄
+2908	U+6A90	檐
+2909	U+6A94	檔	<span class="china1">U+6863	档</span>
+2910	U+6A9C	檜	<span class="china1">U+6867	桧</span>
+2911	U+6A9F	檟	<span class="china1">U+69DA	槚</span>
+2912	U+6A9D	檝
+2913	U+6AA0	檠
+2914	U+6AA2	檢	<span class="china1">U+68C0	检</span>
+2915	U+6AA3	檣	<span class="china1">U+6A2F	樯</span>
+2916	U+6AAC	檬
+2917	U+6AAE	檮	<span class="china1">U+68BC	梼</span>
+2918	U+6AAF	檯
+2919	U+6AB3	檳	<span class="china1">U+69DF	槟</span>
+2920	U+6ABB	檻	<span class="china1">U+69DB	槛</span>
+2921	U+6AC2	櫂
+2922	U+6AC3	櫃
+2923	U+6AC8	櫈
+2924	U+6AD3	櫓	<span class="china1">U+6A79	橹</span>
+2925	U+6ADA	櫚	<span class="china1">U+6988	榈</span>
+2926	U+6ADC	櫜
+2927	U+6ADD	櫝	<span class="china1">U+691F	椟</span>
+2928	U+6ADE	櫞	<span class="china1">U+6A7C	橼</span>
+2929	U+6ADF	櫟	<span class="china1">U+680E	栎</span>
+2930	U+6AF1	櫱
+2931	U+6AEA	櫪	<span class="china1">U+67A5	枥</span>
+2932	U+6AEC	櫬	<span class="china1">U+6987	榇</span>
+2933	U+6AFA	櫺	<span class="china1">U+68C2	棂</span>
+2934	U+6AF3	櫳	<span class="china1">U+680A	栊</span>
+2935	U+6AFD	櫽
+2936	U+6B04	欄	<span class="china1">U+680F	栏</span>
+2937	U+6AFB	櫻	<span class="china1">U+6A31	樱</span>
+2938	U+6B0A	權	<span class="china1">U+6743	权</span>
+2939	U+6B1D	欝
+2940	U+6B12	欒	<span class="china1">U+683E	栾</span>
+2941	U+6B16	欖	<span class="china1">U+6984	榄</span>
+2942	U+6B03	欃
+2943	U+67E9	柩
+2944	U+6B20	欠
+2945	U+6B21	次
+2946	U+6B23	欣
+2947	U+6B2C	欬
+2948	U+6B32	欲
+2949	U+6B3E	款
+2950	U+6B37	欷
+2951	U+6B39	欹
+2952	U+6B3A	欺
+2953	U+6B3D	欽	<span class="china1">U+94A6	钦</span>
+2954	U+6B3F	欿
+2955	U+6B43	歃
+2956	U+6B46	歆
+2957	U+6B47	歇
+2958	U+6B55	歕
+2959	U+6B49	歉
+2960	U+6B4C	歌
+2961	U+6B4E	歎
+2962	U+6B50	歐	<span class="china1">U+6B27	欧</span>
+2963	U+6B54	歔
+2964	U+6B3B	欻
+2965	U+6B59	歙
+2966	U+6B5B	歛
+2967	U+6B5D	歝
+2968	U+6B5F	歟	<span class="china1">U+6B24	欤</span>
+2969	U+6B60	歠
+2970	U+6B61	歡	<span class="china1">U+6B22	欢</span>
+2971	U+6B5E	歞
+2972	U+6B62	止
+2973	U+6B63	正
+2974	U+6B64	此
+2975	U+6B65	步
+2976	U+6B66	武
+2977	U+6B6A	歪
+2978	U+6B67	歧
+2979	U+6B72	歲	<span class="china1">U+5C81	岁</span>
+2980	U+6B77	歷	<span class="china1">U+5386	历</span>
+2981	U+6B78	歸	<span class="china1">U+5F52	归</span>
+2982	<span class="s1">U+9225	鈥</span>
+2983	U+6B79	歹
+2984	U+6B7B	死
+2985	U+6B7F	歿	<span class="china1">U+6B81	殁</span>
+2986	U+6B80	殀
+2987	U+6B82	殂
+2988	U+6B83	殃
+2989	U+6B84	殄
+2990	U+6B86	殆
+2991	U+6B89	殉
+2992	U+6B8A	殊
+2993	U+6B8D	殍
+2994	U+6B96	殖
+2995	U+6B98	殘	<span class="china1">U+6B8B	残</span>
+2996	U+6B95	殕
+2997	U+6B9B	殛
+2998	U+6B9E	殞	<span class="china1">U+6B92	殒</span>
+2999	U+6BA4	殤	<span class="china1">U+6B87	殇</span>
+<a id="s30"></a>
+3000	U+6BAB	殫	<span class="china1">U+6B9A	殚</span>
+3001	U+6BA2	殢
+3002	U+6BAA	殪
+3003	U+6BAE	殮	<span class="china1">U+6B93	殓</span>
+3004	U+6BAF	殯	<span class="china1">U+6BA1	殡</span>
+3005	U+6BB2	殲	<span class="china1">U+6B7C	歼</span>
+3006	<span class="s1">U+93B5	鎵</span>
+3007	U+6BB3	殳
+3008	U+6BB5	段
+3009	U+6BB7	殷
+3010	U+6BBA	殺	<span class="china1">U+6740	杀</span>
+3011	U+6BBC	殼
+3012	U+6BBD	殽
+3013	U+6BBF	殿
+3014	U+6BC0	毀	<span class="china1">U+6BC1	毁</span>
+3015	U+6BC5	毅
+3016	U+6BC6	毆	<span class="china1">U+6BB4	殴</span>
+3017	<span class="s1">U+6935	椵</span>
+3018	U+6BCD	母
+3019	U+6BCB	毋
+3020	U+6BCF	每
+3021	U+6BD2	毒
+3022	U+6BD3	毓
+3023	Deleted
+3024	U+6BD4	比
+3025	U+6BD6	毖
+3026	U+6BD7	毗
+3027	U+6BD8	毘
+3028	<span class="s1">U+9C39	鰹</span>
+3029	U+6BDB	毛
+3030	<span class="c0">U+6BE1	毡</span>
+3031	U+6BE7	毧
+3032	U+6BEB	毫
+3033	U+6BEC	毬
+3034	U+6BEF	毯
+3035	U+6BF3	毳
+3036	U+6C02	氂	<span class="china1">U+7266	牦</span>
+3037	U+6C05	氅
+3038	U+6BF8	毸
+3039	U+6BF9	毹
+3040	U+6C04	氄
+3041	U+6C08	氈
+3042	U+6C0D	氍
+3043	U+6BDC	毜
+3044	U+6C0F	氏
+3045	U+6C10	氐
+3046	U+6C11	民
+3047	U+6C13	氓
+3048	U+6C2F	氯
+3049	U+6C14	气
+3050	U+6C1B	氛
+3051	U+6C23	氣
+3052	U+6C24	氤
+3053	U+6C33	氳	<span class="china1">U+6C32	氲</span>
+3054	U+6D60	浠
+3055	U+6C34	水
+3056	U+6C37	氷
+3057	U+6C38	永
+3058	U+6C3E	氾
+3059	U+6C41	汁
+3060	U+6C40	汀
+3061	U+6C42	求
+3062	U+6C4E	汎
+3063	U+6C57	汗
+3064	U+6C61	污
+3065	U+6C5B	汛
+3066	U+6C5C	汜
+3067	U+6C5D	汝
+3068	U+6C5F	江
+3069	U+6C60	池
+3070	U+6C4A	汊
+3071	U+6C50	汐
+3072	U+6C54	汔
+3073	U+6C55	汕
+3074	U+6C5E	汞
+3075	U+6C68	汨
+3076	U+6C6A	汪
+3077	U+6C70	汰
+3078	U+6C72	汲
+3079	U+6C74	汴
+3080	U+6C76	汶
+3081	<span class="c0">U+6C79	汹</span>
+3082	U+6C7A	決
+3083	U+6C7E	汾
+3084	U+6C81	沁
+3085	U+6C82	沂
+3086	<span class="old">U+6C84	沄</span>	<span class="s3">U+6C7D	汽</span>
+3087	U+6C83	沃
+3088	U+6C88	沈
+3089	U+6C89	沉
+3090	U+6C8C	沌
+3091	U+6C8D	沍
+3092	U+6C90	沐
+3093	U+6C92	沒	<span class="china1">U+6CA1	没</span>
+3094	U+6C94	沔
+3095	U+6C96	沖
+3096	U+6C97	沗
+3097	U+6C99	沙
+3098	U+6C9A	沚
+3099	U+6C9B	沛
+<a id="s31"></a>
+3100	U+6C86	沆
+3101	U+6C93	沓
+3102	U+6C69	汩
+3103	U+6C6D	汭
+3104	U+6C85	沅
+3105	U+6CAC	沬
+3106	U+6CAB	沫
+3107	U+6CAE	沮
+3108	U+6CB1	沱
+3109	U+6CB3	河
+3110	U+6CB8	沸
+3111	U+6CB9	油
+3112	U+6CBB	治
+3113	U+6CBC	沼
+3114	U+6CBD	沽
+3115	U+6CBE	沾
+3116	U+6CBF	沿
+3117	<span class="old">U+6CC2	泂</span>	<span class="s3">U+6D3A	洺</span>
+3118	U+6CC4	泄
+3119	<span class="old">U+6CC1	況</span>	<span class="s3">U+6CF5	泵</span>
+3120	U+6CC5	泅
+3121	U+6CD4	泔
+3122	U+6CC6	泆
+3123	U+6CC9	泉
+3124	U+6CCA	泊
+3125	U+6CCC	泌
+3126	U+6CD3	泓
+3127	U+6CD5	法
+3128	U+6CD7	泗
+3129	<span class="old">U+6CDA	泚</span>	<span class="s3">U+6D29	洩</span>
+3130	U+6CD9	泙
+3131	U+6CDB	泛
+3132	U+6CE0	泠
+3133	U+6CE1	泡
+3134	U+6CE2	波
+3135	U+6CE3	泣
+3136	U+6CE5	泥
+3137	U+6CE8	注
+3138	U+6CEB	泫
+3139	U+6CEF	泯
+3140	U+6CEE	泮
+3141	U+6CF0	泰
+3142	U+6CF1	泱
+3143	U+6CF2	泲
+3144	U+6CF3	泳
+3145	U+6CAD	沭
+3146	U+6CB4	沴
+3147	U+6CD0	泐
+3148	U+6CD6	泖
+3149	U+6CDD	泝
+3150	U+6D04	洄
+3151	U+6D0A	洊	<span class="china2">U+6D50	浐</span>
+3152	U+6D0B	洋
+3153	U+6D0C	洌	<span class="china2">U+6D55	浕</span>
+3154	U+6D0E	洎
+3155	U+6D12	洒
+3156	U+6D17	洗
+3157	U+6D1B	洛
+3158	U+6D1F	洟	<span class="china2">U+6D49	浉</span>
+3159	U+6D1E	洞
+3160	U+6D25	津
+3161	U+6D27	洧
+3162	U+6C67	汧
+3163	U+6D2A	洪
+3164	U+6D2B	洫
+3165	U+6D2E	洮
+3166	U+6D32	洲
+3167	U+6D31	洱
+3168	U+6D33	洳
+3169	U+6D35	洵
+3170	U+6D36	洶	<span class="china2">U+6D48	浈</span>
+3171	U+6D38	洸
+3172	U+6D3B	活
+3173	U+6D3C	洼
+3174	U+6D3D	洽
+3175	U+6D3E	派
+3176	U+6D3F	洿	<span class="china2">U+6D28	洨</span>
+3177	U+6D41	流
+3178	U+6D19	洙
+3179	U+6D1A	洚
+3180	U+6D39	洹
+3181	U+6D59	浙
+3182	U+6D5A	浚
+3183	U+6D63	浣
+3184	U+6D66	浦
+3185	U+6D69	浩
+3186	U+6D6A	浪
+3187	U+6D6E	浮
+3188	U+6D74	浴
+3189	U+6D77	海
+3190	U+6D78	浸
+3191	U+6D79	浹	<span class="china1">U+6D43	浃</span>
+3192	<span class="old">U+6D7C	浼</span>	<span class="s3">U+6D6C	浬</span>
+3193	U+6D87	涇	<span class="china1">U+6CFE	泾</span>
+3194	U+6D88	消
+3195	U+6D89	涉
+3196	<span class="old">U+6D8C	涌</span>	<span class="s3">U+6DF3	淳</span>
+3197	U+6D93	涓
+3198	U+6D94	涔
+3199	U+6D95	涕
+<a id="s32"></a>
+3200	<span class="old">U+6D96	涖</span>	<span class="s3">U+6DF6	淶</span>
+3201	U+6D98	涘	<span class="china2">U+6DA2	涢</span>
+3202	U+6D61	浡
+3203	U+6D5C	浜
+3204	U+6D65	浥
+3205	U+6D82	涂
+3206	U+6D85	涅
+3207	<span class="old">U+6D92	涒</span>	<span class="s3">U+6E5F	湟</span>
+3208	U+6D91	涑
+3209	U+6DAF	涯
+3210	U+6DB2	液
+3211	U+6DB5	涵
+3212	U+6DB8	涸
+3213	U+6DBC	涼
+3214	U+6DBF	涿
+3215	U+6DC5	淅
+3216	U+6DC6	淆
+3217	U+6DC7	淇
+3218	U+6DCB	淋
+3219	U+6DD1	淑
+3220	<span class="old">U+6DD6	淖</span>	<span class="s3">U+6DF5	淵</span>
+3221	U+6DD8	淘
+3222	U+6DD9	淙
+3223	U+6DDA	淚	<span class="china1">U+6CEA	泪</span>
+3224	U+6DDD	淝
+3225	U+6DE1	淡
+3226	U+6DE4	淤
+3227	U+6DE6	淦
+3228	U+6DE8	淨	<span class="china1">U+6D44	浄</span>
+3229	U+6DEA	淪	<span class="china1">U+6CA6	沦</span>
+3230	U+6DEB	淫
+3231	U+6DEC	淬
+3232	U+6DEE	淮
+3233	U+6DF0	淰	<span class="china2">U+6D5B	浛</span>
+3234	U+6DF1	深
+3235	<span class="old">U+6DDF	淟</span>	<span class="s3">U+6E2E	渮</span>
+3236	U+6DF7	混
+3237	U+6E05	清
+3238	U+6DF9	淹
+3239	U+6DFA	淺	<span class="china1">U+6D45	浅</span>
+3240	U+6DFB	添
+3241	U+6D8E	涎
+3242	U+6DAA	涪
+3243	U+6DB4	涴
+3244	U+6DC0	淀
+3245	U+6DC4	淄
+3246	U+6DD2	淒	<span class="china2">U+6DA0	涠</span>
+3247	U+6DDE	淞
+3248	U+6C4B	汋	<span class="china2">U+6D6F	浯</span>
+3249	U+6DE9	淩	<span class="china2">U+6DAD	涭</span>
+3250	<span class="old">U+6DDC	淜</span>	<span class="s2">U+6EE7	滧</span>
+3251	U+6E19	渙	<span class="china1">U+6DA3	涣</span>
+3252	U+6E1A	渚
+3253	U+6E1B	減
+3254	U+6E1D	渝
+3255	U+6E20	渠
+3256	U+6E21	渡
+3257	U+6E23	渣
+3258	U+6E24	渤
+3259	U+6E25	渥
+3260	U+6E26	渦	<span class="china1">U+6DA1	涡</span>
+3261	U+6E2C	測	<span class="china1">U+6D4B	测</span>
+3262	U+6E2D	渭
+3263	U+6E2F	港
+3264	U+6E30	渰
+3265	U+6E34	渴
+3266	U+6E38	游
+3267	U+6E3A	渺
+3268	U+6E3E	渾	<span class="china1">U+6D51	浑</span>
+3269	U+6E43	湃
+3270	U+6E44	湄
+3271	U+6E45	湅
+3272	U+6E4A	湊
+3273	U+6E4D	湍
+3274	U+6E4E	湎
+3275	U+6E56	湖
+3276	U+6E58	湘
+3277	U+6E5B	湛
+3278	U+6E5D	湝
+3279	U+6E67	湧
+3280	U+6E6B	湫
+3281	U+6E6E	湮
+3282	U+6E6F	湯	<span class="china1">U+6C64	汤</span>
+3283	U+6E72	湲
+3284	U+6E71	湱
+3285	<span class="old">U+6E1F	渟</span>	<span class="s2">U+6FC9	濉</span>
+3286	<span class="old">U+6E22	渢</span>	<span class="s2">U+3D8D	㶍(<script type="text/javascript">disphex("3D8D");</script>)</span>
+3287	<span class="old">U+6E51	湑</span>	<span class="s2">U+7055	灕</span>
+3288	U+6E53	湓
+3289	U+6E54	湔
+3290	U+6E5C	湜
+3291	U+6E4F	湏
+3292	<span class="old">U+6E69	湩</span>	<span class="s2">U+3D9E	㶞(<script type="text/javascript">disphex("3D9E");</script>)</span>
+3293	U+6E90	源
+3294	U+6E96	準
+3295	U+6E9B	溛	<span class="china2">U+6EB5	溵</span>
+3296	U+6E9C	溜
+3297	U+6E9D	溝	<span class="china1">U+6C9F	沟</span>
+3298	U+6E9F	溟
+3299	U+6EA0	溠
+<a id="s33"></a>
+3300	U+6EA2	溢
+3301	U+6EA4	溤
+3302	U+6EA5	溥
+3303	U+6EA7	溧
+3304	<span class="old">U+6EA6	溦</span>	<span class="s3">U+6C4D	汍</span>
+3305	U+6EAA	溪
+3306	U+6E29	温	<span class="china1">U+6E29	温</span>
+3307	U+6EAF	溯
+3308	U+6EB1	溱
+3309	U+6EB2	溲
+3310	U+6EB6	溶
+3311	U+6EB7	溷
+3312	U+6EBA	溺
+3313	U+6EBC	溼
+3314	U+6EBD	溽
+3315	U+6EC1	滁
+3316	U+6EC2	滂
+3317	U+6EC3	滃
+3318	U+6EC4	滄	<span class="china1">U+6CA7	沧</span>
+3319	U+6EC5	滅	<span class="china1">U+706D	灭</span>
+3320	U+6ECB	滋
+3321	U+6ECC	滌	<span class="china1">U+6DA4	涤</span>
+3322	U+6ECE	滎	<span class="china1">U+8365	荥</span>
+3323	U+6ED1	滑
+3324	U+6ED3	滓
+3325	U+6ED4	滔
+3326	U+6ED5	滕
+3327	<span class="old">U+6E8F	溏</span>	<span class="s3">U+6CE9	泩</span>
+3328	U+6E98	溘
+3329	U+6EC7	滇
+3330	U+6ED8	滘
+3331	U+6EEB	滫
+3332	U+6EEE	滮
+3333	U+6EEF	滯	<span class="china1">U+6EDE	滞</span>
+3334	U+6EF2	滲
+3335	U+6F9D	澝
+3336	U+6EF4	滴
+3337	U+6EEC	滬	<span class="china1">U+6CAA	沪</span>
+3338	U+6EF8	滸	<span class="china1">U+6D52	浒</span>
+3339	<span class="old">U+6EFA	滺</span>	<span class="s3">U+6D11	洑</span>
+3340	U+6EFE	滾	<span class="china1">U+6EDA	滚</span>
+3341	U+6EFF	滿	<span class="china1">U+6EE1	满</span>
+3342	U+6F01	漁	<span class="china1">U+6E14	渔</span>
+3343	U+6F02	漂
+3344	U+6F06	漆
+3345	U+6F0F	漏
+3346	U+6E89	溉
+3347	U+6F13	漓
+3348	U+6F14	演
+3349	U+6F18	漘
+3350	U+6F19	漙
+3351	U+6F20	漠
+3352	U+6F22	漢	<span class="china1">U+6C49	汉</span>
+3353	U+6F23	漣	<span class="china1">U+6D9F	涟</span>
+3354	U+6F2A	漪
+3355	U+6F2B	漫
+3356	U+6F2C	漬	<span class="china1">U+6E0D	渍</span>
+3357	U+6F2D	漭
+3358	<span class="old">U+6F30	漰</span>	<span class="s3">U+6DCC	淌</span>
+3359	U+6F31	漱
+3360	U+6F32	漲	<span class="china1">U+6DA8	涨</span>
+3361	U+6F33	漳
+3362	U+6F38	漸	<span class="china1">U+6E10	渐</span>
+3363	U+6F3E	漾
+3364	U+6F3F	漿	<span class="china1">U+6D46	浆</span>
+3365	<span class="old">U+6F4C	潌</span>	<span class="s3">U+6ECA	滊</span>
+3366	U+6EF7	滷
+3367	U+6EF9	滹
+3368	U+6F08	漈
+3369	U+6F09	漉
+3370	<span class="old">U+6F0E	漎</span>	<span class="s3">U+6E8E	溎</span>
+3371	U+6F1A	漚	<span class="china1">U+6CA4	沤</span>
+3372	U+6F26	漦
+3373	U+6F29	漩
+3374	U+6F2F	漯
+3375	U+6F35	漵	<span class="china1">U+6E86	溆</span>
+3376	U+6F36	漶
+3377	U+6F0A	漊	<span class="china1">U+6E87	溇</span>
+3378	U+6F15	漕
+3379	U+6F41	潁	<span class="china1">U+988D	颍</span>
+3380	U+6F51	潑	<span class="china1">U+6CFC	泼</span>
+3381	U+6F54	潔	<span class="china1">U+6D01	洁</span>
+3382	U+6F58	潘
+3383	U+6F5B	潛	<span class="china1">U+6F5C	潜</span>
+3384	U+6F5F	潟
+3385	U+6F62	潢
+3386	U+6F97	澗	<span class="china1">U+6DA7	涧</span>
+3387	U+6F64	潤	<span class="china1">U+6DA6	润</span>
+3388	U+6F66	潦
+3389	U+6F6D	潭
+3390	U+6F6E	潮
+3391	U+6F70	潰	<span class="china1">U+6E83	溃</span>
+3392	U+6F7C	潼
+3393	<span class="c0">U+6F74	潴</span>
+3394	U+6F78	潸
+3395	U+6F7A	潺
+3396	U+6F80	澀	<span class="china1">U+6DA9	涩</span>
+3397	U+6F84	澄
+3398	U+6F86	澆	<span class="china1">U+6D47	浇</span>
+3399	U+6F87	澇	<span class="china1">U+6D9D	涝</span>
+<a id="s34"></a>
+3400	U+6F88	澈
+3401	<span class="old">U+6F89	澉</span>	<span class="s3">U+6F94	澔</span>
+3402	U+6F8C	澌
+3403	U+6F8E	澎
+3404	U+6F4F	潏	<span class="china2">U+6F56	潖</span>
+3405	U+6F5D	潝	<span class="china2">U+7002	瀂</span>
+3406	U+6F5E	潞
+3407	U+6F60	潠
+3408	U+6F48	潈
+3409	U+6FC6	濆
+3410	U+6F6F	潯	<span class="china1">U+6D54	浔</span>
+3411	U+6F7E	潾	<span class="china2">U+6F75	潵</span>
+3412	U+6F8D	澍
+3413	U+6F82	澂
+3414	U+6F92	澒
+3415	U+6F59	潙	<span class="china1">U+6CA9	沩</span>
+3416	U+6FA1	澡
+3417	U+6F9F	澟
+3418	U+6FA3	澣
+3419	U+6FA4	澤	<span class="china1">U+6CFD	泽</span>
+3420	U+6FAE	澮	<span class="china1">U+6D4D	浍</span>
+3421	U+6FB3	澳
+3422	U+6FB9	澹
+3423	U+6FC0	激
+3424	U+6FC1	濁	<span class="china1">U+6D4A	浊</span>
+3425	U+6FC2	濂
+3426	U+6FC3	濃	<span class="china1">U+6D53	浓</span>
+3427	U+6FA0	澠	<span class="china1">U+6E11	渑</span>
+3428	U+6FA5	澥
+3429	U+6FA6	澦	<span class="china1">U+6EEA	滪</span>
+3430	U+6FA7	澧
+3431	U+6FA8	澨
+3432	U+6FB0	澰
+3433	U+6FB4	澴
+3434	U+6FB1	澱
+3435	U+6FC7	濇
+3436	U+6FB6	澶
+3437	U+6FBC	澼
+3438	U+6FD8	濘	<span class="china1">U+6CDE	泞</span>
+3439	<span class="old">U+6FD4	濔</span>	<span class="s3">U+6FAC	澬</span>
+3440	U+6FD5	濕	<span class="china1">U+6E7F	湿</span>
+3441	U+6FC8	濈
+3442	U+6FCA	濊
+3443	U+6FDB	濛
+3444	U+6FDF	濟	<span class="china1">U+6D4E	济</span>
+3445	U+6FE0	濠
+3446	U+6FE1	濡
+3447	U+6FE4	濤	<span class="china1">U+6D9B	涛</span>
+3448	U+6FEB	濫	<span class="china1">U+6EE5	滥</span>
+3449	U+6FEC	濬
+3450	U+6FEE	濮
+3451	U+6FEF	濯
+3452	U+6FF0	濰	<span class="china1">U+6F4D	潍</span>
+3453	U+6FF1	濱	<span class="china1">U+6EE8	滨</span>
+3454	U+7009	瀉	<span class="china1">U+6CFB	泻</span>
+3455	U+6FE9	濩
+3456	U+6FDE	濞
+3457	U+6FFA	濺	<span class="china1">U+6E85	溅</span>
+3458	U+6FFC	濼	<span class="china1">U+6CFA	泺</span>
+3459	U+6FFE	濾	<span class="china1">U+6EE4	滤</span>
+3460	U+7006	瀆	<span class="china1">U+6E0E	渎</span>
+3461	U+700F	瀏	<span class="china1">U+6D4F	浏</span>
+3462	U+7011	瀑
+3463	U+7001	瀁
+3464	U+7015	瀕	<span class="china1">U+6FD2	濒</span>
+3465	U+7060	灠
+3466	U+701A	瀚
+3467	U+701B	瀛
+3468	U+701D	瀝	<span class="china1">U+6CA5	沥</span>
+3469	U+701F	瀟	<span class="china1">U+6F47	潇</span>
+3470	U+7020	瀠
+3471	U+7028	瀨	<span class="china1">U+6FD1	濑</span>
+3472	U+7018	瀘	<span class="china1">U+6CF8	泸</span>
+3473	U+7021	瀡
+3474	U+7023	瀣
+3475	U+703C	瀼
+3476	U+700B	瀋
+3477	U+700D	瀍
+3478	U+7027	瀧	<span class="china1">U+6CF7	泷</span>
+3479	U+7026	瀦
+3480	U+6FF3	濳
+3481	U+7032	瀲	<span class="china1">U+6F4B	潋</span>
+3482	U+703E	瀾	<span class="china1">U+6F9C	澜</span>
+3483	U+7030	瀰
+3484	<span class="old">U+7035	瀵</span>	<span class="s3">U+6FDA	濚</span>
+3485	U+7039	瀹
+3486	U+703A	瀺
+3487	U+704C	灌
+3488	U+7043	灃	<span class="china1">U+6CA3	沣</span>
+3489	U+7049	灉
+3490	<span class="old">U+704B	灋</span>	<span class="s3">U+7044	灄</span>
+3491	U+7051	灑
+3492	U+7058	灘	<span class="china1">U+6EE9	滩</span>
+3493	U+705D	灝	<span class="china1">U+704F	灏</span>
+3494	U+7063	灣	<span class="china1">U+6E7E	湾</span>
+3495	U+7069	灩	<span class="china1">U+6EDF	滟</span>
+3496	U+705E	灞
+3497	U+7064	灤	<span class="china1">U+6EE6	滦</span>
+3498	U+70B8	炸
+3499	U+706B	火
+<a id="s35"></a>
+3500	U+7070	灰
+3501	U+7076	灶
+3502	U+7078	灸
+3503	<span class="old">U+707A	灺</span>	<span class="s2">U+707F	灿</span>
+3504	U+707C	灼
+3505	U+707D	災
+3506	<span class="c0">U+707E	灾</span>
+3507	U+708A	炊
+3508	U+708E	炎
+3509	U+7092	炒
+3510	U+7095	炕
+3511	U+7099	炙
+3512	U+7098	炘
+3513	<span class="old">U+70A4	炤</span>	<span class="s2">U+709E	炞</span>
+3514	U+70AB	炫
+3515	U+70AC	炬
+3516	U+70AD	炭
+3517	U+70AE	炮
+3518	U+70AF	炯
+3519	U+70B0	炰
+3520	U+70B1	炱
+3521	U+70B3	炳
+3522	U+70B7	炷
+3523	U+70A7	炧
+3524	<span class="old">U+7081	炁</span>	<span class="s2">U+7551	畑</span>
+3525	U+70C8	烈
+3526	U+70CB	烋
+3527	U+70CF	烏	<span class="china1">U+4E4C	乌</span>
+3528	U+70D5	烕
+3529	<span class="old">U+70D6	烖</span>	<span class="s3">U+70D9	烙</span>
+3530	U+70D8	烘
+3531	U+70DC	烜
+3532	U+70DD	烝
+3533	U+70DF	烟
+3534	U+70F9	烹
+3535	U+70FA	烺
+3536	U+70FD	烽
+3537	U+710C	焌
+3538	U+7119	焙
+3539	U+711A	焚
+3540	U+711C	焜
+3541	U+7121	無
+3542	U+7126	焦
+3543	U+7130	焰
+3544	U+7136	然
+3545	U+711E	焞
+3546	U+7120	焠
+3547	<span class="old">U+712B	焫</span>	<span class="s3">U+7109	焉</span>
+3548	U+7145	煅
+3549	<span class="old">U+7147	煇</span>	<span class="s3">U+710A	焊</span>
+3550	U+7149	煉	<span class="china1">U+70BC	炼</span>
+3551	U+714A	煊
+3552	U+714C	煌
+3553	U+714E	煎
+3554	U+716E	煮
+3555	U+7152	煒	<span class="china1">U+709C	炜</span>
+3556	U+7199	熙
+3557	U+7156	煖
+3558	U+715C	煜
+3559	U+715E	煞
+3560	U+7162	煢	<span class="china1">U+8315	茕</span>
+3561	U+7164	煤
+3562	U+7165	煥	<span class="china1">U+7115	焕</span>
+3563	U+7166	煦
+3564	U+7167	照
+3565	U+7169	煩	<span class="china1">U+70E6	烦</span>
+3566	U+7168	煨
+3567	U+714F	煏
+3568	U+716C	煬	<span class="china1">U+7080	炀</span>
+3569	U+717D	煽
+3570	U+7180	熀
+3571	U+7184	熄
+3572	U+7185	熅
+3573	U+7187	熇
+3574	U+718A	熊
+3575	U+718F	熏
+3576	U+7192	熒	<span class="china1">U+8367	荧</span>
+3577	U+719B	熛
+3578	U+719F	熟
+3579	<span class="s2">U+7194	熔</span>
+3580	U+71A8	熨
+3581	U+71AC	熬
+3582	U+71AF	熯
+3583	U+71B1	熱	<span class="china1">U+70ED	热</span>
+3584	U+71A0	熠
+3585	U+71B2	熲	<span class="china1">U+988E	颎</span>
+3586	U+71B8	熸
+3587	U+71BA	熺
+3588	U+71B9	熹
+3589	U+71BE	熾	<span class="china1">U+70BD	炽</span>
+3590	U+71C0	燀
+3591	<span class="old">U+71C2	燂</span>	<span class="s3">U+7159	煙</span>
+3592	U+71D0	燐
+3593	U+71D6	燖
+3594	U+71D9	燙	<span class="china1">U+70EB	烫</span>
+3595	U+71C3	燃
+3596	U+71C4	燄
+3597	U+71C8	燈	<span class="china1">U+706F	灯</span>
+3598	U+71CE	燎
+3599	U+71D2	燒	<span class="china1">U+70E7	烧</span>
+<a id="s36"></a>
+3600	U+71D4	燔
+3601	U+71D5	燕
+3602	U+71DF	營	<span class="china1">U+8425	营</span>
+3603	U+71E0	燠
+3604	U+71E5	燥
+3605	U+71E6	燦
+3606	U+71E7	燧
+3607	U+71EC	燬
+3608	U+71ED	燭	<span class="china1">U+70DB	烛</span>
+3609	U+71FB	燻
+3610	U+71EE	燮
+3611	U+71F9	燹
+3612	U+71FC	燼	<span class="china1">U+70EC	烬</span>
+3613	U+71FF	燿
+3614	U+71FE	燾	<span class="china1">U+7118	焘</span>
+3615	U+7206	爆
+3616	U+7207	爇
+3617	U+720D	爍	<span class="china1">U+70C1	烁</span>
+3618	U+7213	爓
+3619	U+7210	爐	<span class="china1">U+7089	炉</span>
+3620	U+721B	爛	<span class="china1">U+70C2	烂</span>
+3621	U+721A	爚
+3622	U+721D	爝
+3623	U+721F	爟
+3624	U+712E	焮
+3625	<span class="old">U+712F	焯</span>	<span class="s3">U+71C9	燉</span>
+3626	<span class="old">U+7225	爥</span>	<span class="s2">U+71DC	燜</span>
+3627	U+7228	爨
+3628	U+70E4	烤
+3629	U+722A	爪
+3630	U+722D	爭	<span class="china1">U+4E89	争</span>
+3631	U+722E	爮
+3632	U+722C	爬
+3633	U+7230	爰
+3634	U+7232	爲	<span class="china1">U+4E3A	为</span>
+3635	U+7235	爵
+3636	<span class="s1">U+77BC	瞼</span>
+3637	U+7236	父
+3638	U+7239	爹
+3639	U+723A	爺	<span class="china1">U+7237	爷</span>
+3640	U+7238	爸
+3641	U+723B	爻
+3642	U+723D	爽
+3643	U+723E	爾
+3644	<span class="s1">U+8DBC	趼</span>
+3645	U+723F	爿
+3646	U+7240	牀
+3647	U+7242	牂
+3648	U+7241	牁
+3649	U+7246	牆
+3650	<span class="s1">U+85E0	藠</span>
+3651	U+7247	片
+3652	U+7248	版
+3653	U+724B	牋
+3654	U+724C	牌
+3655	U+7252	牒
+3656	U+7255	牕
+3657	U+7256	牖
+3658	U+7258	牘	<span class="china1">U+724D	牍</span>
+3659	U+7253	牓
+3660	U+7259	牙
+3661	<span class="s1">U+80BC	肼</span>
+3662	U+725B	牛
+3663	U+725D	牝
+3664	U+725F	牟
+3665	U+7261	牡
+3666	U+7262	牢
+3667	U+7263	牣
+3668	U+7267	牧
+3669	U+7274	牴
+3670	U+7269	物
+3671	<span class="old">U+726E	牮</span>	<span class="s3">U+7260	牠</span>
+3672	U+726F	牯
+3673	U+7272	牲
+3674	<span class="old">U+7276	牶</span>	<span class="s2">U+7291	犑</span>
+3675	U+7277	牷
+3676	U+7279	特
+3677	U+727D	牽	<span class="china1">U+7275	牵</span>
+3678	U+727F	牿
+3679	U+7280	犀
+3680	U+7282	犂	<span class="china1">U+7281	犁</span>
+3681	U+7289	犉
+3682	U+728D	犍
+3683	U+7292	犒
+3684	U+7296	犖	<span class="china1">U+8366	荦</span>
+3685	U+72A2	犢	<span class="china1">U+728A	犊</span>
+3686	U+72A7	犧	<span class="china1">U+727A	牺</span>
+3687	U+72A8	犨
+3688	U+7273	牳
+3689	U+72AC	犬
+3690	U+72AF	犯
+3691	U+72B4	犴
+3692	U+72C0	狀	<span class="china1">U+72B6	状</span>
+3693	U+72C2	狂
+3694	U+72C3	狃
+3695	U+72C4	狄
+3696	U+72C1	狁
+3697	U+72CE	狎
+3698	U+72D0	狐
+3699	U+72D7	狗
+<a id="s37"></a>
+3700	U+72D9	狙
+3701	U+72E1	狡
+3702	U+72E5	狥
+3703	U+72E0	狠
+3704	U+72E9	狩
+3705	U+72F4	狴
+3706	U+72F8	狸
+3707	U+72F9	狹	<span class="china1">U+72ED	狭</span>
+3708	U+72FC	狼
+3709	U+72FD	狽	<span class="china1">U+72C8	狈</span>
+3710	U+72FB	狻
+3711	U+72FA	狺
+3712	U+72F7	狷
+3713	<span class="old">U+730B	猋</span>	<span class="s2">U+72E2	狢</span>
+3714	U+7301	猁
+3715	U+7316	猖
+3716	U+7317	猗
+3717	U+7319	猙	<span class="china1">U+72F0	狰</span>
+3718	U+731B	猛
+3719	U+731C	猜
+3720	U+731D	猝
+3721	U+731E	猞
+3722	U+730A	猊
+3723	U+7318	猘
+3724	U+7322	猢
+3725	U+7325	猥
+3726	U+7329	猩
+3727	<span class="c0">U+732A	猪</span>
+3728	U+732B	猫
+3729	U+7334	猴
+3730	U+7336	猶	<span class="china1">U+72B9	犹</span>
+3731	U+7337	猷
+3732	<span class="old">U+7328	猨</span>	<span class="s2">U+7314	猔</span>
+3733	U+7331	猱
+3734	U+733A	猺
+3735	U+733B	猻	<span class="china1">U+72F2	狲</span>
+3736	U+733E	猾
+3737	U+733F	猿
+3738	U+7343	獃
+3739	U+7344	獄	<span class="china1">U+72F1	狱</span>
+3740	U+7345	獅	<span class="china1">U+72EE	狮</span>
+3741	U+734D	獍
+3742	U+7350	獐
+3743	U+7352	獒
+3744	U+7357	獗
+3745	U+7358	獘
+3746	U+7367	獧
+3747	U+7368	獨	<span class="china1">U+72EC	独</span>
+3748	U+736A	獪	<span class="china1">U+72EF	狯</span>
+3749	U+736C	獬
+3750	U+7360	獠
+3751	U+736E	獮	<span class="china1">U+72DD	狝</span>
+3752	U+7372	獲	<span class="china1">U+83B7	获</span>
+3753	U+736F	獯
+3754	U+7373	獳
+3755	U+7377	獷	<span class="china1">U+72B7	犷</span>
+3756	U+7375	獵	<span class="china1">U+730E	猎</span>
+3757	U+7378	獸	<span class="china1">U+517D	兽</span>
+3758	U+737A	獺	<span class="china1">U+736D	獭</span>
+3759	U+737B	獻	<span class="china1">U+732E	献</span>
+3760	U+7381	玁
+3761	U+7370	獰	<span class="china1">U+72DE	狞</span>
+3762	U+7380	玀	<span class="china1">U+7321	猡</span>
+3763	U+7384	玄
+3764	U+7387	率
+3765	U+7385	玅
+3766	U+7388	玈
+3767	<span class="s1">U+92E6	鋦</span>
+3768	U+7389	玉
+3769	U+738B	王
+3770	U+738E	玎
+3771	U+7395	玕
+3772	U+7394	玔
+3773	U+7396	玖
+3774	U+739F	玟
+3775	U+73A0	玠
+3776	U+73A2	玢
+3777	U+73A6	玦
+3778	U+73A8	玨	<span class="china1">U+73CF	珏</span>
+3779	U+73A9	玩
+3780	U+73AB	玫
+3781	U+73B2	玲
+3782	U+73B3	玳
+3783	U+73B7	玷
+3784	U+73C2	珂
+3785	U+73C7	珇
+3786	U+73C8	珈
+3787	U+73C9	珉
+3788	U+73BB	玻
+3789	U+73C0	珀
+3790	U+73CA	珊
+3791	U+73CD	珍
+3792	U+73CC	珌
+3793	U+73BC	玼
+3794	U+73DE	珞
+3795	U+73D3	珓
+3796	U+73E0	珠
+3797	U+73D9	珙
+3798	U+73D6	珖
+3799	U+73E5	珥
+<a id="s38"></a>
+3800	U+73E3	珣
+3801	U+73E9	珩
+3802	U+73EA	珪
+3803	U+73ED	班
+3804	U+73E7	珧
+3805	U+73EE	珮
+3806	U+73FD	珽
+3807	U+73FE	現	<span class="china1">U+73B0	现</span>
+3808	U+7403	球
+3809	U+7405	琅
+3810	U+7406	理
+3811	U+7407	琇
+3812	U+7409	琉
+3813	U+73F6	珶
+3814	U+73F7	珷
+3815	U+740A	琊
+3816	U+7415	琕
+3817	U+7416	琖
+3818	U+741A	琚
+3819	U+741B	琛
+3820	U+7422	琢
+3821	U+7424	琤
+3822	U+7425	琥
+3823	U+7426	琦
+3824	U+7428	琨
+3825	U+742A	琪
+3826	U+742D	琭
+3827	U+742E	琮
+3828	U+742F	琯
+3829	U+7433	琳
+3830	U+7434	琴
+3831	U+7436	琶
+3832	U+7435	琵
+3833	U+742B	琫
+3834	U+742C	琬
+3835	U+73A4	玤
+3836	U+7432	琲
+3837	U+744B	瑋	<span class="china1">U+73AE	玮</span>
+3838	U+7455	瑕
+3839	U+7459	瑙
+3840	U+745A	瑚
+3841	U+745B	瑛
+3842	U+745C	瑜
+3843	U+745E	瑞
+3844	U+745F	瑟
+3845	U+7460	瑠
+3846	U+7440	瑀
+3847	U+7441	瑁
+3848	U+7447	瑇
+3849	U+7451	瑑
+3850	U+7457	瑗
+3851	U+7463	瑣	<span class="china1">U+7410	琐</span>
+3852	U+7464	瑤
+3853	U+7469	瑩	<span class="china1">U+83B9	莹</span>
+3854	U+746A	瑪	<span class="china1">U+739B	玛</span>
+3855	U+7470	瑰
+3856	U+7472	瑲	<span class="china1">U+73B1	玱</span>
+3857	U+746C	瑬
+3858	U+746F	瑯
+3859	U+7471	瑱
+3860	U+7473	瑳
+3861	U+7474	瑴
+3862	U+7480	璀
+3863	U+7483	璃
+3864	U+748B	璋
+3865	U+747D	瑽
+3866	U+747E	瑾
+3867	U+7481	璁
+3868	U+7486	璆
+3869	<span class="old">U+7482	璂</span>	<span class="s2">U+24A22	&#x24A22;(<script type="text/javascript">disphex("24A22");</script>)</span>
+3870	U+7488	璈
+3871	U+74A1	璡	<span class="china1">U+740E	琎</span>
+3872	U+7487	璇
+3873	U+7490	璐
+3874	U+749C	璜
+3875	U+74A3	璣	<span class="china1">U+7391	玑</span>
+3876	U+7498	璘
+3877	U+749E	璞
+3878	U+749F	璟
+3879	U+74A0	璠
+3880	U+74A7	璧
+3881	U+74A8	璨
+3882	U+74AF	璯
+3883	U+74B0	環	<span class="china1">U+73AF	环</span>
+3884	U+74AA	璪
+3885	U+74AB	璫	<span class="china1">U+73F0	珰</span>
+3886	U+74BD	璽	<span class="china1">U+73BA	玺</span>
+3887	U+74B2	璲
+3888	U+74B8	璸	<span class="china1">U+7478	瑸</span>
+3889	U+74B5	璵	<span class="china1">U+7399	玙</span>
+3890	U+74CA	瓊
+3891	U+74CF	瓏	<span class="china1">U+73D1	珑</span>
+3892	U+74D4	瓔	<span class="china1">U+748E	璎</span>
+3893	U+74DB	瓛
+3894	U+74BF	璿
+3895	U+74DA	瓚	<span class="china1">U+74D2	瓒</span>
+3896	U+74C8	瓈
+3897	U+74C0	瓀
+3898	U+74D8	瓘
+3899	U+74A5	璥
+<a id="s39"></a>
+3900	U+74DC	瓜
+3901	U+74DE	瓞
+3902	U+74E0	瓠
+3903	U+74E2	瓢
+3904	U+74E3	瓣
+3905	U+74E4	瓤
+3906	<span class="s1">U+4F67	佧</span>
+3907	U+74E6	瓦
+3908	U+74EE	瓮
+3909	U+74F4	瓴
+3910	U+74F6	瓶	<span class="china1">U+74F6	瓶</span>
+3911	U+74F7	瓷
+3912	U+74FB	瓻
+3913	U+7503	甃
+3914	U+7504	甄
+3915	U+7507	甇
+3916	U+74FF	瓿
+3917	U+750C	甌	<span class="china1">U+74EF	瓯</span>
+3918	U+750D	甍
+3919	U+750E	甎
+3920	U+7511	甑
+3921	U+7513	甓
+3922	U+7515	甕
+3923	U+7517	甗
+3924	U+7514	甔
+3925	U+7516	甖
+3926	U+74E9	瓩
+3927	U+7518	甘
+3928	U+751A	甚
+3929	U+751C	甜
+3930	U+751E	甞
+3931	<span class="s1">U+5494	咔</span>
+3932	U+751F	生
+3933	U+7521	甡
+3934	U+7522	產	<span class="china1">U+4EA7	产</span>
+3935	U+7525	甥
+3936	U+7526	甦
+3937	<span class="s2">U+3F53	㽓(<script type="text/javascript">disphex("3F53");</script>)</span>
+3938	U+7528	用
+3939	U+752A	甪
+3940	U+752B	甫
+3941	U+752C	甬
+3942	U+752F	甯
+3943	<span class="s3">U+7529	甩</span>
+3944	U+7530	田
+3945	U+7531	由
+3946	U+7532	甲
+3947	U+7533	申
+3948	U+7537	男
+3949	U+7538	甸
+3950	U+753D	甽
+3951	U+753E	甾
+3952	U+7540	畀
+3953	U+754B	畋
+3954	U+754C	界
+3955	U+754E	畎
+3956	U+754F	畏
+3957	U+753A	町
+3958	U+754A	畊
+3959	U+753F	甿
+3960	U+7547	畇
+3961	U+7554	畔
+3962	U+755A	畚
+3963	U+755B	畛
+3964	U+755C	畜
+3965	U+755D	畝	<span class="china1">U+4EA9	亩</span>
+3966	U+7559	留
+3967	U+755F	畟
+3968	U+7562	畢	<span class="china1">U+6BD5	毕</span>
+3969	U+7564	畤
+3970	U+7565	略
+3971	U+7566	畦
+3972	U+756A	番
+3973	U+756B	畫	<span class="china1">U+753B	画</span>
+3974	U+756C	畬
+3975	U+756F	畯
+3976	U+7570	異
+3977	U+756E	畮
+3978	U+7577	畷	<span class="china2">U+6983	榃</span>
+3979	U+7579	畹
+3980	U+757D	畽
+3981	U+7576	當	<span class="china1">U+5F53	当</span>
+3982	U+7578	畸
+3983	U+757F	畿
+3984	U+7586	疆
+3985	U+7587	疇	<span class="china1">U+7574	畴</span>
+3986	U+758A	疊
+3987	<span class="s1">U+9426	鐦</span>
+3988	U+758B	疋
+3989	U+758E	疎
+3990	U+758F	疏
+3991	U+7590	疐
+3992	U+7591	疑
+3993	<span class="s1">U+9227	鈧</span>
+3994	U+7592	疒
+3995	U+7594	疔
+3996	<span class="old">U+759E	疞</span>	<span class="s2">U+75C3	痃</span>
+3997	<span class="old">U+7595	疕</span>	<span class="s2">U+75D9	痙</span>
+3998	U+759A	疚
+3999	U+759D	疝

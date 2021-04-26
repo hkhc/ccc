@@ -1,0 +1,2019 @@
+8000	<span class="s3">U+4E0C	丌</span>
+8001	<span class="c0">U+4E07	万</span>
+8002	<span class="old">U+4E0C	丌</span>	<span class="s3">U+4E18	丘</span>
+8003	<span class="old">U+4E18	丘</span>	<span class="s3">U+4E52	乒</span>
+8004	<span class="s3">U+4E53	乓</span>
+8005	<span class="s2">U+752D	甭</span>
+8006	<span class="s2">U+5B6C	孬</span>
+8007	unassigned
+8008	unassigned
+8009	<span class="s3">U+4E33	丳</span>
+8010	<span class="s3">U+4E48	么</span>
+8011	<span class="old">U+4E33	丳</span>
+8012	<span class="s3">U+4E69	乩</span>
+8013	<span class="s3">U+4E84	亄</span>
+8014	unassigned
+8015	<span class="s3">U+4E8D	亍</span>
+8016	<span class="s3">U+4E93	亓</span>
+8017	<span class="s3">U+4E98	亘</span>
+8018	<span class="s3">U+4E9D	亝</span>
+8019	unassigned
+8020	<span class="s3">U+4EC8	仈</span>
+8021	<span class="s3">U+4EC2	仂</span>
+8022	<span class="s3">U+4EC9	仉</span>
+8023	<span class="s3">U+4F08	伈</span>
+8024	<span class="s3">U+4F03	伃</span>
+8025	<span class="s3">U+4F00	伀</span>
+8026	<span class="old">U+4E48	么</span>	<span class="s3">U+4F3D	伽</span>
+8027	<span class="s3">U+4F49	佉</span>
+8028	<span class="s3">U+4F47	佇</span>
+8029	<span class="s3">U+4F42	佂</span>
+8030	<span class="s3">U+4F3E	伾</span>
+8031	<span class="old">U+4E84	亄</span>	<span class="s3">U+4F7D	佽</span>
+8032	<span class="s3">U+4F7C	佼</span>
+8033	<span class="s3">U+4F79	佹</span>
+8034	<span class="s3">U+4F74	佴</span>
+8035	<span class="s3">U+4F6B	佫</span>
+8036	<span class="s3">U+4F4C	佌</span>
+8037	<span class="s3">U+4FA2	侢</span>
+8038	<span class="s3">U+4F9C	侜</span>
+8039	<span class="s3">U+4F9A	侚</span>
+8040	<span class="s3">U+4F98	侘</span>
+8041	<span class="old">U+4E8D	亍</span>	<span class="s3">U+4F90	侐</span>
+8042	<span class="old">U+4E93	亓</span>	<span class="s3">U+4F81	侁</span>
+8043	<span class="old">U+4E98	亘</span>	<span class="s3">U+4F80	侀</span>
+8044	<span class="old">U+4E9D	亝</span>	<span class="s3">U+4FD4	俔</span>
+8045	<span class="old">U+504C	偌</span>	<span class="s3">U+4FC5	俅</span>
+8046	<span class="old">U+506D	偭</span>	<span class="s3">U+4FE5	俥</span>
+8047	<span class="old">U+50CD	働</span>	<span class="s3">U+4FCC	俌</span>
+8048	<span class="old">U+510D	儍</span>	<span class="s3">U+4FDC	俜</span>
+8049	<span class="old">U+4F63	佣</span>	<span class="s3">U+4FC1	俁</span>
+8050	<span class="old">U+4FA2	侢</span>	<span class="s3">U+4FE4	俤</span>
+8051	<span class="old">U+4EC8	仈</span>	<span class="s3">U+4FB4	侴</span>
+8052	<span class="old">U+4F3E	伾</span>	<span class="s3">U+5005	倅</span>
+8053	<span class="old">U+4F00	伀</span>	<span class="s3">U+5022	倢</span>
+8054	<span class="old">U+4F03	伃</span>	<span class="s3">U+501E	倞</span>
+8055	<span class="old">U+4F08	伈</span>	<span class="s2">U+5034	倴</span>
+8056	<span class="old">U+50A2	傢</span>	<span class="s3">U+5014	倔</span>
+8057	<span class="old">U+4F42	佂</span>	<span class="s3">U+4FF4	俴</span>
+8058	<span class="old">U+4F47	佇</span>	<span class="s3">U+506D	偭</span>
+8059	<span class="old">U+4F49	佉</span>	<span class="s3">U+5072	偲</span>
+8060	<span class="old">U+4F4C	佌</span>	<span class="s3">U+506B	偫</span>
+8061	<span class="old">U+4F6B	佫</span>	<span class="s3">U+5058	偘</span>
+8062	<span class="old">U+4F74	佴</span>	<span class="s3">U+5081	傁</span>
+8063	<span class="old">U+4F79	佹</span>	<span class="s3">U+506F	偯</span>
+8064	<span class="old">U+4F7C	佼</span>	<span class="s3">U+506C	偬</span>
+8065	<span class="old">U+4F80	侀</span>	<span class="s3">U+5069	偩</span>
+8066	<span class="old">U+4F81	侁</span>	<span class="s3">U+505D	偝</span>
+8067	<span class="old">U+4F90	侐</span>	<span class="s3">U+504C	偌</span>
+8068	<span class="old">U+4F98	侘</span>	<span class="s3">U+5094	傔</span>
+8069	<span class="old">U+4F9A	侚</span>	<span class="s3">U+50BA	傺</span>
+8070	<span class="old">U+4F9C	侜</span>	<span class="s3">U+50CA	僊</span>
+8071	<span class="old">U+4FC1	俁</span>	<span class="s3">U+50CE	僎</span>
+8072	<span class="old">U+4FDC	俜</span>	<span class="s3">U+50EC	僬</span>
+8073	<span class="old">U+4FF4	俴</span>	<span class="s2">U+3486	㒆(<script type="text/javascript">disphex("3486");</script>)</span>
+8074	<span class="old">U+5014	倔</span>	<span class="s3">U+50E4	僤</span>
+8075	<span class="old">U+501E	倞</span>	<span class="s3">U+50FC	僼</span>
+8076	<span class="old">U+5022	倢</span>	<span class="s3">U+203F1	&#x203F1;(<script type="text/javascript">disphex("203F1");</script>)</span>
+8077	<span class="old">U+502E	倮</span>	<span class="s3">U+5129	儩</span>
+8078	<span class="old">U+505D	偝</span>	<span class="s3">U+5126	儦</span>
+8079	<span class="old">U+5069	偩</span>	<span class="s3">U+5121	儡</span>
+8080	<span class="old">U+506C	偬</span>	<span class="s3">U+513A	儺</span>
+8081	<span class="old">U+506F	偯</span>	<span class="s2">U+5138	儸</span>
+8082	<span class="old">U+5077	偷</span>
+8083	<span class="old">U+5081	傁</span>
+8084	<span class="old">U+50BA	傺</span>
+8085	<span class="old">U+5121	儡</span>
+8086	<span class="old">U+50E4	僤</span>
+8087	<span class="old">U+50EC	僬</span>
+8088	<span class="old">U+5126	儦</span>	<span class="s3">U+5159	兙</span>
+8089	<span class="old">U+5129	儩</span>	<span class="s3">U+515B	兛</span>
+8090	<span class="old">U+513A	儺</span>
+8091	<span class="old">U+4FCC	俌</span>	<span class="s3">U+515D	兝</span>
+8092	<span class="old">U+4FE5	俥</span>	<span class="s3">U+515E	兞</span>
+8093	<span class="old">U+5058	偘</span>	<span class="s3">U+515A	党</span>
+8094	<span class="old">U+203F1	&#x203F1;(<script type="text/javascript">disphex("203F1");</script>)</span>	<span class="s2">U+51C3	凃</span>
+8095	<span class="old">U+50FC	僼</span>	<span class="s3">U+51CA	凊</span>
+8096	<span class="old">U+515A	党</span>	<span class="s3">U+51CF	减</span>
+8097	<span class="old">U+5159	兙</span>
+8098	<span class="old">U+515B	兛</span>	<span class="s3">U+5194	冔</span>
+8099	<span class="old">U+515D	兝</span>	<span class="s3">U+51A8	冨</span>
+<a id="s81"></a>
+8100	<span class="old">U+515E	兞</span>
+8101	<span class="old">U+5194	冔</span>	<span class="s3">U+5213	刓</span>
+8102	<span class="s3">U+521C	刜</span>
+8103	<span class="s3">U+5231	刱</span>
+8104	<span class="s3">U+525E	剞</span>
+8105	<span class="s3">U+5282	劂</span>
+8106	<span class="s3">U+528C	劌</span>
+8107	<span class="s3">U+5296	劖</span>
+8108	<span class="s3">U+529A	劚</span>
+8109	unassigned
+8110	unassigned
+8111	<span class="old">U+51A8	冨</span>	<span class="s3">U+52D1	勑</span>
+8112	<span class="old">U+51BC	冼</span>	<span class="s3">U+52D4	勔</span>
+8113	<span class="s3">U+52DB	勛</span>
+8114	<span class="s3">U+52E1	勡</span>
+8115	unassigned
+8116	<span class="s3">U+5306	匆</span>
+8117	<span class="s3">U+537C	卼</span>
+8118	<span class="s3">U+5396	厖</span>
+8119	<span class="s3">U+53D0	叐</span>
+8120	<span class="s3">U+540B	吋</span>
+8121	<span class="old">U+5213	刓</span>	<span class="s3">U+5414	吔</span>
+8122	<span class="old">U+521C	刜</span>	<span class="s3">U+542A	吪</span>
+8123	<span class="old">U+5231	刱</span>	<span class="s3">U+5431	吱</span>
+8124	<span class="old">U+524C	剌</span>	<span class="s3">U+543D	吽</span>
+8125	<span class="old">U+525A	剚</span>	<span class="s3">U+544E	呎</span>
+8126	<span class="old">U+5260	剠</span>	<span class="s3">U+542C	听</span>
+8127	<span class="old">U+5298	劘</span>	<span class="s3">U+5430	吰</span>
+8128	<span class="old">U+5277	剷</span>	<span class="s3">U+546D	呭</span>
+8129	<span class="s3">U+5488	咈</span>
+8130	<span class="s3">U+548D	咍</span>
+8131	<span class="old">U+52D1	勑</span>	<span class="s2">U+549A	咚</span>
+8132	<span class="old">U+52D4	勔</span>	<span class="s3">U+54A1	咡</span>
+8133	<span class="old">U+52DB	勛</span>	<span class="s3">U+54A2	咢</span>
+8134	<span class="old">U+52E1	勡</span>	<span class="s3">U+54A5	咥</span>
+8135	<span class="s3">U+54C6	哆</span>
+8136	<span class="s3">U+54BB	咻</span>
+8137	<span class="old">U+5306	匆</span>	<span class="s3">U+549F	咟</span>
+8138	<span class="s3">U+54AE	咮</span>
+8139	<span class="s3">U+54BC	咼</span>
+8140	<span class="s3">U+550E	唎</span>
+8141	<span class="s3">U+54E4	哤</span>
+8142	<span class="s3">U+5504	唄</span>
+8143	U+5511	唑
+8144	<span class="s3">U+54E2	哢</span>
+8145	<span class="s3">U+5557	啗</span>
+8146	<span class="s3">U+552A	唪</span>
+8147	<span class="s3">U+553C	唼</span>
+8148	<span class="s3">U+5550	啐</span>
+8149	<span class="s3">U+554D	啍</span>
+8150	<span class="s3">U+5536	唶</span>
+8151	<span class="old">U+5379	卹</span>	<span class="s3">U+55A4	喤</span>
+8152	<span class="old">U+537C	卼</span>	<span class="c0">U+5573	啳</span>
+8153	<span class="s3">U+55B4	喴</span>
+8154	<span class="s3">U+55A8	喨</span>
+8155	<span class="s3">U+558C	喌</span>
+8156	<span class="s3">U+55CA	嗊</span>
+8157	<span class="s3">U+55C8	嗈</span>
+8158	<span class="s3">U+55C1	嗁</span>
+8159	<span class="s3">U+55C0	嗀</span>
+8160	<span class="s3">U+55FF	嗿</span>
+8161	<span class="old">U+5396	厖</span>	<span class="s3">U+5610	嘐</span>
+8162	<span class="s3">U+5611	嘑</span>
+8163	<span class="s3">U+55F9	嗹</span>
+8164	<span class="s3">U+5602	嘂</span>
+8165	<span class="s3">U+5613	嘓</span>
+8166	<span class="old">U+53D0	叐</span>	<span class="s3">U+560C	嘌</span>
+8167	<span class="old">U+54BC	咼</span>	<span class="s3">U+562E	嘮</span>
+8168	<span class="old">U+5514	唔</span>	<span class="c0">U+5659	噙</span>
+8169	<span class="old">U+540B	吋</span>	<span class="s3">U+5642	噂</span>
+8170	<span class="old">U+544E	呎</span>	<span class="s3">U+5640	噀</span>
+8171	<span class="old">U+5430	吰</span>	<span class="s3">U+563D	嘽</span>
+8172	<span class="old">U+54AE	咮</span>	<span class="s3">U+5638	嘸</span>
+8173	<span class="old">U+5536	唶</span>	<span class="s2">U+5679	噹</span>
+8174	<span class="old">U+554D	啍</span>	<span class="s3">U+5660	噠</span>
+8175	<span class="old">U+558C	喌</span>	<span class="s3">U+5673	噳</span>
+8176	<span class="old">U+55A8	喨</span>	<span class="s3">U+566D	噭</span>
+8177	<span class="old">U+55C0	嗀</span>	<span class="s3">U+568C	嚌</span>
+8178	<span class="old">U+55C1	嗁</span>	<span class="s3">U+5686	嚆</span>
+8179	<span class="old">U+55C8	嗈</span>	<span class="s3">U+5684	嚄</span>
+8180	<span class="old">U+55CA	嗊</span>	<span class="s3">U+5683	嚃</span>
+8181	<span class="old">U+560C	嘌</span>	<span class="s3">U+56AD	嚭</span>
+8182	<span class="old">U+560D	嘍</span>	<span class="s3">U+56A6	嚦</span>
+8183	<span class="old">U+5613	嘓</span>	<span class="s3">U+5695	嚕</span>
+8184	<span class="old">U+562E	嘮</span>	<span class="s3">U+56B2	嚲</span>
+8185	<span class="old">U+5638	嘸</span>	<span class="s3">U+56B3	嚳</span>
+8186	<span class="old">U+563D	嘽</span>	<span class="s2">U+5543	啃</span>
+8187	<span class="old">U+5640	噀</span>
+8188	<span class="old">U+5642	噂</span>	<span class="s3">U+56DD	囝</span>
+8189	<span class="old">U+566D	噭</span>	<span class="s3">U+56E1	囡</span>
+8190	<span class="old">U+5673	噳</span>	<span class="s3">U+56E5	囥</span>
+8191	<span class="old">U+5683	嚃</span>	<span class="s3">U+570A	圊</span>
+8192	<span class="old">U+5684	嚄</span>	<span class="s3">U+570C	圌</span>
+8193	<span class="old">U+5686	嚆</span>	<span class="s3">U+571B	圛</span>
+8194	<span class="old">U+568C	嚌</span>	<span class="s3">U+571D	圝</span>
+8195	<span class="old">U+568E	嚎</span>
+8196	<span class="old">U+5695	嚕</span>
+8197	<span class="old">U+56A6	嚦</span>	<span class="s3">U+572F	圯</span>
+8198	<span class="old">U+56AD	嚭</span>	<span class="s2">U+572A	圪</span>
+8199	<span class="old">U+54EA	哪</span>	<span class="s3">U+58F3	壳</span>
+<a id="s82"></a>
+8200	<span class="old">U+55B4	喴</span>	<span class="s3">U+21290	&#x21290;(<script type="text/javascript">disphex("21290");</script>)</span>
+8201	<span class="old">U+5507	唇</span>	<span class="s3">U+577B	坻</span>
+8202	<span class="old">U+561C	嘜</span>	<span class="s3">U+5775	坵</span>
+8203	<span class="old">U+542C	听</span>	<span class="s3">U+5771	坱</span>
+8204	<span class="old">U+561B	嘛</span>	<span class="s3">U+5774	坴</span>
+8205	<span class="old">U+5660	噠</span>	<span class="s3">U+577F	坿</span>
+8206	<span class="old">U+54E2	哢</span>	<span class="s2">U+5787	垇</span>
+8207	<span class="old">U+54CD	响</span>	<span class="s3">U+578A	垊</span>
+8208	<span class="old">U+5561	啡</span>	<span class="s3">U+579E	垞</span>
+8209	<span class="old">U+56DD	囝</span>	<span class="s3">U+57A4	垤</span>
+8210	<span class="old">U+56E1	囡</span>	<span class="s3">U+579A	垚</span>
+8211	<span class="old">U+56E5	囥</span>	<span class="s3">U+578C	垌</span>
+8212	<span class="old">U+570A	圊</span>	<span class="s3">U+5797	垗</span>
+8213	<span class="old">U+570C	圌</span>	<span class="s3">U+579F	垟</span>
+8214	<span class="old">U+571B	圛</span>	<span class="s3">U+5795	垕</span>
+8215	<span class="old">U+571D	圝</span>	<span class="s3">U+212DF	&#x212DF;(<script type="text/javascript">disphex("212DF");</script>)</span>
+8216	<span class="old">U+5783	垃</span>	<span class="s3">U+363E	㘾(<script type="text/javascript">disphex("363E");</script>)</span>
+8217	<span class="old">U+580D	堍</span>	<span class="s3">U+57C2	埂</span>
+8218	<span class="old">U+576F	坯</span>	<span class="s3">U+57BB	垻</span>
+8219	<span class="old">U+583F	堿</span>	<span class="s3">U+57B8	垸</span>
+8220	<span class="old">U+57D5	埕</span>	<span class="s3">U+57D7	埗</span>
+8221	<span class="old">U+572F	圯</span>	<span class="s3">U+57C6	埆</span>
+8222	<span class="old">U+573E	圾</span>	<span class="s3">U+57CC	埌</span>
+8223	<span class="old">U+5771	坱</span>	<span class="s3">U+57C7	埇</span>
+8224	<span class="old">U+5774	坴</span>	<span class="s3">U+57D5	埕</span>
+8225	<span class="old">U+578C	垌</span>	<span class="s3">U+57E6	埦</span>
+8226	<span class="old">U+5797	垗</span>	<span class="s3">U+57F6	埶</span>
+8227	<span class="old">U+579F	垟</span>	<span class="s3">U+57FD	埽</span>
+8228	<span class="old">U+57C6	埆</span>	<span class="s3">U+5804	堄</span>
+8229	<span class="old">U+57CC	埌</span>	<span class="s3">U+580B	堋</span>
+8230	<span class="old">U+57FD	埽</span>	<span class="s3">U+5809	堉</span>
+8231	<span class="old">U+5800	堀</span>	<span class="s3">U+580E	堎</span>
+8232	<span class="old">U+5804	堄</span>	<span class="s3">U+5800	堀</span>
+8233	<span class="old">U+580B	堋</span>	<span class="s3">U+580C	堌</span>
+8234	<span class="old">U+5833	堳</span>	<span class="s3">U+57F0	埰</span>
+8235	<span class="old">U+5865	塥</span>	<span class="s3">U+5832	堲</span>
+8236	<span class="old">U+5877	塷</span>	<span class="s3">U+5827	堧</span>
+8237	<span class="old">U+58BB	墻</span>	<span class="s3">U+5853	塓</span>
+8238	<span class="old">U+58D2	壒</span>	<span class="s3">U+5828	堨</span>
+8239	<span class="old">U+57C7	埇</span>	<span class="s3">U+580D	堍</span>
+8240	<span class="old">U+57DD	埝</span>	<span class="s3">U+5833	堳</span>
+8241	<span class="old">U+57E7	埧</span>	<span class="s2">U+581D	堝</span>
+8242	<span class="old">U+5795	垕</span>	<span class="s2">U+586C	塬</span>
+8243	<span class="old">U+587D	塽</span>	<span class="s2">U+5871	塱</span>
+8244	<span class="old">U+5809	堉</span>	<span class="s3">U+585D	塝</span>
+8245	<span class="old">U+577F	坿</span>	<span class="s3">U+583D	堽</span>
+8246	<span class="old">U+212DF	&#x212DF;(<script type="text/javascript">disphex("212DF");</script>)</span>	<span class="s3">U+5898	墘</span>
+8247	<span class="old">U+580E	堎</span>	<span class="s3">U+5865	塥</span>
+8248	<span class="old">U+57D4	埔</span>	<span class="s3">U+5877	塷</span>
+8249	<span class="old">U+363E	㘾(<script type="text/javascript">disphex("363E");</script>)</span>	<span class="s3">U+587D	塽</span>
+8250	<span class="old">U+58CB	壋</span>	<span class="s2">U+5895	墕</span>
+8251	<span class="old">U+595C	奜</span>	<span class="s3">U+5848	塈</span>
+8252	<span class="old">U+369F	㚟(<script type="text/javascript">disphex("369F");</script>)</span>	<span class="s3">U+589D	墝</span>
+8253	<span class="old">U+5970	奰</span>	<span class="s3">U+58A0	墠</span>
+8254	<span class="old">U+593C	夼</span>	<span class="s3">U+58AB	墫</span>
+8255	<span class="s3">U+58CB	壋</span>
+8256	<span class="s2">U+366E	㙮(<script type="text/javascript">disphex("366E");</script>)</span>
+8257	<span class="s2">U+2144D	&#x2144D;(<script type="text/javascript">disphex("2144D");</script>)</span>
+8258	<span class="s2">U+58B0	墰</span>
+8259	<span class="s3">U+58BB	墻</span>
+8260	<span class="s2">U+2A927	&#x2A927;</span>(<script type="text/javascript">disphex("2A927");</script>)
+8261	<span class="old">U+59B5	妵</span>	<span class="s3">U+58D2	壒</span>
+8262	<span class="old">U+59C1	姁</span>	<span class="s2">U+5892	墒</span>
+8263	<span class="old">U+59F6	姶</span>	<span class="s2">U+58E0	壠</span>
+8264	<span class="old">U+59B3	妳</span>
+8265	<span class="old">U+59FA	姺</span>
+8266	<span class="old">U+59FD	姽</span>
+8267	<span class="old">U+5A00	娀</span>
+8268	<span class="old">U+5A38	娸</span>	<span class="s3">U+593C	夼</span>
+8269	<span class="old">U+5A2C	娬</span>	<span class="s3">U+595C	奜</span>
+8270	<span class="old">U+59B8	妸</span>	<span class="s3">U+369F	㚟(<script type="text/javascript">disphex("369F");</script>)</span>
+8271	<span class="old">U+5A64	婤</span>	<span class="s3">U+5970	奰</span>
+8272	<span class="old">U+5AC8	嫈</span>
+8273	<span class="old">U+5A7C	婼</span>	<span class="s3">U+59B5	妵</span>
+8274	<span class="old">U+5AAE	媮</span>	<span class="s3">U+59C1	姁</span>
+8275	<span class="old">U+5A7F	婿</span>	<span class="s3">U+59B8	妸</span>
+8276	<span class="old">U+5ACF	嫏</span>	<span class="s3">U+59F6	姶</span>
+8277	<span class="old">U+5AF3	嫳</span>	<span class="s3">U+59FA	姺</span>
+8278	<span class="old">U+5AFD	嫽</span>	<span class="s3">U+59FD	姽</span>
+8279	<span class="old">U+5AFF	嫿</span>	<span class="s3">U+5A00	娀</span>
+8280	<span class="old">U+5B21	嬡</span>	<span class="s3">U+59D8	姘</span>
+8281	<span class="old">U+59D8	姘</span>	<span class="s3">U+5A12	娒</span>
+8282	<span class="old">U+5979	她</span>	<span class="s3">U+5A35	娵</span>
+8283	<span class="old">U+5A65	婥</span>	<span class="s3">U+5A50	婐</span>
+8284	<span class="old">U+5B43	孃</span>	<span class="s3">U+5A5E	婞</span>
+8285	<span class="old">U+5A9C	媜</span>	<span class="s3">U+5A38	娸</span>
+8286	<span class="old">U+5A12	娒</span>	<span class="s3">U+5A2C	娬</span>
+8287	<span class="old">U+5AFB	嫻</span>	<span class="s3">U+5A64	婤</span>
+8288	<span class="old">U+5AF5	嫵</span>	<span class="s3">U+5ACF	嫏</span>
+8289	<span class="old">U+5B53	孓</span>	<span class="s3">U+5A65	婥</span>
+8290	<span class="old">U+5B7B	孻</span>	<span class="s3">U+5A8A	媊</span>
+8291	<span class="old">U+5BEA	寪</span>	<span class="s3">U+5A9C	媜</span>
+8292	<span class="s2">U+5A84	媄</span>
+8293	<span class="s2">U+5A9E	媞</span>
+8294	<span class="s3">U+5AC8	嫈</span>
+8295	<span class="s3">U+5AAE	媮</span>
+8296	<span class="s3">U+5A7F	婿</span>
+8297	<span class="s3">U+5AF3	嫳</span>
+8298	<span class="s3">U+5AFD	嫽</span>
+8299	<span class="s3">U+5AFF	嫿</span>
+<a id="s83"></a>
+8300	<span class="s3">U+5AFB	嫻</span>
+8301	<span class="old">U+5C00	尀</span>	<span class="s3">U+5AF5	嫵</span>
+8302	<span class="s3">U+5B21	嬡</span>
+8303	<span class="s2">U+5B1D	嬝</span>
+8304	<span class="s3">U+5B43	孃</span>
+8305	unassigned
+8306	unassigned
+8307	unassigned
+8308	unassigned
+8309	unassigned
+8310	unassigned
+8311	<span class="old">U+5C44	屄</span>	<span class="s3">U+5B56	孖</span>
+8312	<span class="old">U+5C5C	屜</span>	<span class="s3">U+5B7B	孻</span>
+8313	<span class="old">U+5C6A	屪</span>
+8314	<span class="old">U+5C6B	屫</span>	<span class="s3">U+5BEA	寪</span>
+8315	<span class="old">U+5C99	岙</span>	<span class="s3">U+5C00	尀</span>
+8316	<span class="old">U+5CC7	峇</span>	<span class="s3">U+5C1F	尟</span>
+8317	<span class="old">U+5CAC	岬</span>	<span class="s3">U+5C44	屄</span>
+8318	<span class="old">U+5CDD	峝</span>	<span class="s3">U+5C5C	屜</span>
+8319	<span class="old">U+5D24	崤</span>	<span class="s3">U+5C6A	屪</span>
+8320	<span class="old">U+5C9E	岞</span>	<span class="s3">U+5C6B	屫</span>	<span class="china2">U+5C72	屲</span>
+8321	U+5C74	屴
+8322	<span class="old">U+5D3D	崽</span>	<span class="s3">U+5C7C	屼</span>
+8323	<span class="old">U+5C8D	岍</span>	<span class="s3">U+5C85	岅</span>
+8324	<span class="old">U+5CEA	峪</span>	<span class="s3">U+5C99	岙</span>
+8325	<span class="old">U+5CEB	峫</span>	<span class="s3">U+5C8D	岍</span>
+8326	<span class="old">U+5CF1	峱</span>	<span class="s3">U+5C8A	岊</span>
+8327	<span class="old">U+5D06	崆</span>	<span class="s3">U+5CA8	岨</span>
+8328	<span class="old">U+5D1F	崟</span>	<span class="s3">U+5CAC	岬</span>
+8329	<span class="old">U+5D34	崴</span>	<span class="s3">U+5C9E	岞</span>
+8330	<span class="old">U+5D93	嶓</span>	<span class="s3">U+5CA7	岧</span>	<span class="china2">U+5CC3	峃</span>
+8331	<span class="old">U+5DA1	嶡</span>	<span class="s3">U+5CC7	峇</span>
+8332	<span class="old">U+5DA2	嶢</span>	<span class="s3">U+5CE2	峢</span>
+8333	<span class="old">U+5DAE	嶮</span>	<span class="s3">U+5CDD	峝</span>
+8334	<span class="old">U+5DB0	嶰</span>	<span class="s3">U+5CF9	峹</span>
+8335	<span class="old">U+5DC7	巇</span>	<span class="s3">U+5CF1	峱</span>
+8336	<span class="old">U+5D1E	崞</span>	<span class="s2">N/A	[山庂]</span>
+8337	<span class="old">U+5D42	嵂</span>	<span class="s3">U+5D1F	崟</span>
+8338	<span class="old">U+5C8A	岊</span>	<span class="s3">U+5D1E	崞</span>
+8339	U+5D2E	崮
+8340	<span class="old">U+5CA7	岧</span>	<span class="s3">U+5D3F	崿</span>
+8341	<span class="old">U+5E23	帣</span>	<span class="s3">U+5D9E	嶞</span>
+8342	<span class="old">U+5E5E	幞</span>	<span class="s3">U+5D3D	崽</span>
+8343	<span class="old">U+5E60	幠</span>	<span class="s3">U+5D34	崴</span>
+8344	<span class="old">U+5E66	幦</span>	<span class="s3">U+5DA2	嶢</span>
+8345	<span class="old">U+5E68	幨</span>	<span class="s3">U+5D42	嵂</span>
+8346	<span class="old">U+5E69	幩</span>	<span class="s3">U+5D7C	嵼</span>
+8347	<span class="s3">U+5DA1	嶡</span>
+8348	<span class="old">U+5E48	幈</span>	<span class="s3">U+5D93	嶓</span>
+8349	<span class="s3">U+5DAE	嶮</span>
+8350	<span class="s3">U+5DB0	嶰</span>
+8351	<span class="old">U+5E88	庈</span>	<span class="s3">U+5DB4	嶴</span>
+8352	<span class="old">U+5EA4	庤</span>	<span class="s3">U+5DC3	巃</span>
+8353	<span class="old">U+5EC0	廀</span>	<span class="s3">U+5DC7	巇</span>
+8354	<span class="old">U+5ED2	廒</span>	<span class="s3">U+5DCB	巋</span>
+8355	<span class="old">U+5EE7	廧</span>
+8356	<span class="old">U+5ECD	廍</span>
+8357	<span class="old">U+5ECE	廎</span>
+8358	unassigned
+8359	unassigned
+8360	<span class="china2">U+5DEF	巯</span>
+8361	<span class="old">U+5F02	异</span>	<span class="s3">U+5E23	帣</span>
+8362	<span class="s3">U+5E48	幈</span>
+8363	<span class="s3">U+5E5E	幞</span>
+8364	<span class="s3">U+5E60	幠</span>
+8365	<span class="s3">U+5E69	幩</span>
+8366	<span class="s3">U+5E66	幦</span>
+8367	<span class="s3">U+5E68	幨</span>
+8368	unassigned
+8369	<span class="s3">U+5E84	庄</span>
+8370	<span class="s3">U+5E88	庈</span>
+8371	<span class="old">U+5F0C	弌</span>	<span class="s3">U+5EA4	庤</span>
+8372	<span class="old">U+5F0E	弎</span>	<span class="s3">U+5EC0	廀</span>
+8373	<span class="s3">U+5ED2	廒</span>
+8374	<span class="s3">U+5ECD	廍</span>
+8375	<span class="s3">U+5ECE	廎</span>
+8376	<span class="s3">U+5EE7	廧</span>
+8377	unassigned
+8378	unassigned
+8379	unassigned
+8380	unassigned
+8381	<span class="old">U+5F74	彴</span>	<span class="s3">U+5F02	异</span>
+8382	<span class="old">U+5F7D	彽</span>	<span class="s3">U+5F0C	弌</span>
+8383	<span class="s3">U+5F0E	弎</span>
+8384	<span class="china2">U+7519	甙</span>
+8385	<span class="s3">U+5F74	彴</span>
+8386	<span class="s3">U+5F7D	彽</span>
+8387	unassigned
+8388	<span class="s3">U+5FEA	忪</span>
+8389	<span class="s3">U+6008	怈</span>
+8390	<span class="s3">U+6033	怳</span>
+8391	U+602D	怭
+8392	U+6032	怲
+8393	<span class="old">U+6053	恓</span>	<span class="s3">U+6047	恇</span>
+8394	<span class="old">U+6054	恔</span>	<span class="s3">U+6053	恓</span>
+8395	<span class="old">U+60D4	惔</span>	<span class="s3">U+6054	恔</span>
+8396	<span class="old">U+60F7	惷</span>	<span class="s3">U+6075	恵</span>
+8397	<span class="old">U+60FD	惽</span>	<span class="s3">U+60D4	惔</span>
+8398	<span class="old">U+6103	愃</span>	<span class="s3">U+60FD	惽</span>
+8399	<span class="old">U+6113	愓</span>	<span class="s3">U+6103	愃</span>
+<a id="s84"></a>
+8400	<span class="old">U+6149	慉</span>	<span class="s3">U+6113	愓</span>
+8401	<span class="old">U+6183	憃</span>	<span class="s3">U+60F7	惷</span>
+8402	<span class="old">U+61E0	懠</span>	<span class="s3">U+6149	慉</span>
+8403	<span class="old">U+61EE	懮</span>	<span class="s3">U+6183	憃</span>
+8404	<span class="old">U+61F0	懰</span>	<span class="s3">U+6199	憙</span>
+8405	<span class="old">U+6204	戄</span>	<span class="s3">U+61E0	懠</span>
+8406	<span class="old">U+60A8	您</span>	<span class="s3">U+61F0	懰</span>
+8407	<span class="old">U+606C	恬</span>	<span class="s3">U+61EE	懮</span>
+8408	<span class="old">U+6199	憙</span>	<span class="s3">U+6201	戁</span>
+8409	<span class="old">U+6075	恵</span>	<span class="s3">U+6204	戄</span>
+8410	<span class="old">U+60E6	惦</span>
+8411	<span class="old">U+622D	戭</span>
+8412	unassigned
+8413	unassigned
+8414	<span class="s3">U+622D	戭</span>
+8415	<span class="s3">U+6239	戹</span>
+8416	<span class="s3">U+623A	戺</span>
+8417	unassigned
+8418	<span class="s3">U+6250	扐</span>
+8419	<span class="s3">U+6262	扢</span>
+8420	<span class="s3">U+6264	扤</span>
+8421	<span class="old">U+6239	戹</span>	<span class="s3">U+6261	扡</span>
+8422	<span class="old">U+623A	戺</span>	<span class="s2">U+6266	扦</span>
+8423	Deleted
+8424	<span class="s3">U+62B6	抶</span>
+8425	<span class="old">U+641E	搞</span>	<span class="s3">U+62D1	拑</span>
+8426	<span class="old">U+6337	挷</span>
+8427	<span class="old">U+6491	撑</span>	<span class="s3">U+62D5	拕</span>
+8428	<span class="old">U+64B6	撶</span>	<span class="s3">U+22A98	&#x22A98;(<script type="text/javascript">disphex("22A98");</script>)</span>
+8429	<span class="old">U+22A98	&#x22A98;(<script type="text/javascript">disphex("22A98");</script>)</span>	<span class="s3">U+62F6	拶</span>
+8430	<span class="old">U+6506	攆</span>	<span class="s3">U+635A	捚</span>
+8431	<span class="old">U+6261	扡</span>	<span class="s3">U+6331	挱</span>
+8432	<span class="old">U+62BF	抿</span>	<span class="s3">U+6343	捃</span>
+8433	<span class="old">U+62F6	拶</span>	<span class="s3">U+6358	捘</span>
+8434	<span class="old">U+6310	挐</span>	<span class="s3">U+6353	捓</span>
+8435	<span class="old">U+6331	挱</span>	<span class="s3">U+636C	捬</span>
+8436	<span class="old">U+6343	捃</span>	<span class="s3">U+6397	掗</span>
+8437	<span class="old">U+634F	捏</span>	<span class="s3">U+63A4	掤</span>
+8438	<span class="old">U+6358	捘</span>	<span class="s3">U+63AE	掮</span>
+8439	<span class="old">U+6382	掂</span>	<span class="s3">U+63F8	揸</span>
+8440	<span class="old">U+6397	掗</span>	<span class="s3">U+63F2	揲</span>
+8441	<span class="old">U+6399	掙</span>	<span class="s3">U+63C5	揅</span>
+8442	<span class="old">U+63A4	掤</span>	<span class="s3">U+63D7	揗</span>
+8443	<span class="old">U+637A	捺</span>	<span class="s3">U+63F0	揰</span>
+8444	<span class="old">U+63CE	揎</span>	<span class="s3">U+63EB	揫</span>
+8445	<span class="old">U+63D5	揕</span>	<span class="s3">U+63CE	揎</span>
+8446	<span class="old">U+6449	摉</span>	<span class="s3">U+63D5	揕</span>
+8447	U+63E5	揥
+8448	<span class="s3">U+63F6	揶</span>
+8449	<span class="old">U+63F6	揶</span>	<span class="s3">U+63F5	揵</span>
+8450	<span class="old">U+63F5	揵</span>	<span class="s3">U+6438	搸</span>
+8451	<span class="old">U+6427	搧</span>	<span class="s3">U+6394	掔</span>
+8452	<span class="old">U+642F	搯</span>	<span class="s3">U+6422	搢</span>
+8453	<span class="old">U+6430	搰</span>	<span class="s3">U+6435	搵</span>
+8454	<span class="old">U+6454	摔</span>	<span class="s3">U+640A	搊</span>
+8455	<span class="old">U+645C	摜</span>	<span class="s3">U+6418	搘</span>
+8456	<span class="old">U+6466	摦</span>	<span class="s3">U+6449	摉</span>
+8457	<span class="old">U+6472	摲</span>	<span class="s3">U+640C	搌</span>
+8458	<span class="old">U+6477	摷</span>	<span class="s3">U+6424	搤</span>
+8459	<span class="old">U+647B	摻</span>	<span class="s3">U+6421	搡</span>
+8460	<span class="old">U+648A	撊</span>	<span class="s3">U+6460	摠</span>
+8461	<span class="old">U+64D6	擖</span>	<span class="s3">U+64B1	撱</span>
+8462	<span class="old">U+640C	搌</span>	<span class="s3">U+6466	摦</span>
+8463	<span class="old">U+650F	攏</span>	<span class="s3">U+6472	摲</span>
+8464	<span class="old">U+63AE	掮</span>	<span class="s3">U+6477	摷</span>
+8465	<span class="old">U+6424	搤</span>	<span class="s3">U+64A6	撦</span>
+8466	<span class="old">U+643E	搾</span>	<span class="s3">U+643F	搿</span>
+8467	<span class="old">U+643F	搿</span>	<span class="s2">U+22D07	&#x22D07;(<script type="text/javascript">disphex("22D07");</script>)</span>
+8468	<span class="old">U+6421	搡</span>	<span class="s3">U+648A	撊</span>
+8469	U+648F	撏
+8470	<span class="old">U+64A6	撦</span>	<span class="s3">U+64B6	撶</span>
+8471	<span class="old">U+655C	敜</span>	<span class="s2">U+64B3	撳</span>
+8472	<span class="old">U+6573	敳</span>	<span class="s2">U+22D48	&#x22D48;(<script type="text/javascript">disphex("22D48");</script>)</span>
+8473	<span class="old">U+6579	敹</span>	<span class="s2">U+64A3	撣</span>
+8474	<span class="old">U+657F	敿</span>	<span class="s3">U+64D0	擐</span>
+8475	<span class="old">U+656B	敫</span>	<span class="s3">U+64D6	擖</span>
+8476	<span class="s3">U+64EB	擫</span>
+8477	<span class="s3">U+64E5	擥</span>
+8478	<span class="s3">U+651F	攟</span>
+8479	<span class="s2">U+63B1	掱</span>
+8480	unassigned
+8481	<span class="old">U+659A	斚</span>
+8482	<span class="old">U+65A0	斠</span>
+8483	unassigned
+8484	unassigned
+8485	unassigned
+8486	unassigned
+8487	unassigned
+8488	unassigned
+8489	<span class="s3">U+655C	敜</span>
+8490	<span class="s3">U+656B	敫</span>
+8491	<span class="s3">U+6573	敳</span>
+8492	<span class="s3">U+6579	敹</span>
+8493	<span class="s3">U+657F	敿</span>
+8494	<span class="china2">U+658F	斏</span>
+8495	unassigned
+8496	<span class="s3">U+659A	斚</span>
+8497	<span class="s3">U+65A0	斠</span>
+8498	<span class="s3">U+65AE	斮</span>
+8499	<span class="s3">U+65DD	旝</span>
+<a id="s85"></a>
+8500	unassigned
+8501	<span class="old">U+65D7	旗</span>	<span class="s3">U+65F4	旴</span>
+8502	<span class="s3">U+6600	昀</span>
+8503	<span class="s3">U+6604	昄</span>
+8504	<span class="s3">U+660A	昊</span>
+8505	<span class="s3">U+6630	昰</span>
+8506	<span class="s3">U+663A	昺</span>
+8507	<span class="s3">U+6645	晅</span>
+8508	<span class="s3">U+665F	晟</span>
+8509	<span class="s3">U+665B	晛</span>
+8510	<span class="s3">U+6667	晧</span>
+8511	<span class="old">U+6604	昄</span>	<span class="s3">U+665C	晜</span>
+8512	<span class="s3">U+667E	晾</span>
+8513	<span class="old">U+660A	昊</span>	<span class="s3">U+668B	暋</span>
+8514	<span class="old">U+66C6	曆</span>	<span class="s3">U+668C	暌</span>
+8515	<span class="old">U+6630	昰</span>	<span class="s3">U+6693	暓</span>
+8516	<span class="old">U+6645	晅</span>	<span class="s3">U+6694	暔</span>
+8517	<span class="old">U+665C	晜</span>	<span class="s3">U+66B2	暲</span>
+8518	<span class="old">U+665F	晟</span>	<span class="s3">U+66C4	曄</span>
+8519	<span class="old">U+6662	晢</span>	<span class="s3">U+66D6	曖</span>
+8520	<span class="old">U+667E	晾</span>
+8521	<span class="old">U+668B	暋</span>
+8522	<span class="old">U+668C	暌</span>
+8523	<span class="old">U+6693	暓</span>
+8524	<span class="old">U+66D6	曖</span>	<span class="s3">U+670C	朌</span>
+8525	<span class="s3">U+6723	朣</span>
+8526	<span class="old">U+6694	暔</span>
+8527	<span class="old">U+6652	晒</span>	<span class="s3">U+673E	朾</span>
+8528	<span class="old">U+66C4	曄</span>	<span class="s3">U+6747	杇</span>
+8529	<span class="old">U+66B2	暲</span>	<span class="s3">U+6755	杕</span>
+8530	<span class="old">U+663A	昺</span>	<span class="s3">U+6760	杠</span>
+8531	<span class="old">U+670C	朌</span>	<span class="s3">U+6757	杗</span>
+8532	<span class="old">U+6723	朣</span>	<span class="s3">U+675D	杝</span>
+8533	<span class="s3">U+6745	杅</span>
+8534	<span class="s3">U+6759	杙</span>
+8535	<span class="s3">U+6776	杶</span>
+8536	<span class="s3">U+67A4	枤</span>
+8537	<span class="s3">U+677B	杻</span>
+8538	<span class="s3">U+67AC	枬</span>
+8539	<span class="s3">U+6793	枓</span>
+8540	<span class="s3">U+67F7	柷</span>
+8541	<span class="old">U+673A	机</span>	<span class="s3">U+6792	枒</span>
+8542	<span class="old">U+673E	朾</span>	<span class="s3">U+67B4	枴</span>
+8543	<span class="old">U+6745	杅</span>	<span class="s3">U+67C2	柂</span>
+8544	<span class="old">U+6759	杙</span>	<span class="s3">U+67C5	柅</span>
+8545	<span class="old">U+6777	杷</span>	<span class="s3">U+67E3	柣</span>
+8546	<span class="old">U+677B	杻</span>	<span class="s3">U+67E4	柤</span>
+8547	<span class="old">U+67AC	枬</span>	<span class="s3">U+67F2	柲</span>
+8548	<span class="old">U+6792	枒</span>	<span class="s3">U+67F6	柶</span>
+8549	<span class="old">U+6793	枓</span>	<span class="s3">U+67F8	柸</span>
+8550	<span class="old">U+67B4	枴</span>	<span class="s3">U+683B	栻</span>
+8551	<span class="old">U+67C2	柂</span>	<span class="s3">U+6814	栔</span>
+8552	<span class="old">U+67C5	柅</span>	<span class="s3">U+681D	栝</span>
+8553	<span class="old">U+67E3	柣</span>	<span class="s3">U+681E	栞</span>
+8554	<span class="old">U+67E4	柤</span>	<span class="s3">U+682B	栫</span>
+8555	<span class="s3">U+682D	栭</span>
+8556	<span class="old">U+67F2	柲</span>	<span class="s3">U+6835	栵</span>
+8557	<span class="old">U+67F6	柶</span>	<span class="s3">U+684B	桋</span>
+8558	<span class="old">U+6814	栔</span>	<span class="s3">U+6812	栒</span>
+8559	<span class="old">U+681D	栝</span>	<span class="s3">U+681F	栟</span>
+8560	<span class="old">U+681E	栞</span>	<span class="s3">U+686C	桬</span>
+8561	<span class="old">U+682B	栫</span>	<span class="s3">U+686D	桭</span>
+8562	<span class="old">U+682D	栭</span>	<span class="s3">U+68A1	梡</span>
+8563	<span class="old">U+6835	栵</span>	<span class="s3">U+68A9	梩</span>
+8564	<span class="old">U+684B	桋</span>	<span class="s3">U+68B4	梴</span>
+8565	<span class="old">U+686C	桬</span>	<span class="s3">U+6898	梘</span>
+8566	<span class="old">U+686D	桭</span>	<span class="s3">U+68D1	棑</span>
+8567	<span class="old">U+68A1	梡</span>	<span class="s3">U+68DC	棜</span>
+8568	<span class="old">U+68A9	梩</span>	<span class="s3">U+68EA	棪</span>
+8569	<span class="old">U+68B4	梴</span>	<span class="s3">U+68F8	棸</span>
+8570	<span class="old">U+68D1	棑</span>	<span class="s3">U+690C	椌</span>
+8571	<span class="old">U+68DC	棜</span>	<span class="s3">U+690F	椏</span>
+8572	<span class="old">U+68EA	棪</span>	<span class="s3">U+6911	椑</span>
+8573	<span class="old">U+68F8	棸</span>	<span class="s3">U+6970	楰</span>
+8574	<span class="old">U+690C	椌</span>	<span class="s3">U+6959	楙</span>
+8575	<span class="old">U+690F	椏</span>	<span class="s3">U+6940	楀</span>
+8576	<span class="old">U+6911	椑</span>	<span class="s3">U+6942	楂</span>
+8577	<span class="old">U+6940	楀</span>	<span class="s3">U+6944	楄</span>
+8578	<span class="old">U+6942	楂</span>	<span class="s3">U+694E	楎</span>
+8579	<span class="old">U+6944	楄</span>	<span class="s3">U+696C	楬</span>
+8580	<span class="old">U+694E	楎</span>	<span class="s2">U+235EC	&#x235EC;(<script type="text/javascript">disphex("235EC");</script>)</span>
+8581	<span class="old">U+696C	楬</span>	<span class="s3">U+69E9	槩</span>
+8582	<span class="old">U+6970	楰</span>	<span class="s3">U+6A32	樲</span>
+8583	U+6A20	樠
+8584	<span class="old">U+6A3F	樿</span>	<span class="s3">U+69FC	槼</span>
+8585	<span class="old">U+6A47	橇</span>	<span class="s2">U+236EE	&#x236EE;(<script type="text/javascript">disphex("236EE");</script>)</span>
+8586	<span class="old">U+6A64	橤</span>	<span class="s3">U+6A3F	樿</span>
+8587	<span class="old">U+6A87	檇</span>	<span class="s3">U+6A47	橇</span>
+8588	<span class="old">U+6A8E	檎</span>	<span class="s3">U+6A64	橤</span>
+8589	<span class="old">U+6A91	檑</span>	<span class="s3">U+6A8E	檎</span>
+8590	<span class="old">U+6AB4	檴</span>	<span class="s3">U+71CA	燊</span>
+8591	<span class="old">U+6A63	橣</span>	<span class="s3">U+6A33	樳</span>
+8592	<span class="old">U+6ABF	檿</span>	<span class="s3">U+6A52	橒</span>
+8593	<span class="old">U+6ACC	櫌</span>	<span class="s3">U+6A87	檇</span>
+8594	<span class="old">U+6B11	欑</span>	<span class="s3">U+6A91	檑</span>
+8595	<span class="old">U+6B19	欙</span>	<span class="s3">U+6A5A	橚</span>
+8596	<span class="old">U+69FC	槼</span>	<span class="s3">U+6AB4	檴</span>
+8597	<span class="old">U+6A5A	橚</span>	<span class="s3">U+6A63	橣</span>
+8598	<span class="old">U+71CA	燊</span>	<span class="s3">U+6ABF	檿</span>
+8599	<span class="old">U+6A33	樳</span>	<span class="s3">U+6AE5	櫥</span>
+<a id="s86"></a>
+8600	<span class="old">U+6A52	橒</span>	<span class="s3">U+6A99	檙</span>
+8601	<span class="old">U+6813	栓</span>	<span class="s2">U+6AEB	櫫</span>
+8602	<span class="old">U+6AE5	櫥</span>	<span class="s3">U+6ACC	櫌</span>
+8603	U+6AF8	櫸
+8604	<span class="old">U+67F8	柸</span>	<span class="s3">U+6B11	欑</span>
+8605	<span class="old">U+6898	梘</span>	<span class="s3">U+6B19	欙</span>
+8606	<span class="old">U+6812	栒</span>	<span class="s2">U+6A34	樴</span>
+8607	<span class="old">U+6A99	檙</span>
+8608	<span class="old">U+6A4C	橌</span>
+8609	<span class="old">U+681F	栟</span>
+8610	unassigned
+8611	<span class="old">U+6B3C	欼</span>
+8612	<span class="old">U+6B48	歈</span>
+8613	<span class="old">U+6B4A	歊</span>
+8614	<span class="old">U+6B57	歗</span>
+8615	<span class="old">U+6B5C	歜</span>
+8616	<span class="old">U+6B41	歁</span>	<span class="s3">U+6B3C	欼</span>
+8617	<span class="s3">U+6B48	歈</span>
+8618	<span class="s3">U+6B41	歁</span>
+8619	<span class="s3">U+6B4A	歊</span>
+8620	<span class="old">U+6BAD	殭</span>	<span class="s3">U+6B57	歗</span>
+8621	<span class="old">U+6B7E	歾</span>	<span class="s3">U+6B5C	歜</span>
+8622	<span class="old">U+6B88	殈</span>
+8623	<span class="old">U+6BA3	殣</span>	<span class="s3">U+6B7E	歾</span>
+8624	<span class="old">U+6BC8	毈</span>	<span class="s3">U+6B88	殈</span>
+8625	<span class="s3">U+6BA3	殣</span>
+8626	<span class="s3">U+6BAD	殭</span>
+8627	unassigned
+8628	<span class="s3">U+6BC8	毈</span>
+8629	unassigned
+8630	unassigned
+8631	unassigned
+8632	U+6BDA	毚
+8633	<span class="old">U+6C1D	氝</span>	<span class="s3">U+6BFF	毿</span>
+8634	<span class="old">U+6C27	氧</span>
+8635	<span class="old">U+6C25	氥</span>	<span class="s3">U+6C1D	氝</span>
+8636	<span class="old">U+6C26	氦</span>	<span class="s2">U+6C1F	氟</span>
+8637	<span class="old">U+6C2B	氫</span>	<span class="s2">U+6C28	氨</span>
+8638	<span class="old">U+6C31	氱</span>	<span class="s3">U+6C27	氧</span>
+8639	<span class="old">U+6C2E	氮</span>	<span class="s3">U+6C25	氥</span>
+8640	<span class="old">U+6C2C	氬</span>	<span class="s3">U+6C26	氦</span>
+8641	<span class="old">U+6BFF	毿</span>	<span class="s3">U+6C2B	氫</span>
+8642	<span class="old">U+6DF3	淳</span>	<span class="s2">U+6C30	氰</span>
+8643	<span class="old">U+6D6C	浬</span>	<span class="s3">U+6C31	氱</span>
+8644	<span class="old">U+6D6D	浭</span>	<span class="s3">U+6C2E	氮</span>
+8645	<span class="old">U+6E5F	湟</span>	<span class="s3">U+6C2C	氬</span>
+8646	<span class="s2">U+3CB6	㲶(<script type="text/javascript">disphex("3CB6");</script>)</span>	<span class="china2">U+6C15	氕</span>
+8647	<span class="old">U+6E4B	湋</span>	<span class="china2">U+6C18	氘</span>
+8648	<span class="old">U+6F0B	漋</span>	<span class="china2">U+6C1A	氚</span>
+8649	<span class="old">U+6CD2	泒</span>
+8650	<span class="old">U+6D64	浤</span>
+8651	<span class="old">U+6C46	汆</span>
+8652	<span class="old">U+6C3F	氿</span>
+8653	<span class="old">U+6C4B	汋</span>
+8654	<span class="old">U+6C4D	汍</span>
+8655	<span class="old">U+6C7D	汽</span>
+8656	unassigned
+8657	<span class="old">U+6C87	沇</span>
+8658	<span class="old">U+6C95	沕</span>
+8659	<span class="old">U+6CC3	泃</span>	<span class="s3">U+6C3F	氿</span>
+8660	<span class="old">U+6CDC	泜</span>	<span class="s3">U+6C46	汆</span>
+8661	<span class="old">U+6D0F	洏</span>	<span class="s3">U+6C84	沄</span>
+8662	<span class="old">U+6D11	洑</span>	<span class="s3">U+6C87	沇</span>
+8663	<span class="old">U+6D29	洩</span>	<span class="s3">U+6C95	沕</span>
+8664	<span class="old">U+6D67	浧</span>	<span class="s3">U+6CC2	泂</span>
+8665	<span class="old">U+6D8A	涊</span>	<span class="s3">U+6CC1	況</span>
+8666	<span class="s3">U+6CD2	泒</span>
+8667	<span class="s3">U+6CC3	泃</span>
+8668	<span class="old">U+6D34	洴</span>	<span class="s3">U+6CDC	泜</span>
+8669	<span class="old">U+6DD3	淓</span>	<span class="s3">U+6CDA	泚</span>
+8670	<span class="old">U+6DE0	淠</span>	<span class="s3">U+6D0F	洏</span>
+8671	<span class="old">U+6DE2	淢</span>	<span class="s3">U+6D34	洴</span>
+8672	<span class="old">U+6DE5	淥</span>	<span class="s3">U+6D24	洤</span>
+8673	<span class="old">U+6DF5	淵</span>	<span class="s3">U+6D8C	涌</span>
+8674	<span class="old">U+6DF6	淶</span>	<span class="s3">U+6D96	涖</span>
+8675	<span class="old">U+6DFC	淼</span>	<span class="s3">U+6D92	涒</span>
+8676	<span class="s3">U+6D6D	浭</span>
+8677	<span class="old">U+6E2B	渫</span>	<span class="s3">U+6D64	浤</span>
+8678	<span class="old">U+6E2E	渮</span>	<span class="s3">U+6D67	浧</span>
+8679	<span class="old">U+6E32	渲</span>	<span class="s3">U+6D8A	涊</span>
+8680	<span class="old">U+6E3C	渼</span>	<span class="s3">U+6D7C	浼</span>
+8681	<span class="old">U+6E62	湢</span>	<span class="s3">U+6DD6	淖</span>
+8682	<span class="old">U+6EB4	溴</span>	<span class="s3">U+6DDF	淟</span>
+8683	<span class="old">U+6EC9	滉</span>	<span class="s3">U+6DDC	淜</span>
+8684	<span class="old">U+6ECA	滊</span>	<span class="s3">U+6DD3	淓</span>
+8685	<span class="old">U+6ECF	滏</span>	<span class="s3">U+6DE0	淠</span>
+8686	<span class="old">U+6F37	漷</span>	<span class="s3">U+6DE2	淢</span>
+8687	<span class="old">U+6F5A	潚</span>	<span class="s3">U+6E1F	渟</span>
+8688	<span class="old">U+6F90	澐</span>	<span class="s3">U+6E22	渢</span>
+8689	<span class="old">U+7005	瀅</span>	<span class="s3">U+6E51	湑</span>
+8690	<span class="old">U+700C	瀌</span>	<span class="s3">U+6E69	湩</span>
+8691	<span class="old">U+7033	瀳</span>	<span class="s3">U+6EA6	溦</span>
+8692	<span class="old">U+6E8E	溎</span>	<span class="s3">U+6DE5	淥</span>
+8693	<span class="old">U+6D24	洤</span>	<span class="s3">U+6DFC	淼</span>
+8694	<span class="old">U+7065	灥</span>	<span class="s3">U+6E32	渲</span>
+8695	<span class="old">U+6F94	澔</span>	<span class="s3">U+6E3C	渼</span>
+8696	<span class="old">U+7109	焉</span>	<span class="s3">U+6E62	湢</span>
+8697	<span class="old">U+71E8	燨</span>	<span class="s3">U+6E8F	溏</span>
+8698	<span class="old">U+7131	焱</span>	<span class="s3">U+6E4B	湋</span>
+8699	<span class="old">U+7143	煃</span>	<span class="s3">U+6E2B	渫</span>
+<a id="s87"></a>
+8700	<span class="old">U+71CF	燏</span>	<span class="s3">U+6EB4	溴</span>
+8701	<span class="old">U+7085	炅</span>	<span class="s3">U+6EC9	滉</span>
+8702	<span class="old">U+70D9	烙</span>	<span class="s3">U+6ECF	滏</span>
+8703	<span class="old">U+7104	焄</span>	<span class="s3">U+6EFA	滺</span>
+8704	<span class="old">U+7141	煁</span>	<span class="s3">U+6F30	漰</span>
+8705	<span class="old">U+7159	煙</span>	<span class="s3">U+6F4C	潌</span>
+8706	<span class="old">U+71C9	燉</span>	<span class="s3">U+6F0E	漎</span>
+8707	<span class="old">U+71CB	燋</span>	<span class="s3">U+6F0B	漋</span>
+8708	<span class="old">U+713B	焻</span>	<span class="s3">U+6F37	漷</span>
+8709	<span class="old">U+71BF	熿</span>	<span class="s3">U+6F89	澉</span>
+8710	<span class="old">U+7150	煐</span>	<span class="s3">U+6F90	澐</span>
+8711	<span class="old">U+24276	&#x24276;(<script type="text/javascript">disphex("24276");</script>)</span>	<span class="s3">U+6F5A	潚</span>
+8712	<span class="old">U+6CB5	沵</span>	<span class="s3">U+6FD4	濔</span>
+8713	<span class="old">U+70F1	烱</span>	<span class="s3">U+6FD9	濙</span>
+8714	<span class="old">U+70D3	烓</span>	<span class="s3">U+7005	瀅</span>
+8715	<span class="old">U+71A4	熤</span>	<span class="s3">U+700C	瀌</span>
+8716	<span class="old">U+70F3	烳</span>	<span class="s3">U+701E	瀞</span>
+8717	<span class="old">U+715D	煝</span>	<span class="s3">U+7035	瀵</span>
+8718	<span class="old">U+7189	熉</span>	<span class="s3">U+7033	瀳</span>
+8719	<span class="old">U+724F	牏</span>	<span class="s3">U+704B	灋</span>
+8720	<span class="old">U+7250	牐</span>	<span class="s3">U+7065	灥</span>
+8721	<span class="old">U+727C	牼</span>	<span class="s2">U+6F81	澁</span>
+8722	<span class="old">U+7286	犆</span>
+8723	<span class="old">U+7287	犇</span>
+8724	<span class="old">U+7294	犔</span>
+8725	<span class="old">U+729B	犛</span>
+8726	<span class="old">U+72AB	犨</span>
+8727	<span class="old">U+7260	牠</span>
+8728	unassigned
+8729	unassigned
+8730	unassigned
+8731	<span class="old">U+72B5	犵</span>	<span class="s3">U+707A	灺</span>
+8732	<span class="old">U+72BA	犺</span>	<span class="s3">U+7085	炅</span>
+8733	<span class="old">U+72C5	狅</span>	<span class="s3">U+241AC	&#x241AC;(<script type="text/javascript">disphex("241AC");</script>)</span>
+8734	<span class="old">U+72C9	狉</span>	<span class="s3">U+70A4	炤</span>
+8735	<span class="old">U+72D8	狘</span>	<span class="s3">U+7081	炁</span>
+8736	<span class="old">U+72E8	狨</span>	<span class="s3">U+70D6	烖</span>
+8737	<span class="old">U+72EB	狫</span>	<span class="s3">U+70D3	烓</span>
+8738	<span class="old">U+7306	猆</span>	<span class="s2">U+70DA	烚</span>
+8739	<span class="old">U+7308	猈</span>	<span class="s3">U+70F3	烳</span>
+8740	<span class="old">U+7332	猲</span>	<span class="s3">U+7104	焄</span>
+8741	<span class="old">U+7340	獀</span>	<span class="s3">U+70F1	烱</span>
+8742	<span class="old">U+7346	獆</span>	<span class="s3">U+712B	焫</span>
+8743	<span class="old">U+735D	獝</span>	<span class="s3">U+712F	焯</span>
+8744	<span class="old">U+7362	獢</span>	<span class="s3">U+713B	焻</span>
+8745	<span class="old">U+736B	獫</span>	<span class="s3">U+24276	&#x24276;(<script type="text/javascript">disphex("24276");</script>)</span>
+8746	<span class="old">U+737E	獾</span>	<span class="s3">U+7131	焱</span>
+8747	<span class="old">U+737C	獼</span>	<span class="s3">U+7134	焴</span>
+8748	<span class="old">U+2489B	&#x2489B;(<script type="text/javascript">disphex("2489B");</script>)</span>	<span class="s3">U+7147	煇</span>
+8749	<span class="s3">U+7143	煃</span>
+8750	<span class="s3">U+7141	煁</span>
+8751	<span class="s3">U+7150	煐</span>
+8752	<span class="s3">U+715D	煝</span>
+8753	<span class="s3">U+715A	煚</span>
+8754	<span class="s3">U+715F	煟</span>
+8755	U+2431A	&#x2431A;(<script type="text/javascript">disphex("2431A");</script>)
+8756	<span class="s3">U+7189	熉</span>
+8757	<span class="s3">U+71BF	熿</span>
+8758	<span class="s3">U+71A4	熤</span>
+8759	<span class="s3">U+71B3	熳</span>
+8760	<span class="old">U+73A5	玥</span>	<span class="s3">U+71C2	燂</span>
+8761	<span class="old">U+7397	玗</span>	<span class="s3">U+71CB	燋</span>
+8762	<span class="old">U+7431	琱</span>	<span class="s3">U+71CF	燏</span>
+8763	<span class="old">U+743F	琿</span>	<span class="s3">U+71C1	燁</span>
+8764	<span class="old">U+7485	璅</span>	<span class="s3">U+71E8	燨</span>
+8765	<span class="old">U+748A	璊</span>	<span class="s3">U+71E1	燡</span>
+8766	<span class="old">U+749A	璚</span>	<span class="s3">U+71EB	燫</span>
+8767	<span class="old">U+74A9	璩</span>	<span class="s3">U+7225	爥</span>
+8768	<span class="old">U+74CC	瓌</span>
+8769	<span class="old">U+74D6	瓖</span>
+8770	<span class="old">U+73DB	珛</span>
+8771	<span class="old">U+7462	瑢</span>
+8772	<span class="old">U+7444	瑄</span>
+8773	<span class="old">U+73D4	珔</span>
+8774	<span class="old">U+743C	琼</span>
+8775	<span class="old">U+73B6	玶</span>
+8776	<span class="old">U+74D7	瓗</span>
+8777	<span class="old">U+7442	瑂</span>
+8778	<span class="old">U+7437	琷</span>	<span class="s3">U+724F	牏</span>
+8779	<span class="old">U+7430	琰</span>	<span class="s3">U+7250	牐</span>
+8780	<span class="old">U+7489	璉</span>
+8781	<span class="old">U+7500	甀</span>	<span class="s3">U+726E	牮</span>
+8782	<span class="old">U+750F	甏</span>	<span class="s3">U+7276	牶</span>
+8783	<span class="old">U+7512	甒</span>	<span class="s3">U+727C	牼</span>
+8784	<span class="old">U+7506	甆</span>	<span class="s2">U+3E40	㹀(<script type="text/javascript">disphex("3E40");</script>)</span>
+8785	<span class="s3">U+7286	犆</span>
+8786	<span class="old">U+7524	甤</span>	<span class="s3">U+7287	犇</span>
+8787	<span class="old">U+7529	甩</span>	<span class="s2">U+7284	犄</span>
+8788	<span class="s3">U+7294	犔</span>
+8789	<span class="s3">U+729B	犛</span>
+8790	<span class="s3">U+72AB	犨</span>
+8791	<span class="old">U+7548	畈</span>
+8792	<span class="old">U+7583	疃</span>
+8793	unassigned
+8794	<span class="s3">U+72B5	犵</span>
+8795	<span class="s3">U+72BA	犺</span>
+8796	<span class="s3">U+72C5	狅</span>
+8797	<span class="old">U+7629	瘩</span>	<span class="s3">U+72C9	狉</span>
+8798	<span class="old">U+7603	瘃</span>	<span class="s3">U+72D8	狘</span>
+8799	<span class="old">U+764C	癌</span>	<span class="s3">U+72E8	狨</span>
+<a id="s88"></a>
+8800	<span class="old">U+7673	癳</span>	<span class="s3">U+72EB	狫</span>
+8801	<span class="old">U+7598	疘</span>	<span class="s2">U+72E7	狧</span>
+8802	<span class="old">U+75C1	痁</span>	<span class="s3">U+7308	猈</span>
+8803	<span class="old">U+75D0	痐</span>	<span class="s3">U+730B	猋</span>
+8804	<span class="old">U+75DA	痚</span>	<span class="s3">U+7328	猨</span>
+8805	<span class="old">U+75E0	痠</span>	<span class="s3">U+7306	猆</span>
+8806	<span class="old">U+75E4	痤</span>	<span class="s3">U+7332	猲</span>
+8807	<span class="old">U+75F1	痱</span>	<span class="s3">U+7340	獀</span>
+8808	<span class="old">U+75F5	痵</span>	<span class="s3">U+7346	獆</span>
+8809	<span class="old">U+75FB	痻</span>	<span class="s3">U+735D	獝</span>
+8810	<span class="old">U+7608	瘈</span>	<span class="s3">U+7362	獢</span>
+8811	<span class="old">U+760C	瘌</span>	<span class="s3">U+736B	獫</span>
+8812	<span class="old">U+762D	瘭</span>	<span class="s3">U+2489B	&#x2489B;(<script type="text/javascript">disphex("2489B");</script>)</span>
+8813	<span class="old">U+762F	瘯</span>	<span class="s3">U+737C	獼</span>
+8814	<span class="old">U+7636	瘶</span>	<span class="s3">U+737E	獾</span>
+8815	<span class="old">U+7638	瘸</span>
+8816	<span class="old">U+765F	癟</span>
+8817	<span class="old">U+7660	癠</span>
+8818	<span class="old">U+75E7	痧</span>	<span class="s3">U+7397	玗</span>
+8819	<span class="old">U+7604	瘄</span>	<span class="s3">U+73A5	玥</span>
+8820	<span class="old">U+75B6	疶</span>	<span class="s3">U+73B6	玶</span>
+8821	<span class="old">U+767F	癿</span>	<span class="s3">U+73DB	珛</span>
+8822	<span class="s3">U+73D4	珔</span>
+8823	<span class="s3">U+73FA	珺</span>
+8824	<span class="s3">U+7431	琱</span>
+8825	<span class="s3">U+743C	琼</span>
+8826	<span class="s3">U+7437	琷</span>
+8827	<span class="s3">U+7430	琰</span>
+8828	<span class="s3">U+743A	琺</span>
+8829	<span class="s3">U+743F	琿</span>
+8830	<span class="s3">U+7444	瑄</span>
+8831	<span class="old">U+76DA	盚</span>	<span class="s3">U+7442	瑂</span>
+8832	<span class="s3">U+7454	瑔</span>
+8833	<span class="s3">U+7462	瑢</span>
+8834	<span class="s3">U+7489	璉</span>
+8835	<span class="s3">U+746D	瑭</span>
+8836	<span class="s3">U+7482	璂</span>
+8837	<span class="s3">U+7485	璅</span>
+8838	<span class="s3">U+748A	璊</span>
+8839	<span class="s3">U+749A	璚</span>
+8840	<span class="s3">U+74A9	璩</span>
+8841	<span class="old">U+76F5	盵</span>	<span class="s3">U+74AD	璭</span>
+8842	<span class="old">U+76F9	盹</span>	<span class="s3">U+74A6	璦</span>
+8843	<span class="old">U+7702	眂</span>	<span class="s3">U+74CC	瓌</span>
+8844	<span class="old">U+7705	眅</span>	<span class="s3">U+74D6	瓖</span>
+8845	<span class="old">U+770E	眎</span>	<span class="s2">N/A	[王賽]</span>
+8846	<span class="old">U+770F	眏</span>	<span class="s3">U+74D7	瓗</span>
+8847	<span class="old">U+7715	眕</span>
+8848	<span class="old">U+7745	睅</span>
+8849	<span class="old">U+7752	睒</span>
+8850	<span class="old">U+7759	睙</span>	<span class="s3">U+7500	甀</span>
+8851	<span class="old">U+776C	睬</span>	<span class="s3">U+7506	甆</span>
+8852	<span class="old">U+777D	睽</span>	<span class="s3">U+7512	甒</span>
+8853	<span class="old">U+778C	瞌</span>	<span class="s3">U+750F	甏</span>
+8854	<span class="old">U+778F	瞏</span>
+8855	<span class="old">U+779F	瞟</span>
+8856	<span class="old">U+77AB	瞫</span>	<span class="s3">U+7524	甤</span>
+8857	<span class="old">U+77D4	矔</span>
+8858	<span class="old">U+777B	睻</span>	<span class="s3">U+7548	畈</span>
+8859	<span class="s3">U+7583	疃</span>
+8860	unassigned
+8861	<span class="old">U+77DF	矟</span>	<span class="s3">U+7595	疕</span>
+8862	<span class="s3">U+7598	疘</span>
+8863	<span class="s3">U+759E	疞</span>
+8864	<span class="s3">U+75A2	疢</span>
+8865	<span class="s3">U+75A7	疧</span>
+8866	<span class="s2">N/A	[疒丹]</span>
+8867	<span class="s3">U+75C1	痁</span>
+8868	<span class="s3">U+75B6	疶</span>
+8869	<span class="s3">U+75D0	痐</span>
+8870	<span class="s3">U+75D7	痗</span>
+8871	<span class="old">U+77EC	矬</span>	<span class="s3">U+75E4	痤</span>
+8872	<span class="old">U+77F8	矸</span>	<span class="s3">U+75EF	痯</span>
+8873	<span class="old">U+789A	碚</span>	<span class="s3">U+7603	瘃</span>
+8874	<span class="old">U+7889	碉</span>	<span class="s3">U+75FB	痻</span>
+8875	<span class="old">U+781F	砟</span>	<span class="s3">U+7604	瘄</span>
+8876	<span class="old">U+77FD	矽</span>	<span class="s3">U+7608	瘈</span>
+8877	<span class="old">U+784D	硍</span>	<span class="s3">U+760C	瘌</span>
+8878	<span class="old">U+25581	&#x25581;(<script type="text/javascript">disphex("25581");</script>)</span>	<span class="s3">U+7628	瘨</span>
+8879	<span class="old">U+7904	礄</span>	<span class="s3">U+762C	瘬</span>
+8880	<span class="old">U+791E	礞</span>	<span class="s3">U+762D	瘭</span>
+8881	<span class="old">U+781E	砞</span>	<span class="s3">U+762F	瘯</span>
+8882	<span class="old">U+788D	碍</span>	<span class="s3">U+7636	瘶</span>
+8883	<span class="old">U+788F	碏</span>	<span class="s3">U+7649	癉</span>
+8884	<span class="old">U+7888	碈</span>	<span class="s2">U+7652	癒</span>
+8885	<span class="old">U+78BB	碻</span>	<span class="s3">U+7659	癙</span>
+8886	<span class="old">U+78D2	磒</span>	<span class="s3">U+764F	癏</span>
+8887	<span class="old">U+78E0	磠</span>	<span class="s3">U+7660	癠</span>
+8888	<span class="old">U+78E1	磡</span>	<span class="s3">U+7673	癳</span>
+8889	<span class="old">U+781D	砝</span>
+8890	<span class="old">U+7898	碘</span>
+8891	unassigned
+8892	<span class="old">U+7959	祙</span>
+8893	<span class="old">U+799A	禚</span>
+8894	<span class="old">U+799C	禜</span>
+8895	<span class="s3">U+767F	癿</span>
+8896	<span class="s3">U+76DA	盚</span>
+8897	unassigned
+8898	<span class="s3">U+76F5	盵</span>
+8899	<span class="s3">U+76F0	盰</span>
+<a id="s89"></a>
+8900	<span class="s3">U+770A	眊</span>
+8901	<span class="old">U+7A11	稑</span>	<span class="s3">U+76F9	盹</span>
+8902	<span class="old">U+7A3A	稺</span>	<span class="s3">U+7702	眂</span>
+8903	<span class="old">U+7A48	穈</span>	<span class="s3">U+7705	眅</span>
+8904	<span class="old">U+7A67	穧</span>	<span class="s3">U+771A	眚</span>
+8905	<span class="old">U+7A6E	穮</span>	<span class="s3">U+7722	眢</span>
+8906	<span class="old">U+79F4	秴</span>	<span class="s3">U+770E	眎</span>
+8907	<span class="s3">U+770F	眏</span>
+8908	<span class="s3">U+7715	眕</span>
+8909	<span class="s3">U+7734	眴</span>
+8910	<span class="s3">U+774A	睊</span>
+8911	<span class="old">U+7A94	窔</span>	<span class="s3">U+7745	睅</span>
+8912	<span class="old">U+7A8C	窌</span>	<span class="s3">U+7760	睠</span>
+8913	<span class="old">U+7AB4	窴</span>	<span class="s3">U+7752	睒</span>
+8914	<span class="old">U+7ABF	窿</span>	<span class="s3">U+7759	睙</span>
+8915	<span class="s3">U+777D	睽</span>
+8916	<span class="s3">U+777B	睻</span>
+8917	<span class="s3">U+778F	瞏</span>
+8918	<span class="s3">U+779F	瞟</span>
+8919	<span class="s3">U+77AB	瞫</span>
+8920	<span class="s3">U+77D4	矔</span>
+8921	<span class="old">U+7AE2	竢</span>
+8922	unassigned
+8923	unassigned
+8924	unassigned
+8925	<span class="s3">U+77DF	矟</span>
+8926	<span class="s3">U+77EC	矬</span>
+8927	unassigned
+8928	<span class="s3">U+77FD	矽</span>
+8929	<span class="s3">U+7803	砃</span>
+8930	<span class="s3">U+7805	砅</span>
+8931	<span class="old">U+7AFE	竾</span>	<span class="s3">U+7822	砢</span>
+8932	<span class="s3">U+7823	砣</span>
+8933	<span class="old">U+7B30	笰</span>	<span class="s3">U+7820	砠</span>
+8934	<span class="old">U+7B32	笲</span>	<span class="s3">U+781E	砞</span>
+8935	<span class="old">U+7B35	笵</span>	<span class="s3">U+781D	砝</span>
+8936	<span class="old">U+7B58	筘</span>	<span class="s2">U+782B	砫</span>
+8937	<span class="old">U+7B6D	筭</span>	<span class="s3">U+7835	砵</span>
+8938	<span class="old">U+7B73	筳</span>	<span class="s3">U+7837	砷</span>
+8939	<span class="old">U+7B84	箄</span>	<span class="s3">U+7833	砳</span>
+8940	<span class="old">U+7B99	箙</span>	<span class="s3">U+783D	砽</span>
+8941	<span class="old">U+7BDC	篜</span>	<span class="s3">U+784D	硍</span>
+8942	<span class="old">U+7BDF	篟</span>	<span class="s2">U+7848	硈</span>
+8943	<span class="old">U+7BE5	篥</span>	<span class="s2">U+7850	硐</span>
+8944	<span class="old">U+7BF9	篹</span>	<span class="s3">U+7845	硅</span>
+8945	<span class="old">U+7C09	簉</span>	<span class="s3">U+7854	硔</span>
+8946	<span class="old">U+7C39	簹</span>	<span class="s3">U+784B	硋</span>
+8947	<span class="old">U+7C5D	籝</span>	<span class="s3">U+786D	硭</span>
+8948	<span class="old">U+7C63	籣</span>	<span class="s3">U+786A	硪</span>
+8949	<span class="old">U+7C6D	籭</span>	<span class="s3">U+7886	碆</span>
+8950	<span class="old">U+7C30	簰</span>	<span class="s3">U+788F	碏</span>
+8951	<span class="old">U+7B77	筷</span>	<span class="s3">U+789A	碚</span>
+8952	<span class="old">U+7BE2	篢</span>	<span class="s3">U+7888	碈</span>
+8953	<span class="s2">N/A	[石店]</span>
+8954	<span class="s3">U+789E	碞</span>
+8955	<span class="s3">U+78B3	碳</span>
+8956	<span class="s3">U+78B6	碶</span>
+8957	<span class="old">U+7C8E	粎</span>	<span class="s3">U+787B	硻</span>
+8958	<span class="old">U+7C8D	粍</span>	<span class="s3">U+78D2	磒</span>
+8959	<span class="old">U+7C7D	籽</span>	<span class="s3">U+78BB	碻</span>
+8960	<span class="old">U+7CC5	糅</span>	<span class="s3">U+78DB	磛</span>
+8961	<span class="old">U+7C7C	籼</span>	<span class="s3">U+78DF	磟</span>
+8962	<span class="old">U+7C9E	粞</span>	<span class="s3">U+78E1	磡</span>
+8963	<span class="old">U+7CAE	粮</span>	<span class="s2">U+25555	&#x25555;(<script type="text/javascript">disphex("25555");</script>)</span>
+8964	<span class="old">U+7CBB	粻</span>	<span class="s3">U+25581	&#x25581;(<script type="text/javascript">disphex("25581");</script>)</span>
+8965	<span class="old">U+7CBD	粽</span>	<span class="s3">U+7904	礄</span>
+8966	<span class="old">U+7CD4	糔</span>	<span class="s2">U+78F5	磵</span>
+8967	<span class="old">U+7CF0	糰</span>	<span class="s3">U+78F9	磹</span>
+8968	<span class="old">U+7CBF	粿</span>	<span class="s3">U+791E	礞</span>
+8969	<span class="old">U+7C78	籸</span>	<span class="s2">U+7906	礆</span>
+8970	<span class="old">U+7DF1	緱</span>	<span class="s2">U+7852	硒</span>
+8971	<span class="old">U+7D03	紃</span>	<span class="s2">N/A	[石酉]</span>
+8972	<span class="old">U+7D11	紑</span>	<span class="s2">U+7883	碃</span>
+8973	<span class="old">U+7D15	紕</span>
+8974	<span class="old">U+7D53	絓</span>
+8975	<span class="old">U+7D7B	絻</span>
+8976	<span class="old">U+7D85	綅</span>
+8977	<span class="old">U+7D8E	綎</span>
+8978	<span class="old">U+7D96	綖</span>
+8979	<span class="old">U+7DAA	綪</span>
+8980	<span class="old">U+7DDC	緜</span>	<span class="s3">U+7959	祙</span>
+8981	<span class="old">U+7DC4	緄</span>	<span class="s3">U+799A	禚</span>
+8982	<span class="old">U+7DDA	線</span>	<span class="s3">U+799C	禜</span>
+8983	<span class="old">U+7DF0	緰</span>	<span class="s3">U+79A4	禤</span>
+8984	<span class="old">U+7DF6	緶</span>	<span class="s3">U+79B4	禴</span>
+8985	<span class="old">U+7E1A	縚</span>
+8986	<span class="old">U+7E2E	縮</span>	<span class="s3">U+79F4	秴</span>
+8987	<span class="old">U+7E56	繖</span>	<span class="s3">U+7A19	稙</span>
+8988	<span class="old">U+7E58	繘</span>	<span class="s3">U+7A11	稑</span>
+8989	<span class="old">U+7E60	繠</span>	<span class="s3">U+7A3A	稺</span>
+8990	<span class="old">U+7E07	縇</span>	<span class="s3">U+7A48	穈</span>
+8991	<span class="old">U+7DD3	緓</span>	<span class="s3">U+7A67	穧</span>
+8992	<span class="old">U+7E99	纙</span>	<span class="s3">U+7A6E	穮</span>
+8993	<span class="old">U+7E3F	縿</span>	<span class="s2">U+7A16	稖</span>
+8994	<span class="old">U+7E95	纕</span>
+8995	<span class="old">U+7E43	繃</span>
+8996	<span class="old">U+7F3D	缽</span>
+8997	<span class="old">U+7F4E	罎</span>
+8998	unassigned
+8999	<span class="s3">U+7A8A	窊</span>
+<a id="s90"></a>
+9000	<span class="s3">U+7A94	窔</span>
+9001	<span class="old">U+7F66	罦</span>	<span class="s3">U+7AB4	窴</span>
+9002	<span class="old">U+7F7B	罻</span>	<span class="s3">U+7ABF	窿</span>
+9003	<span class="old">U+7F7E	罾</span>	<span class="s2">U+7ACF	竏</span>
+9004	<span class="s3">U+7AE2	竢</span>
+9005	<span class="china2">U+7ADC	竜</span>
+9006	<span class="s3">U+7AFE	竾</span>
+9007	<span class="s3">U+7B30	笰</span>
+9008	<span class="s3">U+7B32	笲</span>
+9009	<span class="s3">U+7B35	笵</span>
+9010	<span class="s3">U+7B58	筘</span>
+9011	<span class="old">U+7F8B	羋</span>	<span class="s3">U+7B73	筳</span>
+9012	<span class="old">U+7FAD	羭</span>	<span class="s3">U+7B66	筦</span>
+9013	<span class="old">U+7FB1	羱</span>	<span class="s3">U+7B6D	筭</span>
+9014	<span class="s3">U+7B84	箄</span>
+9015	<span class="s3">U+7B99	箙</span>
+9016	<span class="s3">U+7BDC	篜</span>
+9017	<span class="s3">U+7BDF	篟</span>
+9018	<span class="s3">U+7BE5	篥</span>
+9019	<span class="s3">U+7BF9	篹</span>
+9020	<span class="s3">U+7C09	簉</span>
+9021	<span class="old">U+7FBF	羿</span>	<span class="s3">U+7BE2	篢</span>
+9022	<span class="old">U+7FBE	羾</span>	<span class="s3">U+7C39	簹</span>
+9023	<span class="old">U+7FC3	翃</span>	<span class="s3">U+7C30	簰</span>
+9024	<span class="old">U+7FEA	翪</span>	<span class="s3">U+7C5D	籝</span>
+9025	<span class="s3">U+7C63	籣</span>
+9026	<span class="s3">U+7C6D	籭</span>
+9027	unassigned
+9028	unassigned
+9029	unassigned
+9030	unassigned
+9031	<span class="old">U+800F	耏</span>
+9032	<span class="s2">U+7C81	粁</span>
+9033	<span class="s3">U+7C8D	粍</span>
+9034	<span class="s3">U+7C8E	粎</span>
+9035	<span class="s3">U+7C9E	粞</span>
+9036	<span class="s3">U+7CA6	粦</span>
+9037	<span class="s3">U+7CAE	粮</span>
+9038	<span class="s3">U+7CBB	粻</span>
+9039	<span class="s3">U+7CBF	粿</span>
+9040	<span class="s3">U+7CBD	粽</span>
+9041	<span class="old">U+8053	聓</span>	<span class="s3">U+7CC5	糅</span>
+9042	<span class="old">U+805D	聝</span>	<span class="s3">U+7CD3	糓</span>
+9043	<span class="old">U+8071	聱</span>	<span class="s3">U+7CD4	糔</span>
+9044	<span class="s2">U+7CE2	糢</span>
+9045	<span class="s3">U+7CE6	糦</span>
+9046	<span class="s3">U+7CF0	糰</span>
+9047	<span class="s3">U+7CF3	糳</span>
+9048	<span class="s2">U+25EC0	&#x25EC0;(<script type="text/javascript">disphex("25EC0");</script>)</span>
+9049	unassigned
+9050	unassigned
+9051	<span class="old">U+809C	肜</span>
+9052	<span class="s3">U+7D03	紃</span>
+9053	<span class="old">U+80B5	肵</span>	<span class="s3">U+7D16	紖</span>
+9054	<span class="old">U+80C6	胆</span>	<span class="s3">U+7D11	紑</span>
+9055	<span class="old">U+80FA	胺</span>	<span class="s3">U+7D15	紕</span>
+9056	<span class="old">U+80F0	胰</span>	<span class="s3">U+7D29	紩</span>
+9057	<span class="old">U+80F9	胹</span>	<span class="s3">U+7D32	紲</span>
+9058	<span class="old">U+8104	脄</span>	<span class="s3">U+7D53	絓</span>
+9059	<span class="old">U+8106	脆</span>	<span class="s3">U+7D8E	綎</span>
+9060	<span class="old">U+8109	脉</span>	<span class="s3">U+7D96	綖</span>
+9061	<span class="old">U+8116	脖</span>	<span class="s3">U+7D7B	絻</span>
+9062	<span class="old">U+8117	脗</span>	<span class="s3">U+7D85	綅</span>
+9063	<span class="old">U+811D	脝</span>	<span class="s3">U+7DAA	綪</span>
+9064	<span class="old">U+8121	脡</span>	<span class="s3">U+7DC4	緄</span>
+9065	<span class="old">U+8122	脢</span>	<span class="s3">U+7DD9	緙</span>
+9066	<span class="old">U+8130	脰</span>	<span class="s3">U+7DDC	緜</span>
+9067	<span class="old">U+8142	腂</span>	<span class="s3">U+7DF0	緰</span>
+9068	<span class="old">U+814C	腌</span>	<span class="s3">U+7E07	縇</span>
+9069	<span class="old">U+814D	腍</span>	<span class="s3">U+7DD3	緓</span>
+9070	<span class="old">U+8152	腒</span>	<span class="s3">U+7E0F	縏</span>
+9071	<span class="old">U+8176	腶</span>	<span class="s3">U+7DF1	緱</span>
+9072	<span class="old">U+8187	膇</span>	<span class="s3">U+7E1A	縚</span>
+9073	<span class="old">U+8198	膘</span>	<span class="s3">U+7E3F	縿</span>
+9074	<span class="old">U+819F	膟</span>	<span class="s3">U+7E58	繘</span>
+9075	<span class="old">U+81A8	膨</span>	<span class="s3">U+7E60	繠</span>
+9076	<span class="old">U+81B7	膷</span>	<span class="s3">U+7E95	纕</span>
+9077	<span class="old">U+81C8	臈</span>	<span class="s3">U+7E99	纙</span>
+9078	<span class="old">U+81CF	臏</span>
+9079	<span class="old">U+81D0	臐</span>
+9080	unassigned
+9081	<span class="old">U+81DB	臛</span>
+9082	<span class="old">U+80AA	肪</span>
+9083	<span class="old">U+817A	腺</span>	<span class="s3">U+7F3D	缽</span>
+9084	<span class="old">U+8186	膆</span>	<span class="s3">U+7F4E	罎</span>
+9085	unassigned
+9086	<span class="s3">U+7F66	罦</span>
+9087	<span class="s3">U+7F7B	罻</span>
+9088	<span class="old">U+823F	舿</span>	<span class="s3">U+7F7E	罾</span>
+9089	<span class="old">U+823A	舺</span>
+9090	<span class="old">U+824C	艌</span>	<span class="s3">U+7F8B	羋</span>
+9091	<span class="old">U+8228	舨</span>	<span class="s3">U+7F96	羖</span>
+9092	<span class="old">U+8251	艑</span>	<span class="s3">U+7FAD	羭</span>
+9093	<span class="old">U+8263	艣</span>	<span class="s3">U+7FB1	羱</span>
+9094	<span class="old">U+8265	艥</span>
+9095	<span class="old">U+8269	艩</span>	<span class="s3">U+7FBE	羾</span>
+9096	<span class="old">U+826C	艬</span>	<span class="s3">U+7FC3	翃</span>
+9097	<span class="old">U+8222	舢</span>	<span class="s3">U+7FEB	翫</span>
+9098	<span class="old">U+825A	艚</span>	<span class="s3">U+7FEA	翪</span>
+9099	<span class="old">U+26A40	&#x26A40;(<script type="text/javascript">disphex("26A40");</script>)</span>
+<a id="s91"></a>
+9100	<span class="old">U+82E0	苠</span>	<span class="s3">U+800F	耏</span>
+9101	<span class="old">U+8341	荁</span>	<span class="s3">U+8024	耤</span>
+9102	<span class="old">U+8345	荅</span>	<span class="s3">U+802F	耯</span>
+9103	<span class="old">U+83C6	菆</span>
+9104	<span class="old">U+8353	荓</span>
+9105	<span class="old">U+83F8	菸</span>	<span class="s3">U+8053	聓</span>
+9106	<span class="old">U+83FB	菻</span>	<span class="s3">U+805D	聝</span>
+9107	<span class="old">U+8434	萴</span>	<span class="s3">U+8071	聱</span>
+9108	<span class="old">U+8444	葄</span>
+9109	<span class="old">U+8453	葓</span>	<span class="s3">U+809C	肜</span>
+9110	<span class="old">U+84A2	蒢</span>	<span class="s3">U+80A7	肧</span>
+9111	<span class="old">U+84EA	蓪</span>	<span class="s3">U+80B5	肵</span>
+9112	<span class="old">U+84EF	蓯</span>	<span class="s3">U+80AA	肪</span>
+9113	<span class="old">U+84F7	蓷</span>	<span class="s3">U+80DB	胛</span>
+9114	<span class="old">U+8509	蔉</span>	<span class="s3">U+80DF	胟</span>
+9115	<span class="old">U+850B	蔋</span>	<span class="s3">U+8109	脉</span>
+9116	<span class="old">U+8519	蔙</span>	<span class="s3">U+80C6	胆</span>
+9117	<span class="old">U+852B	蔫</span>	<span class="s3">U+8103	脃</span>
+9118	<span class="s3">U+80F9	胹</span>
+9119	<span class="old">U+85B8	薸</span>	<span class="s3">U+8104	脄</span>
+9120	<span class="old">U+85BE	薾</span>	<span class="s3">U+811E	脞</span>
+9121	<span class="old">U+85D8	藘</span>	<span class="s3">U+8121	脡</span>
+9122	<span class="old">U+85D9	藙</span>	<span class="s3">U+8125	脥</span>
+9123	<span class="old">U+8624	蘤</span>	<span class="s3">U+8122	脢</span>
+9124	<span class="old">U+863A	蘺</span>	<span class="s3">U+811D	脝</span>
+9125	<span class="old">U+26F16	&#x26F16;(<script type="text/javascript">disphex("26F16");</script>)</span>	<span class="s3">U+8130	脰</span>
+9126	<span class="old">U+83A6	莦</span>	<span class="s3">U+8116	脖</span>
+9127	<span class="old">U+8298	芘</span>	<span class="s3">U+8117	脗</span>
+9128	<span class="old">U+8460	葠</span>	<span class="s3">U+8142	腂</span>
+9129	<span class="old">U+832C	茬</span>	<span class="s3">U+814D	腍</span>
+9130	<span class="old">U+8610	蘐</span>	<span class="s3">U+8152	腒</span>
+9131	<span class="old">U+8652	虒</span>	<span class="s3">U+814C	腌</span>
+9132	<span class="old">U+8656	虖</span>	<span class="s3">U+816F	腯</span>
+9133	<span class="s3">U+8176	腶</span>
+9134	<span class="s3">U+8187	膇</span>
+9135	<span class="s3">U+8186	膆</span>
+9136	<span class="s3">U+8198	膘</span>
+9137	<span class="s3">U+819F	膟</span>
+9138	<span class="s3">U+81B7	膷</span>
+9139	<span class="s3">U+81C8	臈</span>
+9140	<span class="s3">U+81D1	臑</span>
+9141	<span class="old">U+86A0	蚠</span>	<span class="s3">U+81CF	臏</span>
+9142	<span class="old">U+86A1	蚡</span>	<span class="s3">U+81D0	臐</span>
+9143	<span class="old">U+86D0	蛐</span>	<span class="s3">U+81DB	臛</span>
+9144	<span class="old">U+86D3	蛓</span>
+9145	<span class="old">U+86D4	蛔</span>
+9146	<span class="old">U+8711	蜑</span>
+9147	<span class="old">U+8712	蜒</span>
+9148	<span class="old">U+8728	蜨</span>
+9149	<span class="old">U+873E	蜾</span>
+9150	<span class="old">U+873F	蜿</span>
+9151	<span class="old">U+876F	蝯</span>
+9152	<span class="old">U+8789	螉</span>	<span class="s3">U+8222	舢</span>
+9153	<span class="old">U+8797	螗</span>	<span class="s3">U+8228	舨</span>
+9154	<span class="old">U+87B5	螵</span>	<span class="s3">U+823A	舺</span>
+9155	<span class="old">U+87C1	蟁</span>	<span class="s3">U+823F	舿</span>
+9156	<span class="old">U+87DC	蟜</span>	<span class="s3">U+26A40	&#x26A40;(<script type="text/javascript">disphex("26A40");</script>)</span>
+9157	<span class="old">U+87E2	蟢</span>	<span class="s3">U+824C	艌</span>
+9158	<span class="old">U+880B	蠋</span>	<span class="s3">U+8251	艑</span>
+9159	<span class="old">U+8810	蠐</span>	<span class="s3">U+825A	艚</span>
+9160	<span class="old">U+8819	蠙</span>	<span class="s3">U+8265	艥</span>
+9161	<span class="old">U+8813	蠓</span>	<span class="s3">U+8263	艣</span>
+9162	<span class="old">U+882D	蠭</span>	<span class="s3">U+8269	艩</span>
+9163	<span class="old">U+882E	蠮</span>	<span class="s3">U+826C	艬</span>
+9164	<span class="old">U+877B	蝻</span>
+9165	<span class="old">U+8706	蜆</span>
+9166	<span class="old">U+8814	蠔</span>	<span class="s2">U+8313	茓</span>
+9167	<span class="old">U+869C	蚜</span>	<span class="s3">U+8298	芘</span>
+9168	<span class="s3">U+82D0	苐</span>
+9169	<span class="s3">U+82E0	苠</span>
+9170	<span class="s3">U+8341	荁</span>
+9171	<span class="old">U+8869	衩</span>	<span class="s3">U+8345	荅</span>
+9172	<span class="old">U+886E	衮</span>	<span class="s3">U+8353	荓</span>
+9173	<span class="old">U+8887	袇</span>	<span class="s3">U+832C	茬</span>
+9174	<span class="old">U+88A2	袢</span>	<span class="s3">U+83A6	莦</span>
+9175	<span class="old">U+88B2	袲</span>	<span class="s3">U+83F6	菶</span>
+9176	<span class="old">U+88BA	袺</span>	<span class="s3">U+8410	萐</span>
+9177	<span class="old">U+88BD	袽</span>	<span class="s3">U+83C6	菆</span>
+9178	<span class="old">U+88BF	袿</span>	<span class="s3">U+83FB	菻</span>
+9179	<span class="old">U+88CB	裋</span>	<span class="s3">U+844D	葍</span>
+9180	<span class="old">U+88E6	裦</span>	<span class="s3">U+84CC	蓌</span>
+9181	<span class="old">U+8912	褒</span>	<span class="s3">U+8434	萴</span>
+9182	<span class="old">U+8915	褕</span>	<span class="s3">U+8444	葄</span>
+9183	<span class="old">U+893D	褽</span>	<span class="s3">U+8453	葓</span>
+9184	<span class="old">U+8965	襥</span>	<span class="s3">U+84A2	蒢</span>
+9185	<span class="old">U+894D	襍</span>	<span class="s3">U+8460	葠</span>
+9186	<span class="old">U+8961	襡</span>	<span class="s3">U+84EA	蓪</span>
+9187	<span class="old">U+8962	襢</span>	<span class="s3">U+8509	蔉</span>
+9188	<span class="old">U+896E	襮</span>	<span class="s3">U+84FA	蓺</span>
+9189	<span class="old">U+896C	襬</span>	<span class="s3">U+8512	蔒</span>
+9190	<span class="old">U+88E1	裡</span>	<span class="s3">U+84EF	蓯</span>
+9191	<span class="old">U+8954	襔</span>	<span class="s3">U+84F7	蓷</span>
+9192	<span class="old">U+8933	褳</span>	<span class="s3">U+850B	蔋</span>
+9193	<span class="old">U+27785	&#x27785;(<script type="text/javascript">disphex("27785");</script>)</span>	<span class="s3">U+8519	蔙</span>
+9194	<span class="s3">U+26F16	&#x26F16;(<script type="text/javascript">disphex("26F16");</script>)</span>
+9195	<span class="s3">U+85B8	薸</span>
+9196	<span class="s3">U+85BE	薾</span>
+9197	<span class="s3">U+85D8	藘</span>
+9198	<span class="s3">U+85D9	藙</span>
+9199	<span class="s3">U+8610	蘐</span>
+<a id="s92"></a>
+9200	<span class="s3">U+8624	蘤</span>
+9201	<span class="old">U+89DC	觜</span>	<span class="s3">U+863A	蘺</span>
+9202	<span class="old">U+89E1	觡</span>
+9203	<span class="old">U+89F7	觷</span>
+9204	unassigned
+9205	unassigned
+9206	unassigned
+9207	unassigned
+9208	unassigned
+9209	unassigned
+9210	<span class="old">U+8B85	讅</span>
+9211	<span class="old">U+8A06	訆</span>
+9212	<span class="old">U+8A27	訧</span>
+9213	<span class="old">U+8A3D	訽</span>	<span class="s3">U+8652	虒</span>
+9214	<span class="old">U+8A49	詉</span>	<span class="s3">U+8656	虖</span>
+9215	<span class="old">U+8A67	詧</span>
+9216	<span class="old">U+8A7B	詻</span>
+9217	<span class="old">U+8A7E	詾</span>	<span class="s3">U+866F	虯</span>
+9218	<span class="old">U+8A83	誃</span>	<span class="s3">U+8694	蚔</span>
+9219	<span class="old">U+8AC6	諆</span>	<span class="s3">U+86A0	蚠</span>
+9220	<span class="old">U+8AE2	諢</span>	<span class="s3">U+86B3	蚳</span>
+9221	<span class="old">U+8B48	譈</span>	<span class="s3">U+86D3	蛓</span>
+9222	<span class="old">U+8B87	讇</span>	<span class="s3">U+8711	蜑</span>
+9223	<span class="old">U+8B95	讕</span>	<span class="s3">U+8706	蜆</span>
+9224	<span class="old">U+8A68	詨</span>	<span class="s3">U+873A	蜺</span>
+9225	<span class="old">U+8A4A	詊</span>	<span class="s3">U+8743	蝃</span>
+9226	<span class="old">U+8B91	讑</span>	<span class="s3">U+8728	蜨</span>
+9227	<span class="old">U+8A57	詗</span>	<span class="s3">U+8753	蝓</span>
+9228	<span class="old">U+8B37	謷</span>	<span class="s3">U+874F	蝏</span>
+9229	<span class="old">U+8B45	譅</span>	<span class="s3">U+8761	蝡</span>
+9230	<span class="old">U+8B46	譆</span>	<span class="s3">U+8764	蝤</span>
+9231	<span class="old">U+8C40	豀</span>	<span class="s3">U+8793	螓</span>
+9232	<span class="s3">U+876F	蝯</span>
+9233	<span class="s3">U+875D	蝝</span>
+9234	<span class="s3">U+87A5	螥</span>
+9235	<span class="s3">U+8789	螉</span>
+9236	<span class="s3">U+8797	螗</span>
+9237	<span class="s3">U+87B5	螵</span>
+9238	<span class="s3">U+87C1	蟁</span>
+9239	<span class="s3">U+87DC	蟜</span>
+9240	<span class="s3">U+87E2	蟢</span>
+9241	<span class="old">U+8C57	豗</span>	<span class="s3">U+880B	蠋</span>
+9242	<span class="old">U+8C5C	豜</span>	<span class="s3">U+8810	蠐</span>
+9243	<span class="old">U+8C76	豶</span>	<span class="s3">U+8819	蠙</span>
+9244	<span class="old">U+8C77	豷</span>	<span class="s3">U+882D	蠭</span>
+9245	<span class="s3">U+882E	蠮</span>
+9246	unassigned
+9247	unassigned
+9248	unassigned
+9249	unassigned
+9250	unassigned
+9251	<span class="old">U+8C7B	豻</span>
+9252	<span class="old">U+8C9C	貜</span>	<span class="s3">U+8887	袇</span>
+9253	<span class="s3">U+887A	衺</span>
+9254	<span class="old">U+8C9F	貟</span>	<span class="s3">U+88B2	袲</span>
+9255	<span class="old">U+8CE9	賩</span>	<span class="s3">U+88BA	袺</span>
+9256	<span class="s3">U+88BD	袽</span>
+9257	<span class="s3">U+88BF	袿</span>
+9258	<span class="s3">U+88CB	裋</span>
+9259	<span class="s3">U+8915	褕</span>
+9260	<span class="s3">U+8933	褳</span>
+9261	<span class="old">U+8DA1	趡</span>	<span class="s3">U+893D	褽</span>
+9262	<span class="old">U+8DAB	趫</span>	<span class="s3">U+8954	襔</span>
+9263	<span class="old">U+8D9F	趟</span>	<span class="s3">U+2775E	&#x2775E;(<script type="text/javascript">disphex("2775E");</script>)</span>
+9264	<span class="old">U+8DB2	趲</span>	<span class="s3">U+895B	襛</span>
+9265	<span class="s3">U+894D	襍</span>
+9266	<span class="s3">U+27785	&#x27785;(<script type="text/javascript">disphex("27785");</script>)</span>
+9267	<span class="s3">U+895C	襜</span>
+9268	<span class="old">U+8DF4	跴</span>	<span class="s3">U+895E	襞</span>
+9269	<span class="old">U+8DE4	跤</span>	<span class="s3">U+8961	襡</span>
+9270	<span class="old">U+8E2A	踪</span>	<span class="s3">U+8962	襢</span>
+9271	<span class="old">U+8DE6	跦</span>	<span class="s3">U+894B	襋</span>
+9272	<span class="old">U+8DF2	跲</span>	<span class="s3">U+8965	襥</span>
+9273	<span class="old">U+8E39	踹</span>	<span class="s3">U+896E	襮</span>
+9274	<span class="old">U+8E4F	蹏</span>	<span class="s3">U+896C	襬</span>
+9275	<span class="old">U+8E69	蹩</span>
+9276	<span class="old">U+8E7B	蹻</span>
+9277	unassigned
+9278	<span class="old">U+8E97	躗</span>	<span class="s3">U+89DC	觜</span>
+9279	<span class="old">U+8E9E	躞</span>	<span class="s3">U+89E1	觡</span>
+9280	<span class="old">U+8E98	躘</span>	<span class="s3">U+89F7	觷</span>
+9281	<span class="old">U+8DE7	跧</span>
+9282	<span class="old">U+8DBC	趼</span>	<span class="s3">U+8A06	訆</span>
+9283	<span class="old">U+8E7C	蹼</span>	<span class="s3">U+8A27	訧</span>
+9284	<span class="old">U+8EA7	躧</span>	<span class="s3">U+8A3D	訽</span>
+9285	<span class="s3">U+8A49	詉</span>
+9286	<span class="s3">U+8A4A	詊</span>
+9287	<span class="s3">U+8A57	詗</span>
+9288	<span class="s3">U+8A67	詧</span>
+9289	<span class="s3">U+8A7B	詻</span>
+9290	<span class="s3">U+8A7E	詾</span>
+9291	<span class="old">U+8ED8	軘</span>	<span class="s3">U+8A83	誃</span>
+9292	<span class="old">U+8EDC	軜</span>	<span class="s3">U+8A68	詨</span>
+9293	<span class="old">U+8EDD	軝</span>	<span class="s3">U+8AC6	諆</span>
+9294	<span class="old">U+8EE5	軥</span>	<span class="s3">U+8AE2	諢</span>
+9295	<span class="old">U+8F51	轑</span>	<span class="s3">U+8B0C	謌</span>
+9296	<span class="old">U+8F57	轗</span>	<span class="s3">U+8B37	謷</span>
+9297	<span class="old">U+8F5D	轝</span>	<span class="s3">U+8B48	譈</span>
+9298	<span class="old">U+8EFB	軻</span>	<span class="s3">U+8B46	譆</span>
+9299	<span class="old">U+8F4A	轊</span>	<span class="s3">U+8B45	譅</span>
+<a id="s93"></a>
+9300	<span class="old">U+8F54	轔</span>	<span class="s3">U+8B85	讅</span>
+9301	<span class="s3">U+8B95	讕</span>
+9302	<span class="s3">U+8B91	讑</span>
+9303	<span class="s3">U+8B87	讇</span>
+9304	unassigned
+9305	unassigned
+9306	unassigned
+9307	unassigned
+9308	unassigned
+9309	unassigned
+9310	<span class="old">U+902F	逯</span>
+9311	<span class="old">U+9004	逄</span>
+9312	<span class="old">U+906B	遫</span>
+9313	<span class="old">U+908B	邋</span>
+9314	<span class="old">U+9034	逴</span>	<span class="s3">U+8C40	豀</span>
+9315	<span class="old">U+9070	遰</span>	<span class="s3">U+8C57	豗</span>
+9316	<span class="s3">U+8C5C	豜</span>
+9317	<span class="s3">U+8C76	豶</span>
+9318	<span class="s3">U+8C77	豷</span>
+9319	unassigned
+9320	<span class="s3">U+8C7B	豻</span>
+9321	<span class="old">U+90A7	邧</span>	<span class="s3">U+8C9C	貜</span>
+9322	<span class="old">U+90BF	邿</span>	<span class="s3">U+8C9F	貟</span>
+9323	<span class="old">U+90C8	郈</span>	<span class="s3">U+8CE9	賩</span>
+9324	<span class="old">U+90D4	郔</span>	<span class="s2">U+27D94	&#x27D94;(<script type="text/javascript">disphex("27D94");</script>)</span>
+9325	<span class="s3">U+8DA1	趡</span>
+9326	<span class="old">U+90DA	郚</span>	<span class="s3">U+8DAB	趫</span>
+9327	<span class="s3">U+8DAF	趯</span>
+9328	<span class="old">U+90E0	郠</span>	<span class="s3">U+8DB2	趲</span>
+9329	<span class="old">U+90EA	郪</span>
+9330	<span class="old">U+90EB	郫</span>	<span class="s3">U+8DC1	跁</span>
+9331	<span class="old">U+90F3	郳</span>	<span class="s3">U+8DF1	跱</span>
+9332	<span class="old">U+9113	鄓</span>	<span class="s3">U+8DE4	跤</span>
+9333	<span class="old">U+9100	鄀</span>	<span class="s3">U+8DE6	跦</span>
+9334	<span class="old">U+9106	鄆</span>	<span class="s3">U+8DF2	跲</span>
+9335	<span class="old">U+9107	鄇</span>	<span class="s3">U+8DE7	跧</span>
+9336	<span class="old">U+910B	鄋</span>	<span class="s3">U+8DBC	趼</span>
+9337	<span class="old">U+910D	鄍</span>	<span class="s3">U+8E26	踦</span>
+9338	<span class="old">U+910E	鄎</span>	<span class="s3">U+8E2A	踪</span>
+9339	<span class="old">U+910F	鄏</span>	<span class="s2">U+4800	䠀(<script type="text/javascript">disphex("4800");</script>)</span>
+9340	<span class="old">U+9110	鄐</span>	<span class="s2">U+8E24	踤</span>
+9341	<span class="old">U+9111	鄑</span>	<span class="s3">U+8E36	踶</span>
+9342	<span class="old">U+9123	鄣</span>	<span class="s3">U+8E46	蹆</span>
+9343	<span class="old">U+9124	鄤</span>	<span class="s3">U+8E4F	蹏</span>
+9344	<span class="old">U+9129	鄩</span>	<span class="s3">U+8E5D	蹝</span>
+9345	<span class="old">U+912C	鄬</span>	<span class="s3">U+8E69	蹩</span>
+9346	<span class="old">U+913B	鄻</span>	<span class="s2">U+8E67	蹧</span>
+9347	<span class="old">U+913E	鄾</span>	<span class="s3">U+8E77	蹷</span>
+9348	<span class="old">U+9145	酅</span>	<span class="s3">U+8E7B	蹻</span>
+9349	<span class="old">U+9098	邘</span>	<span class="s3">U+8E7C	蹼</span>
+9350	<span class="old">U+912F	鄯</span>	<span class="s3">U+8E97	躗</span>
+9351	<span class="old">U+90FE	郾</span>	<span class="s3">U+8E9E	躞</span>
+9352	<span class="old">U+90D7	郗</span>	<span class="s3">U+8E98	躘</span>
+9353	<span class="old">U+9108	鄈</span>	<span class="s3">U+8EA7	躧</span>
+9354	<span class="old">U+911A	鄚</span>
+9355	unassigned
+9356	unassigned
+9357	unassigned
+9358	unassigned
+9359	<span class="old">U+919D	醝</span>	<span class="s3">U+8ED8	軘</span>
+9360	<span class="old">U+91C5	釅</span>	<span class="s3">U+8EDC	軜</span>
+9361	<span class="old">U+914F	酏</span>	<span class="s3">U+8EDD	軝</span>
+9362	<span class="old">U+918E	醎</span>	<span class="s3">U+8EE5	軥</span>
+9363	<span class="old">U+9191	醑</span>	<span class="s3">U+8EFB	軻</span>
+9364	<span class="old">U+91B9	醹</span>	<span class="s3">U+8F4A	轊</span>
+9365	<span class="old">U+91BB	醻</span>	<span class="s3">U+8F51	轑</span>
+9366	<span class="old">U+91C3	釃</span>	<span class="s3">U+8F57	轗</span>
+9367	<span class="old">U+924C	鉌</span>	<span class="s3">U+8F5D	轝</span>
+9368	<span class="old">U+93A4	鎤</span>	<span class="s3">U+8F54	轔</span>
+9369	<span class="old">U+9404	鐄</span>
+9370	<span class="old">U+934F	鍏</span>
+9371	<span class="old">U+9239	鈹</span>
+9372	<span class="old">U+9240	鉀</span>
+9373	<span class="old">U+9251	鉑</span>
+9374	<span class="old">U+92C2	鋂</span>	<span class="s3">U+8FEE	迮</span>
+9375	<span class="old">U+927C	鉼</span>	<span class="s3">U+900C	逌</span>
+9376	<span class="old">U+9329	錩</span>	<span class="s3">U+9034	逴</span>
+9377	<span class="old">U+93A9	鎩</span>	<span class="s3">U+906B	遫</span>
+9378	<span class="old">U+93C7	鏇</span>	<span class="s3">U+9070	遰</span>
+9379	<span class="old">U+93CA	鏊</span>	<span class="s3">U+907B	遻</span>
+9380	<span class="old">U+93DA	鏚</span>	<span class="s3">U+908B	邋</span>
+9381	unassigned
+9382	<span class="old">U+9410	鐐</span>
+9383	<span class="old">U+940F	鐏</span>
+9384	<span class="old">U+9414	鐔</span>
+9385	<span class="old">U+9427	鐧</span>
+9386	<span class="old">U+9445	鑅</span>	<span class="s3">U+9098	邘</span>
+9387	<span class="old">U+946B	鑫</span>	<span class="s3">U+90A7	邧</span>
+9388	<span class="old">U+9301	錁</span>	<span class="s3">U+90C9	郉</span>
+9389	<span class="old">U+92C6	鋆</span>	<span class="s3">U+90BF	邿</span>
+9390	<span class="old">U+9306	錆</span>	<span class="s3">U+90C8	郈</span>
+9391	<span class="old">U+93A3	鎣</span>	<span class="s3">U+90D4	郔</span>
+9392	<span class="old">U+931F	錟</span>	<span class="s3">U+90DA	郚</span>
+9393	<span class="old">U+938F	鎏</span>	<span class="s3">U+90E0	郠</span>
+9394	<span class="old">U+91D9	釙</span>	<span class="s3">U+90EA	郪</span>
+9395	<span class="old">U+9201	鈁</span>	<span class="s3">U+90EB	郫</span>
+9396	<span class="old">U+92D5	鋕</span>	<span class="s3">U+90F3	郳</span>
+9397	<span class="old">U+92D0	鋐</span>	<span class="s3">U+9100	鄀</span>
+9398	<span class="old">U+920A	鈊</span>	<span class="s3">U+9106	鄆</span>
+9399	<span class="old">U+9302	錂</span>	<span class="s3">U+9107	鄇</span>
+<a id="s94"></a>
+9400	<span class="old">U+9288	銈</span>	<span class="s3">U+910B	鄋</span>
+9401	<span class="old">U+9599	閙</span>	<span class="s3">U+90FE	郾</span>
+9402	<span class="old">U+95A7	閧</span>	<span class="s3">U+9113	鄓</span>
+9403	<span class="old">U+95BF	閿</span>	<span class="s3">U+910D	鄍</span>
+9404	<span class="s3">U+910E	鄎</span>
+9405	<span class="s3">U+910F	鄏</span>
+9406	<span class="s3">U+9110	鄐</span>
+9407	<span class="s3">U+9111	鄑</span>
+9408	<span class="s3">U+9108	鄈</span>
+9409	<span class="s3">U+911A	鄚</span>
+9410	<span class="s3">U+9123	鄣</span>
+9411	<span class="old">U+9651	陑</span>	<span class="s3">U+9124	鄤</span>
+9412	<span class="old">U+967E	陾</span>	<span class="s3">U+9129	鄩</span>
+9413	<span class="old">U+9683	隃</span>	<span class="s3">U+912C	鄬</span>
+9414	<span class="old">U+968F	随</span>	<span class="s3">U+913B	鄻</span>
+9415	<span class="old">U+96B5	隵</span>	<span class="s3">U+913F	鄿</span>
+9416	<span class="old">U+963D	阽</span>	<span class="s3">U+913E	鄾</span>
+9417	<span class="old">U+28EE7	&#x28EE7;(<script type="text/javascript">disphex("28EE7");</script>)</span>	<span class="s3">U+9145	酅</span>
+9418	unassigned
+9419	unassigned
+9420	unassigned
+9421	<span class="old">U+96C2	雂</span>
+9422	<span class="old">U+96C3	雃</span>
+9423	unassigned
+9424	unassigned
+9425	unassigned
+9426	<span class="s3">U+914F	酏</span>
+9427	<span class="s3">U+918E	醎</span>
+9428	<span class="s3">U+9191	醑</span>
+9429	<span class="s3">U+919D	醝</span>
+9430	<span class="s3">U+91B9	醹</span>
+9431	<span class="old">U+9719	霙</span>	<span class="s3">U+91BB	醻</span>
+9432	<span class="old">U+9723	霣</span>	<span class="s3">U+91C3	釃</span>
+9433	<span class="old">U+9741	靁</span>	<span class="s3">U+91C5	釅</span>
+9434	<span class="old">U+9702	霂</span>
+9435	unassigned
+9436	unassigned
+9437	<span class="s3">U+91D9	釙</span>
+9438	<span class="s2">U+91E4	釤</span>
+9439	<span class="s3">U+91EC	釬</span>
+9440	<span class="s3">U+91E9	釩</span>
+9441	<span class="old">U+975D	靝</span>	<span class="s2">U+91F8	釸</span>
+9442	<span class="s3">U+9212	鈒</span>
+9443	<span class="s3">U+9201	鈁</span>
+9444	<span class="s3">U+920A	鈊</span>
+9445	<span class="s3">U+9204	鈄</span>
+9446	<span class="s3">U+9203	鈃</span>
+9447	<span class="s3">U+924C	鉌</span>
+9448	<span class="s3">U+9239	鈹</span>
+9449	<span class="s2">U+9246	鉆</span>
+9450	<span class="s2">U+925A	鉚</span>
+9451	<span class="old">U+976E	靮</span>	<span class="s3">U+924E	鉎</span>
+9452	<span class="old">U+977A	靺</span>	<span class="s3">U+9265	鉥</span>
+9453	<span class="old">U+9783	鞃</span>	<span class="s3">U+926C	鉬</span>
+9454	<span class="old">U+978C	鞌</span>	<span class="s3">U+928E	銎</span>
+9455	<span class="old">U+979B	鞛</span>	<span class="s3">U+928D	銍</span>
+9456	<span class="old">U+97A8	鞨</span>	<span class="s2">U+92AC	銬</span>
+9457	<span class="old">U+97C5	韅</span>	<span class="s3">U+9277	鉷</span>
+9458	<span class="old">U+977C	靼</span>	<span class="s3">U+9288	銈</span>
+9459	<span class="s3">U+927B	鉻</span>
+9460	<span class="s3">U+92B6	銶</span>
+9461	<span class="old">U+97E1	韡</span>	<span class="s3">U+92D8	鋘</span>
+9462	<span class="old">U+97E3	韣</span>	<span class="s3">U+92C6	鋆</span>
+9463	<span class="s3">U+92D5	鋕</span>
+9464	<span class="s3">U+92D0	鋐</span>
+9465	<span class="s3">U+92F0	鋰</span>
+9466	<span class="old">U+97F9	韹</span>	<span class="s3">U+92DD	鋝</span>
+9467	<span class="s3">U+92C3	鋃</span>
+9468	<span class="s3">U+92C7	鋇</span>
+9469	<span class="s3">U+92C2	鋂</span>
+9470	<span class="s2">U+9300	錀</span>
+9471	<span class="old">U+9804	頄</span>	<span class="s3">U+9316	錖</span>
+9472	<span class="old">U+981C	頜</span>	<span class="s3">U+930F	錏</span>
+9473	<span class="old">U+981F	頟</span>	<span class="s3">U+9336	錶</span>
+9474	<span class="old">U+9820	頠</span>	<span class="s3">U+9314	錔</span>
+9475	<span class="old">U+982F	頯</span>	<span class="s2">U+9341	鍁</span>
+9476	<span class="old">U+9857	顗</span>	<span class="s3">U+9302	錂</span>
+9477	<span class="old">U+984E	顎</span>	<span class="s3">U+931F	錟</span>
+9478	<span class="s3">U+9306	錆</span>
+9479	<span class="s3">U+927C	鉼</span>
+9480	<span class="old">U+98B1	颱</span>	<span class="s3">U+9329	錩</span>
+9481	<span class="old">U+295D7	&#x295D7;(<script type="text/javascript">disphex("295D7");</script>)</span>	<span class="s3">U+9301	錁</span>
+9482	<span class="old">U+98AE	颮</span>	<span class="s3">U+936A	鍪</span>
+9483	<span class="s3">U+936B	鍫</span>
+9484	<span class="s2">U+9358	鍘</span>
+9485	<span class="s3">U+9382	鎂</span>
+9486	<span class="s3">U+935A	鍚</span>
+9487	<span class="s3">U+9348	鍈</span>
+9488	<span class="s3">U+9379	鍹</span>
+9489	<span class="s3">U+9389	鎉</span>
+9490	<span class="s2">U+93A6	鎦</span>
+9491	<span class="old">U+98DC	飜</span>	<span class="s3">U+93A4	鎤</span>
+9492	<span class="s3">U+934F	鍏</span>
+9493	<span class="s3">U+9398	鎘</span>
+9494	<span class="s3">U+93A9	鎩</span>
+9495	<span class="s3">U+93CA	鏊</span>
+9496	<span class="s3">U+93A3	鎣</span>
+9497	<span class="s3">U+938F	鎏</span>
+9498	<span class="s3">U+93E6	鏦</span>
+9499	<span class="s3">U+9404	鐄</span>
+<a id="s95"></a>
+9500	<span class="s3">U+93C7	鏇</span>
+9501	<span class="old">U+98E5	飥</span>	<span class="s3">U+93DB	鏛</span>
+9502	<span class="old">U+990A	養</span>	<span class="s3">U+93DA	鏚</span>
+9503	<span class="old">U+9911	餑</span>	<span class="s3">U+9413	鐓</span>
+9504	<span class="old">U+992A	餪</span>	<span class="s3">U+9409	鐉</span>
+9505	<span class="old">U+992B	餫</span>	<span class="s3">U+9427	鐧</span>
+9506	<span class="old">U+993A	餺</span>	<span class="s2">U+9420	鐠</span>
+9507	<span class="old">U+993B	餻</span>	<span class="s3">U+9410	鐐</span>
+9508	<span class="old">U+9958	饘</span>	<span class="s3">U+940F	鐏</span>
+9509	<span class="old">U+994D	饍</span>	<span class="s3">U+9414	鐔</span>
+9510	<span class="old">U+297DD	&#x297DD;(<script type="text/javascript">disphex("297DD");</script>)</span>	<span class="s2">U+941D	鐝</span>
+9511	<span class="old">U+993F	餿</span>	<span class="s3">U+9429	鐩</span>
+9512	<span class="s3">U+93FB	鏻</span>
+9513	<span class="s3">U+9445	鑅</span>
+9514	<span class="s3">U+9455	鑕</span>
+9515	<span class="old">U+99AA	馪</span>	<span class="s3">U+946B	鑫</span>
+9516	<span class="s3">U+946F	鑯</span>
+9517	unassigned
+9518	unassigned
+9519	unassigned
+9520	<span class="old">U+9A6B	驫</span>
+9521	<span class="old">U+99B5	馵</span>
+9522	<span class="old">U+99D3	駓</span>
+9523	<span class="old">U+99D4	駔</span>
+9524	<span class="old">U+99F4	駴</span>
+9525	<span class="old">U+99FD	駽</span>
+9526	<span class="old">U+99FE	駾</span>
+9527	<span class="old">U+9A22	騢</span>	<span class="s3">U+9599	閙</span>
+9528	<span class="old">U+9A2F	騯</span>	<span class="s3">U+95A7	閧</span>
+9529	<span class="old">U+9A66	驦</span>	<span class="s3">U+95D1	闑</span>
+9530	<span class="old">U+9A06	騆</span>
+9531	unassigned
+9532	<span class="s3">U+963D	阽</span>
+9533	<span class="s3">U+9651	陑</span>
+9534	<span class="s3">U+967E	陾</span>
+9535	<span class="s3">U+9683	隃</span>
+9536	<span class="s3">U+968F	随</span>
+9537	<span class="s3">U+96B5	隵</span>
+9538	<span class="s3">U+28EE7	&#x28EE7;(<script type="text/javascript">disphex("28EE7");</script>)</span>
+9539	unassigned
+9540	<span class="s3">U+96C2	雂</span>
+9541	<span class="old">U+9AC1	髁</span>	<span class="s3">U+96C3	雃</span>
+9542	unassigned
+9543	unassigned
+9544	U+290AF	&#x290AF;(<script type="text/javascript">disphex("290AF");</script>)
+9545	<span class="s3">U+9719	霙</span>
+9546	<span class="s3">U+9723	霣</span>
+9547	<span class="s3">U+9741	靁</span>
+9548	unassigned
+9549	unassigned
+9550	unassigned
+9551	<span class="old">U+9AFD	髽</span>
+9552	<span class="old">U+9B03	鬃</span>	<span class="s3">U+975D	靝</span>
+9553	<span class="old">U+9B01	鬁</span>
+9554	<span class="s3">U+976E	靮</span>
+9555	<span class="s3">U+977A	靺</span>
+9556	<span class="s3">U+9783	鞃</span>
+9557	<span class="s3">U+977C	靼</span>
+9558	<span class="s3">U+978C	鞌</span>
+9559	<span class="s3">U+979B	鞛</span>
+9560	<span class="s3">U+97A8	鞨</span>
+9561	<span class="old">U+9B46	魆</span>	<span class="s3">U+97B8	鞸</span>
+9562	<span class="old">U+9B4B	魋</span>	<span class="s3">U+97B9	鞹</span>
+9563	<span class="old">U+9B57	魗</span>	<span class="s3">U+97C5	韅</span>
+9564	unassigned
+9565	unassigned
+9566	unassigned
+9567	unassigned
+9568	unassigned
+9569	unassigned
+9570	<span class="s3">U+97E1	韡</span>
+9571	<span class="old">U+9B9A	鮚</span>	<span class="s3">U+97E3	韣</span>
+9572	<span class="old">U+9BC8	鯈</span>
+9573	<span class="old">U+9BD4	鯔</span>	<span class="s3">U+97F9	韹</span>
+9574	<span class="old">U+9C09	鰉</span>
+9575	<span class="old">U+9C0B	鰋</span>	<span class="s3">U+9804	頄</span>
+9576	<span class="old">U+9C12	鰒</span>	<span class="s3">U+9832	頲</span>
+9577	<span class="old">U+9C31	鰱</span>	<span class="s3">U+981C	頜</span>
+9578	<span class="old">U+9C3E	鰾</span>	<span class="s3">U+981F	頟</span>
+9579	<span class="old">U+9C4F	鱏</span>	<span class="s3">U+9820	頠</span>
+9580	<span class="old">U+9C50	鱐</span>	<span class="s3">U+982F	頯</span>
+9581	<span class="old">U+9C53	鱓</span>	<span class="s3">U+9852	顒</span>
+9582	<span class="old">U+9C67	鱧</span>	<span class="s3">U+9857	顗</span>
+9583	<span class="old">U+9C6D	鱭</span>
+9584	<span class="old">U+9C6E	鱮</span>
+9585	<span class="old">U+9C6F	鱯</span>
+9586	<span class="old">U+9C7B	鱻</span>
+9587	<span class="old">U+9BAD	鮭</span>	<span class="s3">U+98AE	颮</span>
+9588	<span class="old">U+9BBF	鮿</span>	<span class="s3">U+295D7	&#x295D7;(<script type="text/javascript">disphex("295D7");</script>)</span>
+9589	<span class="old">U+9C35	鰵</span>	<span class="s3">U+98BD	颽</span>
+9590	<span class="old">U+9C10	鰐</span>
+9591	<span class="old">U+9BDB	鯛</span>
+9592	<span class="old">U+9B77	魷</span>	<span class="s3">U+98DC	飜</span>
+9593	unassigned
+9594	<span class="s3">U+98E5	飥</span>
+9595	<span class="s3">U+9908	餈</span>
+9596	<span class="s3">U+9924	餤</span>
+9597	<span class="s2">U+9935	餵</span>
+9598	<span class="s3">U+992A	餪</span>
+9599	<span class="s3">U+992B	餫</span>
+<a id="s96"></a>
+9600	<span class="s3">U+993F	餿</span>
+9601	<span class="old">U+9CF7	鳷</span>	<span class="s3">U+993A	餺</span>
+9602	<span class="old">U+7797	瞗</span>	<span class="s3">U+993B	餻</span>
+9603	<span class="old">U+9D25	鴥</span>	<span class="s3">U+994D	饍</span>
+9604	<span class="old">U+9D77	鵷</span>	<span class="s3">U+9958	饘</span>
+9605	<span class="old">U+9D7B	鵻</span>	<span class="s3">U+297DD	&#x297DD;(<script type="text/javascript">disphex("297DD");</script>)</span>
+9606	<span class="old">U+9DCA	鷊</span>	<span class="s2">U+991C	餜</span>
+9607	<span class="old">U+9DEB	鷫</span>
+9608	<span class="old">U+9E02	鸂</span>
+9609	<span class="old">U+2A1B5	&#x2A1B5;(<script type="text/javascript">disphex("2A1B5");</script>)</span>
+9610	<span class="old">U+9E18	鸘</span>
+9611	<span class="old">U+9D15	鴕</span>	<span class="s3">U+99AA	馪</span>
+9612	<span class="old">U+9DA1	鶡</span>
+9613	<span class="s3">U+99B5	馵</span>
+9614	<span class="s3">U+99D3	駓</span>
+9615	<span class="s3">U+99D4	駔</span>
+9616	<span class="s3">U+99F4	駴</span>
+9617	<span class="s3">U+99FD	駽</span>
+9618	<span class="s3">U+99FE	駾</span>
+9619	<span class="s3">U+9A06	騆</span>
+9620	<span class="s3">U+9A22	騢</span>
+9621	<span class="old">U+9EA9	麩</span>	<span class="s3">U+9A2F	騯</span>
+9622	<span class="old">U+9EB5	麵</span>	<span class="s3">U+9A66	驦</span>
+9623	<span class="old">U+9EB1	麱</span>	<span class="s3">U+9A6B	驫</span>
+9624	unassigned
+9625	unassigned
+9626	unassigned
+9627	unassigned
+9628	unassigned
+9629	<span class="s3">U+9AC1	髁</span>
+9630	unassigned
+9631	<span class="old">U+9EDF	黟</span>	<span class="s3">U+9AF3	髳</span>
+9632	<span class="old">U+9EF0	黰</span>	<span class="s3">U+9AFD	髽</span>
+9633	<span class="s3">U+9B01	鬁</span>
+9634	unassigned
+9635	<span class="s3">U+9B46	魆</span>
+9636	<span class="s3">U+9B4B	魋</span>
+9637	<span class="s3">U+9B57	魗</span>
+9638	unassigned
+9639	<span class="s3">U+9B68	魨</span>
+9640	<span class="s3">U+9B80	鮀</span>
+9641	<span class="old">U+9F2A	鼪</span>	<span class="s2">U+9B81	鮁</span>
+9642	<span class="old">U+9F34	鼴</span>	<span class="s3">U+9B9E	鮞</span>
+9643	<span class="s3">U+9B9A	鮚</span>
+9644	<span class="s3">U+9BC8	鯈</span>
+9645	<span class="s3">U+9BBF	鮿</span>
+9646	<span class="s3">U+9BEB	鯫</span>
+9647	<span class="s3">U+9BD4	鯔</span>
+9648	<span class="s3">U+9BDB	鯛</span>
+9649	<span class="s3">U+9C02	鰂</span>
+9650	<span class="s3">U+9C09	鰉</span>
+9651	<span class="s3">U+9C0B	鰋</span>	<span class="china2">U+9C9D	鲝</span>
+9652	<span class="old">U+9FA1	龡</span>	<span class="s3">U+9C12	鰒</span>
+9653	<span class="old">U+9203	鈃</span>	<span class="s3">U+9C10	鰐</span>
+9654	<span class="old">U+924D	鉍</span>	<span class="s3">U+9C31	鰱</span>
+9655	<span class="old">U+9237	鈷</span>	<span class="s3">U+9C37	鰷</span>
+9656	<span class="old">U+927B	鉻</span>	<span class="s3">U+9C44	鱄</span>
+9657	<span class="old">U+9209	鈉</span>	<span class="s3">U+9C4E	鱎</span>
+9658	<span class="old">U+9223	鈣</span>	<span class="s3">U+9C4F	鱏</span>
+9659	<span class="old">U+9265	鉥</span>	<span class="s3">U+9C53	鱓</span>
+9660	<span class="old">U+92BB	銻</span>	<span class="s3">U+9C50	鱐</span>
+9661	<span class="old">U+92C1	鋁</span>	<span class="s3">U+9C67	鱧</span>
+9662	<span class="old">U+92DD	鋝</span>	<span class="s3">U+9C6D	鱭</span>
+9663	<span class="old">U+92C3	鋃</span>	<span class="s3">U+9C6E	鱮</span>
+9664	<span class="old">U+9314	錔</span>	<span class="s3">U+9C6F	鱯</span>
+9665	<span class="old">U+9382	鎂</span>	<span class="s3">U+9C68	鱨</span>
+9666	<span class="old">U+93B3	鎳</span>	<span class="s3">U+9C7B	鱻</span>
+9667	<span class="old">U+9433	鐳</span>	<span class="s2">U+9C3C	鰼</span>
+9668	<span class="old">U+93DB	鏛</span>
+9669	<span class="old">U+93A2	鎢</span>
+9670	<span class="old">U+926C	鉬</span>
+9671	<span class="old">U+9316	錖</span>
+9672	<span class="old">U+930F	錏</span>
+9673	<span class="old">U+935A	鍚</span>	<span class="s3">U+9CF7	鳷</span>
+9674	<span class="old">U+92F0	鋰</span>	<span class="s3">U+7797	瞗</span>
+9675	<span class="old">U+91E9	釩</span>	<span class="s3">U+9D25	鴥</span>
+9676	<span class="old">U+9398	鎘</span>	<span class="s3">U+9D15	鴕</span>
+9677	<span class="old">U+92BE	銾</span>	<span class="s3">U+9D77	鵷</span>
+9678	<span class="old">U+923E	鈾</span>	<span class="s3">U+9D7B	鵻</span>
+9679	<span class="old">U+9348	鍈</span>	<span class="s3">U+9DA1	鶡</span>
+9680	<span class="old">U+93FB	鏻</span>	<span class="s3">U+9DCA	鷊</span>
+9681	<span class="old">U+9379	鍹</span>	<span class="s3">U+9DEB	鷫</span>
+9682	<span class="old">U+924E	鉎</span>	<span class="s3">U+9E02	鸂</span>
+9683	<span class="old">U+9409	鐉</span>	<span class="s3">U+2A1B5	&#x2A1B5;(<script type="text/javascript">disphex("2A1B5");</script>)</span>
+9684	<span class="old">U+9277	鉷</span>	<span class="s3">U+9E18	鸘</span>
+9685	<span class="old">U+92C7	鋇</span>
+9686	<span class="old">U+9204	鈄</span>
+9687	<span class="old">U+4FB4	侴</span>
+9688	<span class="old">U+4F70	佰</span>
+9689	<span class="old">U+4F15	伕</span>
+9690	<span class="old">U+4FE4	俤</span>	<span class="s3">U+9EA9	麩</span>
+9691	<span class="s3">U+9EB1	麱</span>
+9692	<span class="old">U+4E52	乒</span>	<span class="s3">U+9EB5	麵</span>
+9693	<span class="old">U+4E53	乓</span>
+9694	<span class="old">U+7803	砃</span>	<span class="s3">U+9EDF	黟</span>
+9695	<span class="old">U+7805	砅</span>	<span class="s3">U+9EF0	黰</span>
+9696	<span class="old">U+7835	砵</span>	<span class="s3">U+9F2A	鼪</span>
+9697	<span class="old">U+7837	砷</span>	<span class="s3">U+9F34	鼴</span>
+9698	<span class="old">U+7833	砳</span>
+9699	<span class="old">U+7838	砸</span>	<span class="s3">U+9FA1	龡</span>
+<a id="s97"></a>
+9700	<span class="old">U+783D	砽</span>
+9701	<span class="old">U+7845	硅</span>	<span class="s2">U+32C0	㋀</span>
+9702	<span class="old">U+7854	硔</span>	<span class="s2">U+32C1	㋁</span>
+9703	<span class="old">U+78B6	碶</span>	<span class="s2">U+32C2	㋂</span>
+9704	<span class="old">U+78B4	碴</span>	<span class="s2">U+32C3	㋃</span>
+9705	<span class="old">U+78B3	碳</span>	<span class="s2">U+32C4	㋄</span>
+9706	<span class="old">U+787B	硻</span>	<span class="s2">U+32C5	㋅</span>
+9707	<span class="old">U+78F9	磹</span>	<span class="s2">U+32C6	㋆</span>
+9708	<span class="old">U+784B	硋</span>	<span class="s2">U+32C7	㋇</span>
+9709	<span class="old">U+786A	硪</span>	<span class="s2">U+32C8	㋈</span>
+9710	<span class="old">U+5DC3	巃</span>	<span class="s2">U+32C9	㋉</span>
+9711	<span class="old">U+5DB4	嶴</span>	<span class="s2">U+32CA	㋊</span>
+9712	<span class="old">U+5D7C	嵼</span>	<span class="s2">U+32CB	㋋</span>
+9713	<span class="old">U+7454	瑔</span>
+9714	<span class="old">U+73FA	珺</span>
+9715	<span class="old">U+743A	琺</span>
+9716	<span class="old">U+746D	瑭</span>
+9717	<span class="old">U+74AD	璭</span>
+9718	<span class="old">U+74A6	璦</span>
+9719	unassigned
+9720	<span class="old">U+6CE9	泩</span>	<span class="s2">U+3105	ㄅ</span>
+9721	<span class="old">U+6D3A	洺</span>	<span class="s2">U+3106	ㄆ</span>
+9722	<span class="old">U+6DCC	淌</span>	<span class="s2">U+3107	ㄇ</span>
+9723	<span class="old">U+6CF5	泵</span>	<span class="s2">U+3108	ㄈ</span>
+9724	<span class="old">U+6FAC	澬</span>	<span class="s2">U+3109	ㄉ</span>
+9725	<span class="old">U+6FDA	濚</span>	<span class="s2">U+310A	ㄊ</span>
+9726	<span class="old">U+6FD9	濙</span>	<span class="s2">U+310B	ㄋ</span>
+9727	<span class="old">U+701E	瀞</span>	<span class="s2">U+310C	ㄌ</span>
+9728	<span class="old">U+7044	灄</span>	<span class="s2">U+310D	ㄍ</span>
+9729	<span class="old">U+5414	吔</span>	<span class="s2">U+310E	ㄎ</span>
+9730	<span class="old">U+543D	吽</span>	<span class="s2">U+310F	ㄏ</span>
+9731	<span class="old">U+54AA	咪</span>	<span class="s2">U+3110	ㄐ</span>
+9732	<span class="old">U+5431	吱</span>	<span class="s2">U+3111	ㄑ</span>
+9733	<span class="old">U+549F	咟</span>	<span class="s2">U+3112	ㄒ</span>
+9734	<span class="old">U+5427	吧</span>	<span class="s2">U+3113	ㄓ</span>
+9735	<span class="old">U+5496	咖</span>	<span class="s2">U+3114	ㄔ</span>
+9736	<span class="old">U+5564	啤</span>	<span class="s2">U+3115	ㄕ</span>
+9737	<span class="old">U+5768	坨</span>	<span class="s2">U+3116	ㄖ</span>
+9738	<span class="old">U+580C	堌</span>	<span class="s2">U+3117	ㄗ</span>
+9739	<span class="old">U+5828	堨</span>	<span class="s2">U+3118	ㄘ</span>
+9740	<span class="old">U+583D	堽</span>	<span class="s2">U+3119	ㄙ</span>
+9741	<span class="old">U+57BB	垻</span>	<span class="s2">U+3127	ㄧ</span>
+9742	<span class="old">U+21290	&#x21290;(<script type="text/javascript">disphex("21290");</script>)</span>	<span class="s2">U+3128	ㄨ</span>
+9743	<span class="old">U+57B8	垸</span>	<span class="s2">U+3129	ㄩ</span>
+9744	<span class="old">U+57F0	埰</span>	<span class="s2">U+311A	ㄚ</span>
+9745	<span class="old">U+58F3	壳</span>	<span class="s2">U+311B	ㄛ</span>
+9746	<span class="old">U+585D	塝</span>	<span class="s2">U+311C	ㄜ</span>
+9747	<span class="old">U+5898	墘</span>	<span class="s2">U+311D	ㄝ</span>
+9748	<span class="old">U+578A	垊</span>	<span class="s2">U+311E	ㄞ</span>
+9749	<span class="old">U+57D7	埗</span>	<span class="s2">U+311F	ㄟ</span>
+9750	<span class="old">U+58E2	壢</span>	<span class="s2">U+3120	ㄠ</span>
+9751	<span class="old">U+715A	煚</span>	<span class="s2">U+3121	ㄡ</span>
+9752	<span class="old">U+7134	焴</span>	<span class="s2">U+3122	ㄢ</span>
+9753	<span class="old">U+70EF	烯</span>	<span class="s2">U+3123	ㄣ</span>
+9754	<span class="old">U+71B3	熳</span>	<span class="s2">U+3124	ㄤ</span>
+9755	<span class="old">U+71E1	燡</span>	<span class="s2">U+3125	ㄥ</span>
+9756	<span class="old">U+71C1	燁</span>	<span class="s2">U+3126	ㄦ</span>
+9757	<span class="old">U+241AC	&#x241AC;(<script type="text/javascript">disphex("241AC");</script>)</span>
+9758	<span class="old">U+715F	煟</span>
+9759	<span class="old">U+71EB	燫</span>
+9760	unassigned
+9761	unassigned
+9762	<span class="old">U+710A	焊</span>
+9763	<span class="old">U+9336	錶</span>
+9764	<span class="old">U+91F7	釷</span>
+9765	<span class="old">U+9226	鈦</span>
+9766	unassigned
+9767	unassigned
+9768	<span class="s2">U+0410	А</span>
+9769	<span class="s2">U+0411	Б</span>
+9770	<span class="s2">U+0412	В</span>
+9771	<span class="s2">U+0413	Г</span>
+9772	<span class="old">U+4F6C	佬</span>	<span class="s2">U+0414	Д</span>
+9773	<span class="s2">U+0415	Е</span>
+9774	<span class="s2">U+0416	Ж</span>
+9775	<span class="s2">U+0417	З</span>
+9776	<span class="s2">U+0418	И</span>
+9777	<span class="s2">U+041A	К</span>
+9778	<span class="s2">U+041B	Л</span>
+9779	<span class="s2">U+041C	М</span>
+9780	<span class="s2">U+041D	Н</span>
+9781	<span class="s2">U+041E	О</span>
+9782	<span class="s2">U+041F	П</span>
+9783	<span class="s2">U+0420	Р</span>
+9784	<span class="s2">U+0421	С</span>
+9785	<span class="old">U+7551	畑</span>	<span class="s2">U+0422	Т</span>
+9786	<span class="s2">U+0423	У</span>
+9787	<span class="s2">U+0424	Ф</span>
+9788	<span class="s2">U+0425	Х</span>
+9789	<span class="s2">U+0426	Ц</span>
+9790	<span class="s2">U+0427	Ч</span>
+9791	<span class="s2">U+0428	Ш</span>
+9792	<span class="s2">U+0429	Щ</span>
+9793	<span class="s2">U+042D	Э</span>
+9794	<span class="s2">U+042E	Ю</span>
+9795	<span class="s2">U+042F	Я</span>
+9796	<span class="s2">U+042A	Ъ</span>
+9797	<span class="s2">U+042B	Ы</span>
+9798	<span class="old">U+9C39	鰹</span>	<span class="s2">U+042C	Ь</span>
+9799	<span class="s2">U+0419	Й</span>
+<a id="s98"></a>
+9800	U+3358	㍘
+9801	U+3359	㍙
+9802	U+335A	㍚
+9803	U+335B	㍛
+9804	U+335C	㍜
+9805	U+335D	㍝
+9806	U+335E	㍞
+9807	U+335F	㍟
+9808	U+3360	㍠
+9809	U+3361	㍡
+9810	U+3362	㍢
+9811	U+3363	㍣
+9812	U+3364	㍤
+9813	U+3365	㍥
+9814	U+3366	㍦
+9815	U+3367	㍧
+9816	U+3368	㍨
+9817	U+3369	㍩
+9818	U+336A	㍪
+9819	U+336B	㍫
+9820	U+336C	㍬
+9821	U+336D	㍭
+9822	U+336E	㍮
+9823	U+336F	㍯
+9824	U+3370	㍰
+9825	unassigned
+9826	unassigned
+9827	unassigned
+9828	unassigned
+9829	unassigned
+9830	unassigned
+9831	unassigned
+9832	unassigned
+9833	unassigned
+9834	unassigned
+9835	unassigned
+9836	unassigned
+9837	unassigned
+9838	unassigned
+9839	unassigned
+9840	unassigned
+9841	unassigned
+9842	unassigned
+9843	unassigned
+9844	unassigned
+9845	unassigned
+9846	unassigned
+9847	unassigned
+9848	unassigned
+9849	unassigned
+9850	unassigned
+9851	unassigned
+9852	unassigned
+9853	unassigned
+9854	unassigned
+9855	unassigned
+9856	unassigned
+9857	unassigned
+9858	unassigned
+9859	unassigned
+9860	unassigned
+9861	unassigned
+9862	unassigned
+9863	unassigned
+9864	unassigned
+9865	unassigned
+9866	unassigned
+9867	unassigned
+9868	unassigned
+9869	unassigned
+9870	unassigned
+9871	unassigned
+9872	unassigned
+9873	unassigned
+9874	<span class="s2">U+FF21	Ａ</span>
+9875	<span class="s2">U+FF22	Ｂ</span>
+9876	<span class="s2">U+FF23	Ｃ</span>
+9877	<span class="s2">U+FF24	Ｄ</span>
+9878	<span class="s2">U+FF25	Ｅ</span>
+9879	<span class="s2">U+FF26	Ｆ</span>
+9880	<span class="s2">U+FF27	Ｇ</span>
+9881	<span class="s2">U+FF28	Ｈ</span>
+9882	<span class="s2">U+FF29	Ｉ</span>
+9883	<span class="s2">U+FF2A	Ｊ</span>
+9884	<span class="s2">U+FF2B	Ｋ</span>
+9885	<span class="s2">U+FF2C	Ｌ</span>
+9886	<span class="s2">U+FF2D	Ｍ</span>
+9887	<span class="s2">U+FF2E	Ｎ</span>
+9888	<span class="s2">U+FF2F	Ｏ</span>
+9889	<span class="s2">U+FF30	Ｐ</span>
+9890	<span class="s2">U+FF31	Ｑ</span>
+9891	<span class="s2">U+FF32	Ｒ</span>
+9892	<span class="s2">U+FF33	Ｓ</span>
+9893	<span class="s2">U+FF34	Ｔ</span>
+9894	<span class="s2">U+FF35	Ｕ</span>
+9895	<span class="s2">U+FF36	Ｖ</span>
+9896	<span class="s2">U+FF37	Ｗ</span>
+9897	<span class="s2">U+FF38	Ｘ</span>
+9898	<span class="s2">U+FF39	Ｙ</span>
+9899	<span class="s2">U+FF3A	Ｚ</span>
+<a id="s99"></a>
+9900	unassigned
+9901	U+33E0	㏠
+9902	U+33E1	㏡
+9903	U+33E2	㏢
+9904	U+33E3	㏣
+9905	U+33E4	㏤
+9906	U+33E5	㏥
+9907	U+33E6	㏦
+9908	U+33E7	㏧
+9909	U+33E8	㏨
+9910	U+33E9	㏩
+9911	U+33EA	㏪
+9912	U+33EB	㏫
+9913	U+33EC	㏬
+9914	U+33ED	㏭
+9915	U+33EE	㏮
+9916	U+33EF	㏯
+9917	U+33F0	㏰
+9918	U+33F1	㏱
+9919	U+33F2	㏲
+9920	U+33F3	㏳
+9921	U+33F4	㏴
+9922	U+33F5	㏵
+9923	U+33F6	㏶
+9924	U+33F7	㏷
+9925	U+33F8	㏸
+9926	U+33F9	㏹
+9927	U+33FA	㏺
+9928	U+33FB	㏻
+9929	U+33FC	㏼
+9930	U+33FD	㏽
+9931	U+33FE	㏾
+9932	unassigned
+9933	unassigned
+9934	unassigned
+9935	unassigned
+9936	unassigned
+9937	unassigned
+9938	unassigned
+9939	unassigned
+9940	unassigned
+9941	unassigned
+9942	unassigned
+9943	unassigned
+9944	unassigned
+9945	unassigned
+9946	unassigned
+9947	unassigned
+9948	unassigned
+9949	unassigned
+9950	unassigned
+9951	unassigned
+9952	unassigned
+9953	unassigned
+9954	unassigned
+9955	unassigned
+9956	unassigned
+9957	unassigned
+9958	unassigned
+9959	unassigned
+9960	<span class="s1">U+FF10	０</span>
+9961	<span class="s1">U+FF11	１</span>
+9962	<span class="s1">U+FF12	２</span>
+9963	<span class="s1">U+FF13	３</span>
+9964	<span class="s1">U+FF14	４</span>
+9965	<span class="s1">U+FF15	５</span>
+9966	<span class="s1">U+FF16	６</span>
+9967	<span class="s1">U+FF17	７</span>
+9968	<span class="s1">U+FF18	８</span>
+9969	<span class="s1">U+FF19	９</span>
+9970	<span class="s1">U+FF0F	／</span>
+9971	<span class="s1">U+FF0B	＋</span>
+9972	<span class="s1">U+FF0D	－</span>
+9973	<span class="s1">U+00D7	×</span>
+9974	<span class="s1">U+00F7	÷</span>
+9975	U+3002	。
+9976	U+FF0C	，
+9977	U+3001	、
+9978	U+2027	‧
+9979	U+FF1B	；
+9980	U+FF1A	：
+9981	U+FF1F	？
+9982	U+FF01	！
+9983	U+FF1D	＝
+9984	U+FE42	﹂
+9985	U+FE41	﹁
+9986	U+FE44	﹄
+9987	U+FE43	﹃
+9988	U+FF08	（
+9989	U+FF09	）
+9990	U+2014	—
+9991	U+2026	…
+9992	U+FF0E	．
+9993	U+FF0E	．
+9994	U+FF3F	＿(底線用於開始)
+9995	U+FF3F	＿(底線用於結束)
+9996	U+300A	《
+9997	U+300B	》
+9998	U+3000	　(空格)
+9999	U+3037	〷 (換行符號)
