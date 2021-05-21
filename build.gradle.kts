@@ -62,7 +62,6 @@ tasks {
 
 jarbird {
     mavenCentral()
-
 }
 
 dependencies {

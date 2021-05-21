@@ -1,0 +1,27 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JSCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+      <option name="BLACKLIST_IMPORTS" value="rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**,react-native-web/**/*" />
+    </JSCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <codeStyleSettings language="Markdown">
+      <option name="RIGHT_MARGIN" value="80" />
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CALL_PARAMETERS_WRAP" value="5" />
+      <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+      <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+      <option name="METHOD_PARAMETERS_WRAP" value="5" />
+      <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+      <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+      <option name="EXTENDS_LIST_WRAP" value="1" />
+      <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+      <option name="ASSIGNMENT_WRAP" value="1" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
